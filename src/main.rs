@@ -21,15 +21,16 @@ impl<T: PartialEq + Copy + std::fmt::Debug> RedundantVar<T> {
         self.second = value;
     }
 
-    fn get(&self) -> Result<T, String> {
-        if self.first != self.second {
-            Err(format!(
-                "Incongruenza rilevata! first: {:?}, second: {:?}",
-                self.first, self.second
-            ))
+    fn get(&self) -> T {
+        if self.is_valid() {
+            self.first
         } else {
-            Ok(self.first)
+            panic!("Fault detected: values are not congruent!");
         }
+    }
+
+    fn is_valid(&self) -> bool {
+        self.first == self.second
     }
 }
 
@@ -37,25 +38,14 @@ fn main() {
 
     let mut a = RedundantVar::new(3);
 
-    // Gestisci l'output di get in modo più elegante
-    match a.get() {
-        Ok(value) => println!("Il valore è: {:?}", value),
-        Err(err) => println!("Errore: {}", err),
-    }
     a.set(5);
-
-    match a.get() {
-        Ok(value) => println!("Il valore è: {:?}", value),
-        Err(err) => println!("Errore: {}", err),
-    }
-
+   
     // Modifica direttamente il campo `first`
     a.first = 7;
-    // Gestisci l'output di get
-    match a.get() {
-        Ok(value) => println!("Il valore è: {:?}", value),
-        Err(err) => println!("Errore: {}", err),
 
-    }
+    a.get();  // causa un panic correttamente
+
+
 
 }
+
