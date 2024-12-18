@@ -1,0 +1,3 @@
+CPU time with redundancy: 25.7µs
+CPU time without redundancy: 21.7µs
+CPU time overhead: 4µs

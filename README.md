@@ -13,7 +13,7 @@
 
 ## REQUISITI
 - [x] Sistema ciclico di iniezione (lancio programma -  lancio iniezione - esito - aggiornamento dei dati)
-- [ ] Stima in termini di overhead (memoria e CPU time)
+- [x] Stima in termini di overhead (memoria e CPU time)
 
 ## DA SISTEMARE
 - [ ] integrare is_valid in get (TRATTO)
