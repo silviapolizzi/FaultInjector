@@ -5,3 +5,7 @@ edition = "2021"
 
 [dependencies]
 rand = "0.8"
+
+[lib]
+name = "my_library"
+path = "src/lib.rs"
