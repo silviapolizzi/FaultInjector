@@ -4,7 +4,7 @@ pub struct Redundant<T: Copy + PartialEq> {
     pub duplicate: T,
 }
 
-impl<T: Copy + PartialEq> Redundant<T> {
+impl<T: Copy + PartialEq + std::fmt::Debug> Redundant<T> {
     pub fn new(value: T) -> Self {
         Self {
             value,
@@ -12,11 +12,25 @@ impl<T: Copy + PartialEq> Redundant<T> {
         }
     }
 
-    pub fn is_valid(&self) -> bool {
+    fn is_valid(&self) -> bool {
         self.value == self.duplicate
     }
 
-    pub fn get(&self) -> T {
-        self.value
+    pub fn get(&self) -> Result<T, String> {
+        if self.is_valid() {
+            Ok(self.value)
+        } else {
+            println!("Variable is invalid: value = {:?}, duplicate = {:?}", self.value, self.duplicate);
+            Err(format!(
+                "Variable is invalid: value = {:?}, duplicate = {:?}",
+                self.value, self.duplicate
+            ))
+        }
+    }
+
+
+    pub fn set(&mut self, new_value: T) {
+        self.value = new_value;
+        self.duplicate = new_value;
     }
 }

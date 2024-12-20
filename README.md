@@ -16,9 +16,11 @@
 - [x] Stima in termini di overhead (memoria e CPU time)
 
 ## DA SISTEMARE
-- [ ] integrare is_valid in get (TRATTO)
-- [ ] sarebbe meglio se all'interno del bubble sort non venisse richiamato l'analyzer, ma magari piuttosto, che quando resituisce false, richiama l'analizer e la funzione log_fault()
-- [ ] sempre per rendere il bubble sort independente dal resto del codice, sarebbe meglio che quando fa il get delle variabili, in qualche modo che non ho idea, si interrompese il bubble sort come fa adesso e ritornasse false (non sono sicura si possa fare)
+- [x] integrare is_valid in get (TRATTO)
+- [x] sarebbe meglio se all'interno del bubble sort non venisse richiamato l'analyzer, ma magari piuttosto, che quando resituisce false, richiama l'analizer e la funzione log_fault()
+- [x] sempre per rendere il bubble sort independente dal resto del codice, sarebbe meglio che quando fa il get delle variabili, in qualche modo che non ho idea, si interrompese il bubble sort come fa adesso e ritornasse false 
+- [ ] check che gli improvements sopra non abbiano variato la logica del programma
+- [ ] sistemare il modulo bubble sort per renderlo unico
 
 *IN AGGIORNAMENTO*
 

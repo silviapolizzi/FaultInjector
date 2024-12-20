@@ -48,7 +48,7 @@ pub fn measure_memory_overhead() -> String {
 pub fn measure_cpu_time_overhead() -> String {
     let num_elements = 50;
     let mut redundant_array = generate_random_array(num_elements);
-    let mut non_redundant_array: Vec<i32> = redundant_array.iter().map(|x| x.get()).collect();
+    let mut non_redundant_array: Vec<i32> = redundant_array.iter().map(|x| x.get().unwrap()).collect();
 
     let start_redundant = Instant::now();
     simple_bubble_sort(&mut redundant_array);
@@ -71,7 +71,7 @@ pub fn measure_cpu_time_overhead() -> String {
 
 fn main() {
     let num_elements = 50; // Numero di elementi nell'array
-    let faults = generate_faults(num_elements, 1000); // Genera un elenco di fault
+    let faults = generate_faults(num_elements, 100); // Genera un elenco di fault
     let analyzer = Arc::new(Mutex::new(Analyzer::new())); // Crea un analizzatore condiviso
 
     // Measure memory overhead
@@ -100,14 +100,16 @@ fn main() {
         });
 
         // Bubble sort
-        let sort_analyzer = Arc::clone(&analyzer);
+        // let sort_analyzer = Arc::clone(&analyzer);
         let bubble_sort_array = Arc::clone(&shared_array);
         
         // Aspetta che il fault injector inizi
         start_barrier.wait();
         
         // Esegui il bubble sort sull'array condiviso
-        let sorting_success = bubble_sort(&mut bubble_sort_array.lock().unwrap(), &sort_analyzer);
+        let result = bubble_sort(&mut bubble_sort_array.lock().unwrap());
+
+
 
         // Verifica risultato finale
         let correct_sort = bubble_sort_array
@@ -126,12 +128,22 @@ fn main() {
         injector_thread.join().unwrap();
 
         // Registra i risultati in base al successo del sorting e alla correttezza
-        if sorting_success {
+        // if sorting_success {
+        //     if correct_sort {
+        //         analyzer_lock.log_result(true); // Esecuzione corretta
+        //     } else {
+        //         analyzer_lock.log_result(false); // Esecuzione errata
+        //     }
+        // }
+        if result.is_ok() {
             if correct_sort {
                 analyzer_lock.log_result(true); // Esecuzione corretta
             } else {
                 analyzer_lock.log_result(false); // Esecuzione errata
             }
+        } else {
+            println!("Analyzer: {}", result.unwrap_err());
+            analyzer_lock.log_fault(); // Fault durante il sorting
         }
     }
 

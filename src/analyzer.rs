@@ -18,6 +18,7 @@ impl Analyzer {
 
     pub fn log_fault(&mut self) {
         self.fault_count += 1;
+        println!("Fault detected!");
     }
 
     pub fn log_result(&mut self, correct: bool) {
