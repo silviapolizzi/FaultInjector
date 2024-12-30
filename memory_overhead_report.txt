@@ -1,6 +1,7 @@
+Number of elements: 100
 Size of Redundant<i32>: 8 bytes
 Size of i32: 4 bytes
 Memory overhead per element: 4 bytes
-Total memory with redundancy: 400 bytes
-Total memory without redundancy: 200 bytes
-Total memory overhead: 200 bytes
+Total memory with redundancy: 800 bytes
+Total memory without redundancy: 400 bytes
+Total memory overhead: 400 bytes

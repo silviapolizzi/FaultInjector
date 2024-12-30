@@ -1,0 +1,4 @@
+num_elements= 100
+num_faults= 1000
+max_bit_to_flip= 8
+fault_injection_time= 50

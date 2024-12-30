@@ -1,0 +1,3042 @@
+16:37:37 [INFO] Fault injection: 
+16:37:37 [INFO] Injected fault: Flipping bit 6 of second value(current value: 65, previous: 1).
+16:37:37 [INFO] variable at index 19 affected, bit 6 flipped.
+16:37:37 [INFO] Fault injection: 
+16:37:37 [INFO] Injected fault: Flipping bit 4 of second value(current value: 18, previous: 2).
+16:37:37 [INFO] variable at index 23 affected, bit 4 flipped.
+16:37:37 [INFO] Fault injection: 
+16:37:37 [INFO] Injected fault: Flipping bit 0 of second value(current value: 7, previous: 6).
+16:37:37 [INFO] variable at index 65 affected, bit 0 flipped.
+16:37:37 [INFO] Fault injection: 
+16:37:37 [INFO] Injected fault: Flipping bit 2 of second value(current value: 4, previous: 0).
+16:37:37 [INFO] variable at index 12 affected, bit 2 flipped.
+16:37:37 [INFO] Fault injection: 
+16:37:37 [INFO] Injected fault: Flipping bit 3 of second value(current value: 11, previous: 3).
+16:37:37 [INFO] variable at index 38 affected, bit 3 flipped.
+16:37:37 [INFO] Fault injection: 
+16:37:37 [INFO] Injected fault: Flipping bit 0 of second value(current value: 1, previous: 0).
+16:37:37 [INFO] variable at index 7 affected, bit 0 flipped.
+16:37:37 [INFO] Fault injection: 
+16:37:37 [INFO] Injected fault: Flipping bit 1 of second value(current value: 4, previous: 6).
+16:37:37 [INFO] variable at index 62 affected, bit 1 flipped.
+16:37:37 [INFO] Fault injection: 
+16:37:37 [INFO] Injected fault: Flipping bit 3 of second value(current value: 12, previous: 4).
+16:37:37 [INFO] variable at index 40 affected, bit 3 flipped.
+16:37:37 [INFO] Fault injection: 
+16:37:37 [INFO] Injected fault: Flipping bit 2 of second value(current value: 12, previous: 8).
+16:37:37 [INFO] variable at index 91 affected, bit 2 flipped.
+16:37:37 [INFO] Fault injection: 
+16:37:37 [INFO] Injected fault: Flipping bit 4 of second value(current value: 16, previous: 0).
+16:37:37 [INFO] variable at index 8 affected, bit 4 flipped.
+16:37:37 [INFO] Fault injection: 
+16:37:37 [INFO] Injected fault: Flipping bit 6 of second value(current value: 73, previous: 9).
+16:37:37 [INFO] variable at index 92 affected, bit 6 flipped.
+16:37:37 [INFO] Fault injection: 
+16:37:37 [INFO] Injected fault: Flipping bit 4 of second value(current value: 23, previous: 7).
+16:37:37 [INFO] variable at index 63 affected, bit 4 flipped.
+16:37:37 [INFO] Fault injection: 
+16:37:37 [INFO] Injected fault: Flipping bit 1 of second value(current value: 10, previous: 8).
+16:37:37 [INFO] variable at index 90 affected, bit 1 flipped.
+16:37:37 [INFO] Fault injection: 
+16:37:37 [INFO] Injected fault: Flipping bit 1 of second value(current value: 10, previous: 8).
+16:37:37 [INFO] variable at index 88 affected, bit 1 flipped.
+16:37:37 [INFO] Fault injection: 
+16:37:37 [INFO] Injected fault: Flipping bit 2 of second value(current value: 5, previous: 1).
+16:37:37 [INFO] variable at index 18 affected, bit 2 flipped.
+16:37:37 [INFO] Fault injection: 
+16:37:37 [INFO] Injected fault: Flipping bit 2 of second value(current value: 5, previous: 1).
+16:37:37 [INFO] variable at index 20 affected, bit 2 flipped.
+16:37:37 [INFO] Fault injection: 
+16:37:37 [INFO] Injected fault: Flipping bit 6 of second value(current value: 73, previous: 9).
+16:37:37 [INFO] variable at index 97 affected, bit 6 flipped.
+16:37:37 [INFO] Fault injection: 
+16:37:37 [INFO] Injected fault: Flipping bit 7 of second value(current value: 130, previous: 2).
+16:37:37 [INFO] variable at index 30 affected, bit 7 flipped.
+16:37:37 [INFO] Fault injection: 
+16:37:37 [INFO] Injected fault: Flipping bit 7 of second value(current value: 133, previous: 5).
+16:37:37 [INFO] variable at index 45 affected, bit 7 flipped.
+16:37:37 [INFO] Fault injection: 
+16:37:37 [INFO] Injected fault: Flipping bit 6 of second value(current value: 67, previous: 3).
+16:37:37 [INFO] variable at index 38 affected, bit 6 flipped.
+16:37:37 [INFO] Fault injection: 
+16:37:37 [INFO] Injected fault: Flipping bit 1 of second value(current value: 7, previous: 5).
+16:37:37 [INFO] variable at index 60 affected, bit 1 flipped.
+16:37:37 [INFO] Fault injection: 
+16:37:37 [INFO] Injected fault: Flipping bit 6 of second value(current value: 69, previous: 5).
+16:37:37 [INFO] variable at index 59 affected, bit 6 flipped.
+16:37:37 [INFO] Fault injection: 
+16:37:37 [INFO] Injected fault: Flipping bit 7 of second value(current value: 135, previous: 7).
+16:37:37 [INFO] variable at index 67 affected, bit 7 flipped.
+16:37:37 [INFO] Fault injection: 
+16:37:37 [INFO] Injected fault: Flipping bit 1 of second value(current value: 2, previous: 0).
+16:37:37 [INFO] variable at index 1 affected, bit 1 flipped.
+16:37:37 [INFO] Fault injection: 
+16:37:37 [INFO] Injected fault: Flipping bit 4 of second value(current value: 21, previous: 5).
+16:37:37 [INFO] variable at index 45 affected, bit 4 flipped.
+16:37:37 [INFO] Fault injection: 
+16:37:37 [INFO] Injected fault: Flipping bit 7 of second value(current value: 137, previous: 9).
+16:37:37 [INFO] variable at index 91 affected, bit 7 flipped.
+16:37:37 [INFO] Fault injection: 
+16:37:37 [INFO] Injected fault: Flipping bit 3 of second value(current value: 1, previous: 9).
+16:37:37 [INFO] variable at index 91 affected, bit 3 flipped.
+16:37:37 [INFO] Fault injection: 
+16:37:37 [INFO] Injected fault: Flipping bit 1 of second value(current value: 3, previous: 1).
+16:37:37 [INFO] variable at index 17 affected, bit 1 flipped.
+16:37:37 [INFO] Fault injection: 
+16:37:37 [INFO] Injected fault: Flipping bit 3 of second value(current value: 8, previous: 0).
+16:37:37 [INFO] variable at index 0 affected, bit 3 flipped.
+16:37:37 [INFO] Fault injection: 
+16:37:37 [INFO] Injected fault: Flipping bit 6 of second value(current value: 72, previous: 8).
+16:37:37 [INFO] variable at index 79 affected, bit 6 flipped.
+16:37:37 [INFO] Analyzer: Variable is invalid: first = 72, second = 8
+16:37:37 [INFO] Fault detected!
+16:37:37 [INFO] Fault injection: 
+16:37:37 [INFO] Injected fault: Flipping bit 3 of second value(current value: 8, previous: 0).
+16:37:37 [INFO] variable at index 8 affected, bit 3 flipped.
+16:37:37 [INFO] Fault injection: 
+16:37:37 [INFO] Injected fault: Flipping bit 1 of second value(current value: 2, previous: 0).
+16:37:37 [INFO] variable at index 5 affected, bit 1 flipped.
+16:37:37 [INFO] Fault injection: 
+16:37:37 [INFO] Injected fault: Flipping bit 6 of second value(current value: 68, previous: 4).
+16:37:37 [INFO] variable at index 45 affected, bit 6 flipped.
+16:37:37 [INFO] Fault injection: 
+16:37:37 [INFO] Injected fault: Flipping bit 6 of second value(current value: 69, previous: 5).
+16:37:37 [INFO] variable at index 66 affected, bit 6 flipped.
+16:37:37 [INFO] Fault injection: 
+16:37:37 [INFO] Injected fault: Flipping bit 2 of second value(current value: 3, previous: 7).
+16:37:37 [INFO] variable at index 71 affected, bit 2 flipped.
+16:37:38 [INFO] Fault injection: 
+16:37:38 [INFO] Injected fault: Flipping bit 1 of second value(current value: 2, previous: 0).
+16:37:38 [INFO] variable at index 5 affected, bit 1 flipped.
+16:37:38 [INFO] Fault injection: 
+16:37:38 [INFO] Injected fault: Flipping bit 4 of second value(current value: 25, previous: 9).
+16:37:38 [INFO] variable at index 91 affected, bit 4 flipped.
+16:37:38 [INFO] Fault injection: 
+16:37:38 [INFO] Injected fault: Flipping bit 7 of second value(current value: 132, previous: 4).
+16:37:38 [INFO] variable at index 44 affected, bit 7 flipped.
+16:37:38 [INFO] Fault injection: 
+16:37:38 [INFO] Injected fault: Flipping bit 0 of second value(current value: 1, previous: 0).
+16:37:38 [INFO] variable at index 6 affected, bit 0 flipped.
+16:37:38 [INFO] Fault injection: 
+16:37:38 [INFO] Injected fault: Flipping bit 1 of second value(current value: 7, previous: 5).
+16:37:38 [INFO] variable at index 57 affected, bit 1 flipped.
+16:37:38 [INFO] Fault injection: 
+16:37:38 [INFO] Injected fault: Flipping bit 4 of second value(current value: 24, previous: 8).
+16:37:38 [INFO] variable at index 77 affected, bit 4 flipped.
+16:37:38 [INFO] Fault injection: 
+16:37:38 [INFO] Injected fault: Flipping bit 7 of second value(current value: 133, previous: 5).
+16:37:38 [INFO] variable at index 51 affected, bit 7 flipped.
+16:37:38 [INFO] Fault injection: 
+16:37:38 [INFO] Injected fault: Flipping bit 5 of second value(current value: 34, previous: 2).
+16:37:38 [INFO] variable at index 25 affected, bit 5 flipped.
+16:37:38 [INFO] Fault injection: 
+16:37:38 [INFO] Injected fault: Flipping bit 4 of second value(current value: 19, previous: 3).
+16:37:38 [INFO] variable at index 23 affected, bit 4 flipped.
+16:37:38 [INFO] Fault injection: 
+16:37:38 [INFO] Injected fault: Flipping bit 0 of second value(current value: 9, previous: 8).
+16:37:38 [INFO] variable at index 80 affected, bit 0 flipped.
+16:37:38 [INFO] Fault injection: 
+16:37:38 [INFO] Injected fault: Flipping bit 1 of second value(current value: 3, previous: 1).
+16:37:38 [INFO] variable at index 20 affected, bit 1 flipped.
+16:37:38 [INFO] Fault injection: 
+16:37:38 [INFO] Injected fault: Flipping bit 2 of second value(current value: 0, previous: 4).
+16:37:38 [INFO] variable at index 51 affected, bit 2 flipped.
+16:37:38 [INFO] Fault injection: 
+16:37:38 [INFO] Injected fault: Flipping bit 0 of second value(current value: 2, previous: 3).
+16:37:38 [INFO] variable at index 37 affected, bit 0 flipped.
+16:37:38 [INFO] Fault injection: 
+16:37:38 [INFO] Injected fault: Flipping bit 7 of second value(current value: 136, previous: 8).
+16:37:38 [INFO] variable at index 83 affected, bit 7 flipped.
+16:37:38 [INFO] Fault injection: 
+16:37:38 [INFO] Injected fault: Flipping bit 7 of second value(current value: 128, previous: 0).
+16:37:38 [INFO] variable at index 2 affected, bit 7 flipped.
+16:37:38 [INFO] Fault injection: 
+16:37:38 [INFO] Injected fault: Flipping bit 7 of second value(current value: 131, previous: 3).
+16:37:38 [INFO] variable at index 36 affected, bit 7 flipped.
+16:37:38 [INFO] Fault injection: 
+16:37:38 [INFO] Injected fault: Flipping bit 1 of second value(current value: 4, previous: 6).
+16:37:38 [INFO] variable at index 62 affected, bit 1 flipped.
+16:37:38 [INFO] Fault injection: 
+16:37:38 [INFO] Injected fault: Flipping bit 2 of second value(current value: 5, previous: 1).
+16:37:38 [INFO] variable at index 14 affected, bit 2 flipped.
+16:37:38 [INFO] Fault injection: 
+16:37:38 [INFO] Injected fault: Flipping bit 1 of second value(current value: 11, previous: 9).
+16:37:38 [INFO] variable at index 90 affected, bit 1 flipped.
+16:37:38 [INFO] Fault injection: 
+16:37:38 [INFO] Injected fault: Flipping bit 6 of second value(current value: 73, previous: 9).
+16:37:38 [INFO] variable at index 91 affected, bit 6 flipped.
+16:37:38 [INFO] Fault injection: 
+16:37:38 [INFO] Injected fault: Flipping bit 4 of second value(current value: 19, previous: 3).
+16:37:38 [INFO] variable at index 30 affected, bit 4 flipped.
+16:37:38 [INFO] Fault injection: 
+16:37:38 [INFO] Injected fault: Flipping bit 5 of second value(current value: 39, previous: 7).
+16:37:38 [INFO] variable at index 79 affected, bit 5 flipped.
+16:37:38 [INFO] Fault injection: 
+16:37:38 [INFO] Injected fault: Flipping bit 0 of second value(current value: 5, previous: 4).
+16:37:38 [INFO] variable at index 52 affected, bit 0 flipped.
+16:37:38 [INFO] Fault injection: 
+16:37:38 [INFO] Injected fault: Flipping bit 7 of second value(current value: 132, previous: 4).
+16:37:38 [INFO] variable at index 45 affected, bit 7 flipped.
+16:37:38 [INFO] Fault injection: 
+16:37:38 [INFO] Injected fault: Flipping bit 4 of second value(current value: 23, previous: 7).
+16:37:38 [INFO] variable at index 72 affected, bit 4 flipped.
+16:37:38 [INFO] Fault injection: 
+16:37:38 [INFO] Injected fault: Flipping bit 7 of second value(current value: 137, previous: 9).
+16:37:38 [INFO] variable at index 98 affected, bit 7 flipped.
+16:37:38 [INFO] Fault injection: 
+16:37:38 [INFO] Injected fault: Flipping bit 2 of second value(current value: 12, previous: 8).
+16:37:38 [INFO] variable at index 81 affected, bit 2 flipped.
+16:37:38 [INFO] Fault injection: 
+16:37:38 [INFO] Injected fault: Flipping bit 0 of second value(current value: 1, previous: 0).
+16:37:38 [INFO] variable at index 9 affected, bit 0 flipped.
+16:37:38 [INFO] Fault injection: 
+16:37:38 [INFO] Injected fault: Flipping bit 7 of second value(current value: 135, previous: 7).
+16:37:38 [INFO] variable at index 70 affected, bit 7 flipped.
+16:37:38 [INFO] Fault injection: 
+16:37:38 [INFO] Injected fault: Flipping bit 0 of second value(current value: 6, previous: 7).
+16:37:38 [INFO] variable at index 66 affected, bit 0 flipped.
+16:37:38 [INFO] Fault injection: 
+16:37:38 [INFO] Injected fault: Flipping bit 3 of second value(current value: 10, previous: 2).
+16:37:38 [INFO] variable at index 33 affected, bit 3 flipped.
+16:37:38 [INFO] Fault injection: 
+16:37:38 [INFO] Injected fault: Flipping bit 5 of second value(current value: 36, previous: 4).
+16:37:38 [INFO] variable at index 52 affected, bit 5 flipped.
+16:37:38 [INFO] Fault injection: 
+16:37:38 [INFO] Injected fault: Flipping bit 7 of second value(current value: 137, previous: 9).
+16:37:38 [INFO] variable at index 97 affected, bit 7 flipped.
+16:37:38 [INFO] Fault injection: 
+16:37:38 [INFO] Injected fault: Flipping bit 7 of second value(current value: 137, previous: 9).
+16:37:38 [INFO] variable at index 97 affected, bit 7 flipped.
+16:37:38 [INFO] Fault injection: 
+16:37:38 [INFO] Injected fault: Flipping bit 5 of second value(current value: 36, previous: 4).
+16:37:38 [INFO] variable at index 43 affected, bit 5 flipped.
+16:37:38 [INFO] Fault injection: 
+16:37:38 [INFO] Injected fault: Flipping bit 7 of second value(current value: 136, previous: 8).
+16:37:38 [INFO] variable at index 84 affected, bit 7 flipped.
+16:37:38 [INFO] Fault injection: 
+16:37:38 [INFO] Injected fault: Flipping bit 3 of second value(current value: 12, previous: 4).
+16:37:38 [INFO] variable at index 55 affected, bit 3 flipped.
+16:37:38 [INFO] Fault injection: 
+16:37:38 [INFO] Injected fault: Flipping bit 6 of second value(current value: 71, previous: 7).
+16:37:38 [INFO] variable at index 75 affected, bit 6 flipped.
+16:37:38 [INFO] Fault injection: 
+16:37:38 [INFO] Injected fault: Flipping bit 1 of second value(current value: 2, previous: 0).
+16:37:38 [INFO] variable at index 5 affected, bit 1 flipped.
+16:37:38 [INFO] Fault injection: 
+16:37:38 [INFO] Injected fault: Flipping bit 5 of second value(current value: 40, previous: 8).
+16:37:38 [INFO] variable at index 86 affected, bit 5 flipped.
+16:37:38 [INFO] Fault injection: 
+16:37:38 [INFO] Injected fault: Flipping bit 1 of second value(current value: 1, previous: 3).
+16:37:38 [INFO] variable at index 31 affected, bit 1 flipped.
+16:37:39 [INFO] Fault injection: 
+16:37:39 [INFO] Injected fault: Flipping bit 5 of second value(current value: 36, previous: 4).
+16:37:39 [INFO] variable at index 54 affected, bit 5 flipped.
+16:37:39 [INFO] Fault injection: 
+16:37:39 [INFO] Injected fault: Flipping bit 7 of second value(current value: 133, previous: 5).
+16:37:39 [INFO] variable at index 63 affected, bit 7 flipped.
+16:37:39 [INFO] Fault injection: 
+16:37:39 [INFO] Injected fault: Flipping bit 3 of second value(current value: 8, previous: 0).
+16:37:39 [INFO] variable at index 10 affected, bit 3 flipped.
+16:37:39 [INFO] Fault injection: 
+16:37:39 [INFO] Injected fault: Flipping bit 4 of second value(current value: 25, previous: 9).
+16:37:39 [INFO] variable at index 87 affected, bit 4 flipped.
+16:37:39 [INFO] Fault injection: 
+16:37:39 [INFO] Injected fault: Flipping bit 6 of second value(current value: 64, previous: 0).
+16:37:39 [INFO] variable at index 92 affected, bit 6 flipped.
+16:37:39 [INFO] Analyzer: Variable is invalid: first = 64, second = 0
+16:37:39 [INFO] Fault detected!
+16:37:39 [INFO] Fault injection: 
+16:37:39 [INFO] Injected fault: Flipping bit 0 of second value(current value: 3, previous: 2).
+16:37:39 [INFO] variable at index 22 affected, bit 0 flipped.
+16:37:39 [INFO] Fault injection: 
+16:37:39 [INFO] Injected fault: Flipping bit 1 of second value(current value: 1, previous: 3).
+16:37:39 [INFO] variable at index 34 affected, bit 1 flipped.
+16:37:39 [INFO] Fault injection: 
+16:37:39 [INFO] Injected fault: Flipping bit 3 of second value(current value: 11, previous: 3).
+16:37:39 [INFO] variable at index 40 affected, bit 3 flipped.
+16:37:39 [INFO] Fault injection: 
+16:37:39 [INFO] Injected fault: Flipping bit 4 of second value(current value: 16, previous: 0).
+16:37:39 [INFO] variable at index 0 affected, bit 4 flipped.
+16:37:39 [INFO] Fault injection: 
+16:37:39 [INFO] Injected fault: Flipping bit 1 of second value(current value: 11, previous: 9).
+16:37:39 [INFO] variable at index 96 affected, bit 1 flipped.
+16:37:39 [INFO] Fault injection: 
+16:37:39 [INFO] Injected fault: Flipping bit 0 of second value(current value: 3, previous: 2).
+16:37:39 [INFO] variable at index 30 affected, bit 0 flipped.
+16:37:39 [INFO] Fault injection: 
+16:37:39 [INFO] Injected fault: Flipping bit 7 of second value(current value: 130, previous: 2).
+16:37:39 [INFO] variable at index 19 affected, bit 7 flipped.
+16:37:39 [INFO] Fault injection: 
+16:37:39 [INFO] Injected fault: Flipping bit 6 of second value(current value: 66, previous: 2).
+16:37:39 [INFO] variable at index 19 affected, bit 6 flipped.
+16:37:39 [INFO] Fault injection: 
+16:37:39 [INFO] Injected fault: Flipping bit 3 of second value(current value: 14, previous: 6).
+16:37:39 [INFO] variable at index 68 affected, bit 3 flipped.
+16:37:39 [INFO] Fault injection: 
+16:37:39 [INFO] Injected fault: Flipping bit 2 of second value(current value: 3, previous: 7).
+16:37:39 [INFO] variable at index 70 affected, bit 2 flipped.
+16:37:39 [INFO] Fault injection: 
+16:37:39 [INFO] Injected fault: Flipping bit 5 of second value(current value: 38, previous: 6).
+16:37:39 [INFO] variable at index 60 affected, bit 5 flipped.
+16:37:39 [INFO] Fault injection: 
+16:37:39 [INFO] Injected fault: Flipping bit 1 of second value(current value: 3, previous: 1).
+16:37:39 [INFO] variable at index 15 affected, bit 1 flipped.
+16:37:39 [INFO] Fault injection: 
+16:37:39 [INFO] Injected fault: Flipping bit 6 of second value(current value: 65, previous: 1).
+16:37:39 [INFO] variable at index 8 affected, bit 6 flipped.
+16:37:39 [INFO] Fault injection: 
+16:37:39 [INFO] Injected fault: Flipping bit 0 of second value(current value: 1, previous: 0).
+16:37:39 [INFO] variable at index 59 affected, bit 0 flipped.
+16:37:39 [INFO] Analyzer: Variable is invalid: first = 1, second = 0
+16:37:39 [INFO] Fault detected!
+16:37:39 [INFO] Fault injection: 
+16:37:39 [INFO] Injected fault: Flipping bit 2 of second value(current value: 1, previous: 5).
+16:37:39 [INFO] variable at index 61 affected, bit 2 flipped.
+16:37:39 [INFO] Fault injection: 
+16:37:39 [INFO] Injected fault: Flipping bit 1 of second value(current value: 2, previous: 0).
+16:37:39 [INFO] variable at index 2 affected, bit 1 flipped.
+16:37:39 [INFO] Fault injection: 
+16:37:39 [INFO] Injected fault: Flipping bit 3 of second value(current value: 12, previous: 4).
+16:37:39 [INFO] variable at index 43 affected, bit 3 flipped.
+16:37:39 [INFO] Fault injection: 
+16:37:39 [INFO] Injected fault: Flipping bit 0 of second value(current value: 7, previous: 6).
+16:37:39 [INFO] variable at index 49 affected, bit 0 flipped.
+16:37:39 [INFO] Analyzer: Variable is invalid: first = 7, second = 6
+16:37:39 [INFO] Fault detected!
+16:37:39 [INFO] Fault injection: 
+16:37:39 [INFO] Injected fault: Flipping bit 7 of second value(current value: 137, previous: 9).
+16:37:39 [INFO] variable at index 93 affected, bit 7 flipped.
+16:37:39 [INFO] Fault injection: 
+16:37:39 [INFO] Injected fault: Flipping bit 7 of second value(current value: 133, previous: 5).
+16:37:39 [INFO] variable at index 61 affected, bit 7 flipped.
+16:37:39 [INFO] Fault injection: 
+16:37:39 [INFO] Injected fault: Flipping bit 2 of second value(current value: 4, previous: 0).
+16:37:39 [INFO] variable at index 2 affected, bit 2 flipped.
+16:37:39 [INFO] Fault injection: 
+16:37:39 [INFO] Injected fault: Flipping bit 7 of second value(current value: 130, previous: 2).
+16:37:39 [INFO] variable at index 29 affected, bit 7 flipped.
+16:37:39 [INFO] Fault injection: 
+16:37:39 [INFO] Injected fault: Flipping bit 7 of second value(current value: 133, previous: 5).
+16:37:39 [INFO] variable at index 50 affected, bit 7 flipped.
+16:37:39 [INFO] Fault injection: 
+16:37:39 [INFO] Injected fault: Flipping bit 0 of second value(current value: 7, previous: 6).
+16:37:39 [INFO] variable at index 70 affected, bit 0 flipped.
+16:37:39 [INFO] Fault injection: 
+16:37:39 [INFO] Injected fault: Flipping bit 4 of second value(current value: 19, previous: 3).
+16:37:39 [INFO] variable at index 33 affected, bit 4 flipped.
+16:37:39 [INFO] Fault injection: 
+16:37:39 [INFO] Injected fault: Flipping bit 6 of second value(current value: 70, previous: 6).
+16:37:39 [INFO] variable at index 66 affected, bit 6 flipped.
+16:37:39 [INFO] Fault injection: 
+16:37:39 [INFO] Injected fault: Flipping bit 2 of second value(current value: 1, previous: 5).
+16:37:39 [INFO] variable at index 55 affected, bit 2 flipped.
+16:37:39 [INFO] Fault injection: 
+16:37:39 [INFO] Injected fault: Flipping bit 3 of second value(current value: 15, previous: 7).
+16:37:39 [INFO] variable at index 73 affected, bit 3 flipped.
+16:37:39 [INFO] Fault injection: 
+16:37:39 [INFO] Injected fault: Flipping bit 5 of second value(current value: 40, previous: 8).
+16:37:39 [INFO] variable at index 80 affected, bit 5 flipped.
+16:37:39 [INFO] Fault injection: 
+16:37:39 [INFO] Injected fault: Flipping bit 1 of second value(current value: 10, previous: 8).
+16:37:39 [INFO] variable at index 82 affected, bit 1 flipped.
+16:37:39 [INFO] Fault injection: 
+16:37:39 [INFO] Injected fault: Flipping bit 6 of second value(current value: 69, previous: 5).
+16:37:39 [INFO] variable at index 55 affected, bit 6 flipped.
+16:37:39 [INFO] Fault injection: 
+16:37:39 [INFO] Injected fault: Flipping bit 1 of second value(current value: 5, previous: 7).
+16:37:39 [INFO] variable at index 80 affected, bit 1 flipped.
+16:37:39 [INFO] Fault injection: 
+16:37:39 [INFO] Injected fault: Flipping bit 7 of second value(current value: 133, previous: 5).
+16:37:39 [INFO] variable at index 57 affected, bit 7 flipped.
+16:37:39 [INFO] Fault injection: 
+16:37:39 [INFO] Injected fault: Flipping bit 6 of second value(current value: 69, previous: 5).
+16:37:39 [INFO] variable at index 54 affected, bit 6 flipped.
+16:37:39 [INFO] Fault injection: 
+16:37:39 [INFO] Injected fault: Flipping bit 0 of second value(current value: 3, previous: 2).
+16:37:39 [INFO] variable at index 22 affected, bit 0 flipped.
+16:37:39 [INFO] Fault injection: 
+16:37:39 [INFO] Injected fault: Flipping bit 3 of second value(current value: 11, previous: 3).
+16:37:39 [INFO] variable at index 25 affected, bit 3 flipped.
+16:37:40 [INFO] Fault injection: 
+16:37:40 [INFO] Injected fault: Flipping bit 4 of second value(current value: 18, previous: 2).
+16:37:40 [INFO] variable at index 28 affected, bit 4 flipped.
+16:37:40 [INFO] Fault injection: 
+16:37:40 [INFO] Injected fault: Flipping bit 7 of second value(current value: 128, previous: 0).
+16:37:40 [INFO] variable at index 7 affected, bit 7 flipped.
+16:37:40 [INFO] Fault injection: 
+16:37:40 [INFO] Injected fault: Flipping bit 6 of second value(current value: 65, previous: 1).
+16:37:40 [INFO] variable at index 15 affected, bit 6 flipped.
+16:37:40 [INFO] Fault injection: 
+16:37:40 [INFO] Injected fault: Flipping bit 0 of second value(current value: 1, previous: 0).
+16:37:40 [INFO] variable at index 8 affected, bit 0 flipped.
+16:37:40 [INFO] Fault injection: 
+16:37:40 [INFO] Injected fault: Flipping bit 3 of second value(current value: 14, previous: 6).
+16:37:40 [INFO] variable at index 60 affected, bit 3 flipped.
+16:37:40 [INFO] Fault injection: 
+16:37:40 [INFO] Injected fault: Flipping bit 1 of second value(current value: 4, previous: 6).
+16:37:40 [INFO] variable at index 70 affected, bit 1 flipped.
+16:37:40 [INFO] Fault injection: 
+16:37:40 [INFO] Injected fault: Flipping bit 7 of second value(current value: 130, previous: 2).
+16:37:40 [INFO] variable at index 32 affected, bit 7 flipped.
+16:37:40 [INFO] Fault injection: 
+16:37:40 [INFO] Injected fault: Flipping bit 1 of second value(current value: 4, previous: 6).
+16:37:40 [INFO] variable at index 62 affected, bit 1 flipped.
+16:37:40 [INFO] Fault injection: 
+16:37:40 [INFO] Injected fault: Flipping bit 5 of second value(current value: 35, previous: 3).
+16:37:40 [INFO] variable at index 32 affected, bit 5 flipped.
+16:37:40 [INFO] Fault injection: 
+16:37:40 [INFO] Injected fault: Flipping bit 4 of second value(current value: 16, previous: 0).
+16:37:40 [INFO] variable at index 0 affected, bit 4 flipped.
+16:37:40 [INFO] Fault injection: 
+16:37:40 [INFO] Injected fault: Flipping bit 7 of second value(current value: 132, previous: 4).
+16:37:40 [INFO] variable at index 39 affected, bit 7 flipped.
+16:37:40 [INFO] Fault injection: 
+16:37:40 [INFO] Injected fault: Flipping bit 0 of second value(current value: 2, previous: 3).
+16:37:40 [INFO] variable at index 32 affected, bit 0 flipped.
+16:37:40 [INFO] Fault injection: 
+16:37:40 [INFO] Injected fault: Flipping bit 3 of second value(current value: 10, previous: 2).
+16:37:40 [INFO] variable at index 24 affected, bit 3 flipped.
+16:37:40 [INFO] Fault injection: 
+16:37:40 [INFO] Injected fault: Flipping bit 5 of second value(current value: 38, previous: 6).
+16:37:40 [INFO] variable at index 66 affected, bit 5 flipped.
+16:37:40 [INFO] Fault injection: 
+16:37:40 [INFO] Injected fault: Flipping bit 6 of second value(current value: 64, previous: 0).
+16:37:40 [INFO] variable at index 4 affected, bit 6 flipped.
+16:37:40 [INFO] Fault injection: 
+16:37:40 [INFO] Injected fault: Flipping bit 6 of second value(current value: 73, previous: 9).
+16:37:40 [INFO] variable at index 87 affected, bit 6 flipped.
+16:37:40 [INFO] Fault injection: 
+16:37:40 [INFO] Injected fault: Flipping bit 0 of second value(current value: 9, previous: 8).
+16:37:40 [INFO] variable at index 75 affected, bit 0 flipped.
+16:37:40 [INFO] Fault injection: 
+16:37:40 [INFO] Injected fault: Flipping bit 2 of second value(current value: 6, previous: 2).
+16:37:40 [INFO] variable at index 22 affected, bit 2 flipped.
+16:37:40 [INFO] Fault injection: 
+16:37:40 [INFO] Injected fault: Flipping bit 1 of second value(current value: 4, previous: 6).
+16:37:40 [INFO] variable at index 63 affected, bit 1 flipped.
+16:37:40 [INFO] Fault injection: 
+16:37:40 [INFO] Injected fault: Flipping bit 1 of second value(current value: 3, previous: 1).
+16:37:40 [INFO] variable at index 18 affected, bit 1 flipped.
+16:37:40 [INFO] Fault injection: 
+16:37:40 [INFO] Injected fault: Flipping bit 3 of second value(current value: 14, previous: 6).
+16:37:40 [INFO] variable at index 65 affected, bit 3 flipped.
+16:37:40 [INFO] Fault injection: 
+16:37:40 [INFO] Injected fault: Flipping bit 0 of second value(current value: 2, previous: 3).
+16:37:40 [INFO] variable at index 33 affected, bit 0 flipped.
+16:37:40 [INFO] Fault injection: 
+16:37:40 [INFO] Injected fault: Flipping bit 1 of second value(current value: 6, previous: 4).
+16:37:40 [INFO] variable at index 49 affected, bit 1 flipped.
+16:37:40 [INFO] Fault injection: 
+16:37:40 [INFO] Injected fault: Flipping bit 1 of second value(current value: 7, previous: 5).
+16:37:40 [INFO] variable at index 60 affected, bit 1 flipped.
+16:37:40 [INFO] Fault injection: 
+16:37:40 [INFO] Injected fault: Flipping bit 2 of second value(current value: 3, previous: 7).
+16:37:40 [INFO] variable at index 75 affected, bit 2 flipped.
+16:37:40 [INFO] Fault injection: 
+16:37:40 [INFO] Injected fault: Flipping bit 0 of second value(current value: 1, previous: 0).
+16:37:40 [INFO] variable at index 1 affected, bit 0 flipped.
+16:37:40 [INFO] Fault injection: 
+16:37:40 [INFO] Injected fault: Flipping bit 6 of second value(current value: 67, previous: 3).
+16:37:40 [INFO] variable at index 28 affected, bit 6 flipped.
+16:37:40 [INFO] Fault injection: 
+16:37:40 [INFO] Injected fault: Flipping bit 7 of second value(current value: 131, previous: 3).
+16:37:40 [INFO] variable at index 34 affected, bit 7 flipped.
+16:37:40 [INFO] Fault injection: 
+16:37:40 [INFO] Injected fault: Flipping bit 2 of second value(current value: 2, previous: 6).
+16:37:40 [INFO] variable at index 61 affected, bit 2 flipped.
+16:37:40 [INFO] Fault injection: 
+16:37:40 [INFO] Injected fault: Flipping bit 3 of second value(current value: 14, previous: 6).
+16:37:40 [INFO] variable at index 71 affected, bit 3 flipped.
+16:37:40 [INFO] Fault injection: 
+16:37:40 [INFO] Injected fault: Flipping bit 1 of second value(current value: 3, previous: 1).
+16:37:40 [INFO] variable at index 10 affected, bit 1 flipped.
+16:37:40 [INFO] Fault injection: 
+16:37:40 [INFO] Injected fault: Flipping bit 7 of second value(current value: 133, previous: 5).
+16:37:40 [INFO] variable at index 54 affected, bit 7 flipped.
+16:37:40 [INFO] Fault injection: 
+16:37:40 [INFO] Injected fault: Flipping bit 2 of second value(current value: 7, previous: 3).
+16:37:40 [INFO] variable at index 29 affected, bit 2 flipped.
+16:37:40 [INFO] Fault injection: 
+16:37:40 [INFO] Injected fault: Flipping bit 6 of second value(current value: 65, previous: 1).
+16:37:40 [INFO] variable at index 11 affected, bit 6 flipped.
+16:37:40 [INFO] Fault injection: 
+16:37:40 [INFO] Injected fault: Flipping bit 3 of second value(current value: 15, previous: 7).
+16:37:40 [INFO] variable at index 81 affected, bit 3 flipped.
+16:37:40 [INFO] Fault injection: 
+16:37:40 [INFO] Injected fault: Flipping bit 3 of second value(current value: 15, previous: 7).
+16:37:40 [INFO] variable at index 80 affected, bit 3 flipped.
+16:37:40 [INFO] Fault injection: 
+16:37:40 [INFO] Injected fault: Flipping bit 5 of second value(current value: 40, previous: 8).
+16:37:40 [INFO] variable at index 90 affected, bit 5 flipped.
+16:37:40 [INFO] Fault injection: 
+16:37:40 [INFO] Injected fault: Flipping bit 5 of second value(current value: 36, previous: 4).
+16:37:40 [INFO] variable at index 41 affected, bit 5 flipped.
+16:37:40 [INFO] Fault injection: 
+16:37:40 [INFO] Injected fault: Flipping bit 6 of second value(current value: 68, previous: 4).
+16:37:40 [INFO] variable at index 52 affected, bit 6 flipped.
+16:37:40 [INFO] Fault injection: 
+16:37:40 [INFO] Injected fault: Flipping bit 3 of second value(current value: 15, previous: 7).
+16:37:40 [INFO] variable at index 67 affected, bit 3 flipped.
+16:37:40 [INFO] Fault injection: 
+16:37:40 [INFO] Injected fault: Flipping bit 3 of second value(current value: 11, previous: 3).
+16:37:40 [INFO] variable at index 37 affected, bit 3 flipped.
+16:37:40 [INFO] Fault injection: 
+16:37:40 [INFO] Injected fault: Flipping bit 6 of second value(current value: 70, previous: 6).
+16:37:40 [INFO] variable at index 70 affected, bit 6 flipped.
+16:37:40 [INFO] Fault injection: 
+16:37:40 [INFO] Injected fault: Flipping bit 7 of second value(current value: 133, previous: 5).
+16:37:40 [INFO] variable at index 63 affected, bit 7 flipped.
+16:37:40 [INFO] Fault injection: 
+16:37:40 [INFO] Injected fault: Flipping bit 6 of second value(current value: 65, previous: 1).
+16:37:40 [INFO] variable at index 16 affected, bit 6 flipped.
+16:37:40 [INFO] Fault injection: 
+16:37:40 [INFO] Injected fault: Flipping bit 1 of second value(current value: 1, previous: 3).
+16:37:40 [INFO] variable at index 35 affected, bit 1 flipped.
+16:37:41 [INFO] Fault injection: 
+16:37:41 [INFO] Injected fault: Flipping bit 1 of second value(current value: 1, previous: 3).
+16:37:41 [INFO] variable at index 27 affected, bit 1 flipped.
+16:37:41 [INFO] Fault injection: 
+16:37:41 [INFO] Injected fault: Flipping bit 5 of second value(current value: 33, previous: 1).
+16:37:41 [INFO] variable at index 17 affected, bit 5 flipped.
+16:37:41 [INFO] Fault injection: 
+16:37:41 [INFO] Injected fault: Flipping bit 4 of second value(current value: 19, previous: 3).
+16:37:41 [INFO] variable at index 28 affected, bit 4 flipped.
+16:37:41 [INFO] Fault injection: 
+16:37:41 [INFO] Injected fault: Flipping bit 3 of second value(current value: 9, previous: 1).
+16:37:41 [INFO] variable at index 12 affected, bit 3 flipped.
+16:37:41 [INFO] Fault injection: 
+16:37:41 [INFO] Injected fault: Flipping bit 0 of second value(current value: 5, previous: 4).
+16:37:41 [INFO] variable at index 46 affected, bit 0 flipped.
+16:37:41 [INFO] Fault injection: 
+16:37:41 [INFO] Injected fault: Flipping bit 6 of second value(current value: 66, previous: 2).
+16:37:41 [INFO] variable at index 34 affected, bit 6 flipped.
+16:37:41 [INFO] Fault injection: 
+16:37:41 [INFO] Injected fault: Flipping bit 3 of second value(current value: 12, previous: 4).
+16:37:41 [INFO] variable at index 55 affected, bit 3 flipped.
+16:37:41 [INFO] Fault injection: 
+16:37:41 [INFO] Injected fault: Flipping bit 1 of second value(current value: 7, previous: 5).
+16:37:41 [INFO] variable at index 55 affected, bit 1 flipped.
+16:37:41 [INFO] Fault injection: 
+16:37:41 [INFO] Injected fault: Flipping bit 6 of second value(current value: 69, previous: 5).
+16:37:41 [INFO] variable at index 55 affected, bit 6 flipped.
+16:37:41 [INFO] Fault injection: 
+16:37:41 [INFO] Injected fault: Flipping bit 6 of second value(current value: 67, previous: 3).
+16:37:41 [INFO] variable at index 42 affected, bit 6 flipped.
+16:37:41 [INFO] Fault injection: 
+16:37:41 [INFO] Injected fault: Flipping bit 6 of second value(current value: 67, previous: 3).
+16:37:41 [INFO] variable at index 32 affected, bit 6 flipped.
+16:37:41 [INFO] Fault injection: 
+16:37:41 [INFO] Injected fault: Flipping bit 7 of second value(current value: 129, previous: 1).
+16:37:41 [INFO] variable at index 8 affected, bit 7 flipped.
+16:37:41 [INFO] Fault injection: 
+16:37:41 [INFO] Injected fault: Flipping bit 5 of second value(current value: 40, previous: 8).
+16:37:41 [INFO] variable at index 86 affected, bit 5 flipped.
+16:37:41 [INFO] Fault injection: 
+16:37:41 [INFO] Injected fault: Flipping bit 1 of second value(current value: 6, previous: 4).
+16:37:41 [INFO] variable at index 42 affected, bit 1 flipped.
+16:37:41 [INFO] Fault injection: 
+16:37:41 [INFO] Injected fault: Flipping bit 5 of second value(current value: 34, previous: 2).
+16:37:41 [INFO] variable at index 33 affected, bit 5 flipped.
+16:37:41 [INFO] Fault injection: 
+16:37:41 [INFO] Injected fault: Flipping bit 2 of second value(current value: 2, previous: 6).
+16:37:41 [INFO] variable at index 63 affected, bit 2 flipped.
+16:37:41 [INFO] Fault injection: 
+16:37:41 [INFO] Injected fault: Flipping bit 4 of second value(current value: 16, previous: 0).
+16:37:41 [INFO] variable at index 4 affected, bit 4 flipped.
+16:37:41 [INFO] Fault injection: 
+16:37:41 [INFO] Injected fault: Flipping bit 4 of second value(current value: 25, previous: 9).
+16:37:41 [INFO] variable at index 92 affected, bit 4 flipped.
+16:37:41 [INFO] Fault injection: 
+16:37:41 [INFO] Injected fault: Flipping bit 7 of second value(current value: 137, previous: 9).
+16:37:41 [INFO] variable at index 92 affected, bit 7 flipped.
+16:37:41 [INFO] Fault injection: 
+16:37:41 [INFO] Injected fault: Flipping bit 5 of second value(current value: 41, previous: 9).
+16:37:41 [INFO] variable at index 99 affected, bit 5 flipped.
+16:37:41 [INFO] Fault injection: 
+16:37:41 [INFO] Injected fault: Flipping bit 1 of second value(current value: 3, previous: 1).
+16:37:41 [INFO] variable at index 16 affected, bit 1 flipped.
+16:37:41 [INFO] Fault injection: 
+16:37:41 [INFO] Injected fault: Flipping bit 4 of second value(current value: 24, previous: 8).
+16:37:41 [INFO] variable at index 79 affected, bit 4 flipped.
+16:37:41 [INFO] Fault injection: 
+16:37:41 [INFO] Injected fault: Flipping bit 1 of second value(current value: 4, previous: 6).
+16:37:41 [INFO] variable at index 65 affected, bit 1 flipped.
+16:37:41 [INFO] Fault injection: 
+16:37:41 [INFO] Injected fault: Flipping bit 1 of second value(current value: 1, previous: 3).
+16:37:41 [INFO] variable at index 38 affected, bit 1 flipped.
+16:37:41 [INFO] Fault injection: 
+16:37:41 [INFO] Injected fault: Flipping bit 0 of second value(current value: 1, previous: 0).
+16:37:41 [INFO] variable at index 5 affected, bit 0 flipped.
+16:37:41 [INFO] Fault injection: 
+16:37:41 [INFO] Injected fault: Flipping bit 1 of second value(current value: 4, previous: 6).
+16:37:41 [INFO] variable at index 62 affected, bit 1 flipped.
+16:37:41 [INFO] Fault injection: 
+16:37:41 [INFO] Injected fault: Flipping bit 3 of second value(current value: 8, previous: 0).
+16:37:41 [INFO] variable at index 10 affected, bit 3 flipped.
+16:37:41 [INFO] Fault injection: 
+16:37:41 [INFO] Injected fault: Flipping bit 3 of second value(current value: 12, previous: 4).
+16:37:41 [INFO] variable at index 52 affected, bit 3 flipped.
+16:37:41 [INFO] Fault injection: 
+16:37:41 [INFO] Injected fault: Flipping bit 7 of second value(current value: 132, previous: 4).
+16:37:41 [INFO] variable at index 44 affected, bit 7 flipped.
+16:37:41 [INFO] Fault injection: 
+16:37:41 [INFO] Injected fault: Flipping bit 0 of second value(current value: 0, previous: 1).
+16:37:41 [INFO] variable at index 8 affected, bit 0 flipped.
+16:37:41 [INFO] Fault injection: 
+16:37:41 [INFO] Injected fault: Flipping bit 3 of second value(current value: 12, previous: 4).
+16:37:41 [INFO] variable at index 43 affected, bit 3 flipped.
+16:37:41 [INFO] Fault injection: 
+16:37:41 [INFO] Injected fault: Flipping bit 3 of second value(current value: 8, previous: 0).
+16:37:41 [INFO] variable at index 1 affected, bit 3 flipped.
+16:37:41 [INFO] Fault injection: 
+16:37:41 [INFO] Injected fault: Flipping bit 0 of second value(current value: 1, previous: 0).
+16:37:41 [INFO] variable at index 8 affected, bit 0 flipped.
+16:37:41 [INFO] Fault injection: 
+16:37:41 [INFO] Injected fault: Flipping bit 5 of second value(current value: 37, previous: 5).
+16:37:41 [INFO] variable at index 46 affected, bit 5 flipped.
+16:37:41 [INFO] Fault injection: 
+16:37:41 [INFO] Injected fault: Flipping bit 6 of second value(current value: 67, previous: 3).
+16:37:41 [INFO] variable at index 38 affected, bit 6 flipped.
+16:37:41 [INFO] Fault injection: 
+16:37:41 [INFO] Injected fault: Flipping bit 4 of second value(current value: 20, previous: 4).
+16:37:41 [INFO] variable at index 55 affected, bit 4 flipped.
+16:37:41 [INFO] Fault injection: 
+16:37:41 [INFO] Injected fault: Flipping bit 6 of second value(current value: 71, previous: 7).
+16:37:41 [INFO] variable at index 82 affected, bit 6 flipped.
+16:37:42 [INFO] Fault injection: 
+16:37:42 [INFO] Injected fault: Flipping bit 5 of second value(current value: 35, previous: 3).
+16:37:42 [INFO] variable at index 32 affected, bit 5 flipped.
+16:37:42 [INFO] Fault injection: 
+16:37:42 [INFO] Injected fault: Flipping bit 3 of second value(current value: 15, previous: 7).
+16:37:42 [INFO] variable at index 78 affected, bit 3 flipped.
+16:37:42 [INFO] Fault injection: 
+16:37:42 [INFO] Injected fault: Flipping bit 4 of second value(current value: 19, previous: 3).
+16:37:42 [INFO] variable at index 31 affected, bit 4 flipped.
+16:37:42 [INFO] Fault injection: 
+16:37:42 [INFO] Injected fault: Flipping bit 1 of second value(current value: 3, previous: 1).
+16:37:42 [INFO] variable at index 15 affected, bit 1 flipped.
+16:37:42 [INFO] Fault injection: 
+16:37:42 [INFO] Injected fault: Flipping bit 5 of second value(current value: 38, previous: 6).
+16:37:42 [INFO] variable at index 65 affected, bit 5 flipped.
+16:37:42 [INFO] Fault injection: 
+16:37:42 [INFO] Injected fault: Flipping bit 5 of second value(current value: 38, previous: 6).
+16:37:42 [INFO] variable at index 59 affected, bit 5 flipped.
+16:37:42 [INFO] Fault injection: 
+16:37:42 [INFO] Injected fault: Flipping bit 5 of second value(current value: 38, previous: 6).
+16:37:42 [INFO] variable at index 63 affected, bit 5 flipped.
+16:37:42 [INFO] Fault injection: 
+16:37:42 [INFO] Injected fault: Flipping bit 7 of second value(current value: 136, previous: 8).
+16:37:42 [INFO] variable at index 67 affected, bit 7 flipped.
+16:37:42 [INFO] Analyzer: Variable is invalid: first = 136, second = 8
+16:37:42 [INFO] Fault detected!
+16:37:42 [INFO] Fault injection: 
+16:37:42 [INFO] Injected fault: Flipping bit 1 of second value(current value: 0, previous: 2).
+16:37:42 [INFO] variable at index 24 affected, bit 1 flipped.
+16:37:42 [INFO] Fault injection: 
+16:37:42 [INFO] Injected fault: Flipping bit 1 of second value(current value: 1, previous: 3).
+16:37:42 [INFO] variable at index 41 affected, bit 1 flipped.
+16:37:42 [INFO] Fault injection: 
+16:37:42 [INFO] Injected fault: Flipping bit 5 of second value(current value: 41, previous: 9).
+16:37:42 [INFO] variable at index 84 affected, bit 5 flipped.
+16:37:42 [INFO] Fault injection: 
+16:37:42 [INFO] Injected fault: Flipping bit 5 of second value(current value: 36, previous: 4).
+16:37:42 [INFO] variable at index 36 affected, bit 5 flipped.
+16:37:42 [INFO] Analyzer: Variable is invalid: first = 36, second = 4
+16:37:42 [INFO] Fault detected!
+16:37:42 [INFO] Fault injection: 
+16:37:42 [INFO] Injected fault: Flipping bit 7 of second value(current value: 128, previous: 0).
+16:37:42 [INFO] variable at index 5 affected, bit 7 flipped.
+16:37:42 [INFO] Fault injection: 
+16:37:42 [INFO] Injected fault: Flipping bit 0 of second value(current value: 3, previous: 2).
+16:37:42 [INFO] variable at index 27 affected, bit 0 flipped.
+16:37:42 [INFO] Fault injection: 
+16:37:42 [INFO] Injected fault: Flipping bit 5 of second value(current value: 38, previous: 6).
+16:37:42 [INFO] variable at index 63 affected, bit 5 flipped.
+16:37:42 [INFO] Fault injection: 
+16:37:42 [INFO] Injected fault: Flipping bit 1 of second value(current value: 7, previous: 5).
+16:37:42 [INFO] variable at index 58 affected, bit 1 flipped.
+16:37:42 [INFO] Fault injection: 
+16:37:42 [INFO] Injected fault: Flipping bit 3 of second value(current value: 1, previous: 9).
+16:37:42 [INFO] variable at index 95 affected, bit 3 flipped.
+16:37:42 [INFO] Fault injection: 
+16:37:42 [INFO] Injected fault: Flipping bit 1 of second value(current value: 6, previous: 4).
+16:37:42 [INFO] variable at index 60 affected, bit 1 flipped.
+16:37:42 [INFO] Fault injection: 
+16:37:42 [INFO] Injected fault: Flipping bit 5 of second value(current value: 32, previous: 0).
+16:37:42 [INFO] variable at index 3 affected, bit 5 flipped.
+16:37:42 [INFO] Fault injection: 
+16:37:42 [INFO] Injected fault: Flipping bit 3 of second value(current value: 15, previous: 7).
+16:37:42 [INFO] variable at index 74 affected, bit 3 flipped.
+16:37:42 [INFO] Fault injection: 
+16:37:42 [INFO] Injected fault: Flipping bit 7 of second value(current value: 130, previous: 2).
+16:37:42 [INFO] variable at index 22 affected, bit 7 flipped.
+16:37:42 [INFO] Fault injection: 
+16:37:42 [INFO] Injected fault: Flipping bit 5 of second value(current value: 37, previous: 5).
+16:37:42 [INFO] variable at index 57 affected, bit 5 flipped.
+16:37:42 [INFO] Fault injection: 
+16:37:42 [INFO] Injected fault: Flipping bit 4 of second value(current value: 22, previous: 6).
+16:37:42 [INFO] variable at index 71 affected, bit 4 flipped.
+16:37:42 [INFO] Fault injection: 
+16:37:42 [INFO] Injected fault: Flipping bit 4 of second value(current value: 21, previous: 5).
+16:37:42 [INFO] variable at index 52 affected, bit 4 flipped.
+16:37:42 [INFO] Fault injection: 
+16:37:42 [INFO] Injected fault: Flipping bit 4 of second value(current value: 19, previous: 3).
+16:37:42 [INFO] variable at index 41 affected, bit 4 flipped.
+16:37:42 [INFO] Fault injection: 
+16:37:42 [INFO] Injected fault: Flipping bit 5 of second value(current value: 41, previous: 9).
+16:37:42 [INFO] variable at index 93 affected, bit 5 flipped.
+16:37:42 [INFO] Fault injection: 
+16:37:42 [INFO] Injected fault: Flipping bit 1 of second value(current value: 11, previous: 9).
+16:37:42 [INFO] variable at index 90 affected, bit 1 flipped.
+16:37:42 [INFO] Fault injection: 
+16:37:42 [INFO] Injected fault: Flipping bit 2 of second value(current value: 0, previous: 4).
+16:37:42 [INFO] variable at index 40 affected, bit 2 flipped.
+16:37:42 [INFO] Fault injection: 
+16:37:42 [INFO] Injected fault: Flipping bit 7 of second value(current value: 136, previous: 8).
+16:37:42 [INFO] variable at index 83 affected, bit 7 flipped.
+16:37:42 [INFO] Fault injection: 
+16:37:42 [INFO] Injected fault: Flipping bit 7 of second value(current value: 137, previous: 9).
+16:37:42 [INFO] variable at index 92 affected, bit 7 flipped.
+16:37:42 [INFO] Fault injection: 
+16:37:42 [INFO] Injected fault: Flipping bit 1 of second value(current value: 5, previous: 7).
+16:37:42 [INFO] variable at index 82 affected, bit 1 flipped.
+16:37:42 [INFO] Fault injection: 
+16:37:42 [INFO] Injected fault: Flipping bit 7 of second value(current value: 128, previous: 0).
+16:37:42 [INFO] variable at index 4 affected, bit 7 flipped.
+16:37:42 [INFO] Fault injection: 
+16:37:42 [INFO] Injected fault: Flipping bit 4 of second value(current value: 18, previous: 2).
+16:37:42 [INFO] variable at index 28 affected, bit 4 flipped.
+16:37:42 [INFO] Fault injection: 
+16:37:42 [INFO] Injected fault: Flipping bit 5 of second value(current value: 38, previous: 6).
+16:37:42 [INFO] variable at index 65 affected, bit 5 flipped.
+16:37:42 [INFO] Fault injection: 
+16:37:42 [INFO] Injected fault: Flipping bit 6 of second value(current value: 73, previous: 9).
+16:37:42 [INFO] variable at index 96 affected, bit 6 flipped.
+16:37:42 [INFO] Fault injection: 
+16:37:42 [INFO] Injected fault: Flipping bit 2 of second value(current value: 0, previous: 4).
+16:37:42 [INFO] variable at index 38 affected, bit 2 flipped.
+16:37:42 [INFO] Fault injection: 
+16:37:42 [INFO] Injected fault: Flipping bit 4 of second value(current value: 18, previous: 2).
+16:37:42 [INFO] variable at index 34 affected, bit 4 flipped.
+16:37:42 [INFO] Fault injection: 
+16:37:42 [INFO] Injected fault: Flipping bit 4 of second value(current value: 17, previous: 1).
+16:37:42 [INFO] variable at index 19 affected, bit 4 flipped.
+16:37:42 [INFO] Fault injection: 
+16:37:42 [INFO] Injected fault: Flipping bit 0 of second value(current value: 3, previous: 2).
+16:37:42 [INFO] variable at index 25 affected, bit 0 flipped.
+16:37:42 [INFO] Fault injection: 
+16:37:42 [INFO] Injected fault: Flipping bit 3 of second value(current value: 12, previous: 4).
+16:37:42 [INFO] variable at index 38 affected, bit 3 flipped.
+16:37:43 [INFO] Fault injection: 
+16:37:43 [INFO] Injected fault: Flipping bit 0 of second value(current value: 1, previous: 0).
+16:37:43 [INFO] variable at index 6 affected, bit 0 flipped.
+16:37:43 [INFO] Fault injection: 
+16:37:43 [INFO] Injected fault: Flipping bit 0 of second value(current value: 3, previous: 2).
+16:37:43 [INFO] variable at index 34 affected, bit 0 flipped.
+16:37:43 [INFO] Fault injection: 
+16:37:43 [INFO] Injected fault: Flipping bit 0 of second value(current value: 9, previous: 8).
+16:37:43 [INFO] variable at index 80 affected, bit 0 flipped.
+16:37:43 [INFO] Fault injection: 
+16:37:43 [INFO] Injected fault: Flipping bit 2 of second value(current value: 6, previous: 2).
+16:37:43 [INFO] variable at index 29 affected, bit 2 flipped.
+16:37:43 [INFO] Fault injection: 
+16:37:43 [INFO] Injected fault: Flipping bit 5 of second value(current value: 32, previous: 0).
+16:37:43 [INFO] variable at index 5 affected, bit 5 flipped.
+16:37:43 [INFO] Fault injection: 
+16:37:43 [INFO] Injected fault: Flipping bit 6 of second value(current value: 71, previous: 7).
+16:37:43 [INFO] variable at index 73 affected, bit 6 flipped.
+16:37:43 [INFO] Fault injection: 
+16:37:43 [INFO] Injected fault: Flipping bit 7 of second value(current value: 131, previous: 3).
+16:37:43 [INFO] variable at index 34 affected, bit 7 flipped.
+16:37:43 [INFO] Fault injection: 
+16:37:43 [INFO] Injected fault: Flipping bit 0 of second value(current value: 6, previous: 7).
+16:37:43 [INFO] variable at index 70 affected, bit 0 flipped.
+16:37:43 [INFO] Fault injection: 
+16:37:43 [INFO] Injected fault: Flipping bit 5 of second value(current value: 39, previous: 7).
+16:37:43 [INFO] variable at index 66 affected, bit 5 flipped.
+16:37:43 [INFO] Fault injection: 
+16:37:43 [INFO] Injected fault: Flipping bit 6 of second value(current value: 65, previous: 1).
+16:37:43 [INFO] variable at index 22 affected, bit 6 flipped.
+16:37:43 [INFO] Fault injection: 
+16:37:43 [INFO] Injected fault: Flipping bit 4 of second value(current value: 23, previous: 7).
+16:37:43 [INFO] variable at index 68 affected, bit 4 flipped.
+16:37:43 [INFO] Fault injection: 
+16:37:43 [INFO] Injected fault: Flipping bit 2 of second value(current value: 1, previous: 5).
+16:37:43 [INFO] variable at index 58 affected, bit 2 flipped.
+16:37:43 [INFO] Fault injection: 
+16:37:43 [INFO] Injected fault: Flipping bit 4 of second value(current value: 20, previous: 4).
+16:37:43 [INFO] variable at index 46 affected, bit 4 flipped.
+16:37:43 [INFO] Fault injection: 
+16:37:43 [INFO] Injected fault: Flipping bit 1 of second value(current value: 11, previous: 9).
+16:37:43 [INFO] variable at index 99 affected, bit 1 flipped.
+16:37:43 [INFO] Fault injection: 
+16:37:43 [INFO] Injected fault: Flipping bit 4 of second value(current value: 25, previous: 9).
+16:37:43 [INFO] variable at index 88 affected, bit 4 flipped.
+16:37:43 [INFO] Fault injection: 
+16:37:43 [INFO] Injected fault: Flipping bit 5 of second value(current value: 38, previous: 6).
+16:37:43 [INFO] variable at index 66 affected, bit 5 flipped.
+16:37:43 [INFO] Fault injection: 
+16:37:43 [INFO] Injected fault: Flipping bit 1 of second value(current value: 3, previous: 1).
+16:37:43 [INFO] variable at index 15 affected, bit 1 flipped.
+16:37:43 [INFO] Fault injection: 
+16:37:43 [INFO] Injected fault: Flipping bit 3 of second value(current value: 13, previous: 5).
+16:37:43 [INFO] variable at index 63 affected, bit 3 flipped.
+16:37:43 [INFO] Fault injection: 
+16:37:43 [INFO] Injected fault: Flipping bit 7 of second value(current value: 131, previous: 3).
+16:37:43 [INFO] variable at index 32 affected, bit 7 flipped.
+16:37:43 [INFO] Fault injection: 
+16:37:43 [INFO] Injected fault: Flipping bit 7 of second value(current value: 128, previous: 0).
+16:37:43 [INFO] variable at index 0 affected, bit 7 flipped.
+16:37:43 [INFO] Fault injection: 
+16:37:43 [INFO] Injected fault: Flipping bit 2 of second value(current value: 12, previous: 8).
+16:37:43 [INFO] variable at index 83 affected, bit 2 flipped.
+16:37:43 [INFO] Fault injection: 
+16:37:43 [INFO] Injected fault: Flipping bit 2 of second value(current value: 1, previous: 5).
+16:37:43 [INFO] variable at index 51 affected, bit 2 flipped.
+16:37:43 [INFO] Fault injection: 
+16:37:43 [INFO] Injected fault: Flipping bit 2 of second value(current value: 2, previous: 6).
+16:37:43 [INFO] variable at index 71 affected, bit 2 flipped.
+16:37:43 [INFO] Fault injection: 
+16:37:43 [INFO] Injected fault: Flipping bit 3 of second value(current value: 15, previous: 7).
+16:37:43 [INFO] variable at index 69 affected, bit 3 flipped.
+16:37:43 [INFO] Fault injection: 
+16:37:43 [INFO] Injected fault: Flipping bit 7 of second value(current value: 134, previous: 6).
+16:37:43 [INFO] variable at index 65 affected, bit 7 flipped.
+16:37:43 [INFO] Fault injection: 
+16:37:43 [INFO] Injected fault: Flipping bit 6 of second value(current value: 65, previous: 1).
+16:37:43 [INFO] variable at index 9 affected, bit 6 flipped.
+16:37:43 [INFO] Fault injection: 
+16:37:43 [INFO] Injected fault: Flipping bit 6 of second value(current value: 70, previous: 6).
+16:37:43 [INFO] variable at index 65 affected, bit 6 flipped.
+16:37:43 [INFO] Fault injection: 
+16:37:43 [INFO] Injected fault: Flipping bit 4 of second value(current value: 24, previous: 8).
+16:37:43 [INFO] variable at index 88 affected, bit 4 flipped.
+16:37:43 [INFO] Fault injection: 
+16:37:43 [INFO] Injected fault: Flipping bit 6 of second value(current value: 64, previous: 0).
+16:37:43 [INFO] variable at index 3 affected, bit 6 flipped.
+16:37:43 [INFO] Fault injection: 
+16:37:43 [INFO] Injected fault: Flipping bit 1 of second value(current value: 10, previous: 8).
+16:37:43 [INFO] variable at index 86 affected, bit 1 flipped.
+16:37:43 [INFO] Fault injection: 
+16:37:43 [INFO] Injected fault: Flipping bit 0 of second value(current value: 9, previous: 8).
+16:37:43 [INFO] variable at index 88 affected, bit 0 flipped.
+16:37:43 [INFO] Fault injection: 
+16:37:43 [INFO] Injected fault: Flipping bit 7 of second value(current value: 135, previous: 7).
+16:37:43 [INFO] variable at index 76 affected, bit 7 flipped.
+16:37:43 [INFO] Fault injection: 
+16:37:43 [INFO] Injected fault: Flipping bit 5 of second value(current value: 38, previous: 6).
+16:37:43 [INFO] variable at index 64 affected, bit 5 flipped.
+16:37:43 [INFO] Fault injection: 
+16:37:43 [INFO] Injected fault: Flipping bit 5 of second value(current value: 36, previous: 4).
+16:37:43 [INFO] variable at index 39 affected, bit 5 flipped.
+16:37:43 [INFO] Fault injection: 
+16:37:43 [INFO] Injected fault: Flipping bit 7 of second value(current value: 137, previous: 9).
+16:37:43 [INFO] variable at index 98 affected, bit 7 flipped.
+16:37:43 [INFO] Fault injection: 
+16:37:43 [INFO] Injected fault: Flipping bit 2 of second value(current value: 5, previous: 1).
+16:37:43 [INFO] variable at index 12 affected, bit 2 flipped.
+16:37:43 [INFO] Fault injection: 
+16:37:43 [INFO] Injected fault: Flipping bit 2 of second value(current value: 5, previous: 1).
+16:37:43 [INFO] variable at index 12 affected, bit 2 flipped.
+16:37:44 [INFO] Fault injection: 
+16:37:44 [INFO] Injected fault: Flipping bit 7 of second value(current value: 133, previous: 5).
+16:37:44 [INFO] variable at index 48 affected, bit 7 flipped.
+16:37:44 [INFO] Fault injection: 
+16:37:44 [INFO] Injected fault: Flipping bit 5 of second value(current value: 36, previous: 4).
+16:37:44 [INFO] variable at index 32 affected, bit 5 flipped.
+16:37:44 [INFO] Fault injection: 
+16:37:44 [INFO] Injected fault: Flipping bit 5 of second value(current value: 41, previous: 9).
+16:37:44 [INFO] variable at index 93 affected, bit 5 flipped.
+16:37:44 [INFO] Fault injection: 
+16:37:44 [INFO] Injected fault: Flipping bit 1 of second value(current value: 11, previous: 9).
+16:37:44 [INFO] variable at index 87 affected, bit 1 flipped.
+16:37:44 [INFO] Fault injection: 
+16:37:44 [INFO] Injected fault: Flipping bit 2 of second value(current value: 0, previous: 4).
+16:37:44 [INFO] variable at index 40 affected, bit 2 flipped.
+16:37:44 [INFO] Fault injection: 
+16:37:44 [INFO] Injected fault: Flipping bit 2 of second value(current value: 4, previous: 0).
+16:37:44 [INFO] variable at index 5 affected, bit 2 flipped.
+16:37:44 [INFO] Fault injection: 
+16:37:44 [INFO] Injected fault: Flipping bit 6 of second value(current value: 69, previous: 5).
+16:37:44 [INFO] variable at index 61 affected, bit 6 flipped.
+16:37:44 [INFO] Fault injection: 
+16:37:44 [INFO] Injected fault: Flipping bit 2 of second value(current value: 0, previous: 4).
+16:37:44 [INFO] variable at index 45 affected, bit 2 flipped.
+16:37:44 [INFO] Fault injection: 
+16:37:44 [INFO] Injected fault: Flipping bit 1 of second value(current value: 3, previous: 1).
+16:37:44 [INFO] variable at index 10 affected, bit 1 flipped.
+16:37:44 [INFO] Fault injection: 
+16:37:44 [INFO] Injected fault: Flipping bit 2 of second value(current value: 5, previous: 1).
+16:37:44 [INFO] variable at index 15 affected, bit 2 flipped.
+16:37:44 [INFO] Fault injection: 
+16:37:44 [INFO] Injected fault: Flipping bit 0 of second value(current value: 6, previous: 7).
+16:37:44 [INFO] variable at index 76 affected, bit 0 flipped.
+16:37:44 [INFO] Fault injection: 
+16:37:44 [INFO] Injected fault: Flipping bit 4 of second value(current value: 19, previous: 3).
+16:37:44 [INFO] variable at index 25 affected, bit 4 flipped.
+16:37:44 [INFO] Fault injection: 
+16:37:44 [INFO] Injected fault: Flipping bit 5 of second value(current value: 40, previous: 8).
+16:37:44 [INFO] variable at index 76 affected, bit 5 flipped.
+16:37:44 [INFO] Fault injection: 
+16:37:44 [INFO] Injected fault: Flipping bit 5 of second value(current value: 38, previous: 6).
+16:37:44 [INFO] variable at index 52 affected, bit 5 flipped.
+16:37:44 [INFO] Fault injection: 
+16:37:44 [INFO] Injected fault: Flipping bit 3 of second value(current value: 9, previous: 1).
+16:37:44 [INFO] variable at index 15 affected, bit 3 flipped.
+16:37:44 [INFO] Fault injection: 
+16:37:44 [INFO] Injected fault: Flipping bit 0 of second value(current value: 2, previous: 3).
+16:37:44 [INFO] variable at index 37 affected, bit 0 flipped.
+16:37:44 [INFO] Fault injection: 
+16:37:44 [INFO] Injected fault: Flipping bit 1 of second value(current value: 6, previous: 4).
+16:37:44 [INFO] variable at index 35 affected, bit 1 flipped.
+16:37:44 [INFO] Fault injection: 
+16:37:44 [INFO] Injected fault: Flipping bit 7 of second value(current value: 132, previous: 4).
+16:37:44 [INFO] variable at index 36 affected, bit 7 flipped.
+16:37:44 [INFO] Fault injection: 
+16:37:44 [INFO] Injected fault: Flipping bit 7 of second value(current value: 137, previous: 9).
+16:37:44 [INFO] variable at index 99 affected, bit 7 flipped.
+16:37:44 [INFO] Fault injection: 
+16:37:44 [INFO] Injected fault: Flipping bit 5 of second value(current value: 35, previous: 3).
+16:37:44 [INFO] variable at index 37 affected, bit 5 flipped.
+16:37:44 [INFO] Fault injection: 
+16:37:44 [INFO] Injected fault: Flipping bit 2 of second value(current value: 1, previous: 5).
+16:37:44 [INFO] variable at index 48 affected, bit 2 flipped.
+16:37:44 [INFO] Fault injection: 
+16:37:44 [INFO] Injected fault: Flipping bit 4 of second value(current value: 19, previous: 3).
+16:37:44 [INFO] variable at index 34 affected, bit 4 flipped.
+16:37:44 [INFO] Fault injection: 
+16:37:44 [INFO] Injected fault: Flipping bit 4 of second value(current value: 18, previous: 2).
+16:37:44 [INFO] variable at index 26 affected, bit 4 flipped.
+16:37:44 [INFO] Fault injection: 
+16:37:44 [INFO] Injected fault: Flipping bit 3 of second value(current value: 10, previous: 2).
+16:37:44 [INFO] variable at index 28 affected, bit 3 flipped.
+16:37:44 [INFO] Fault injection: 
+16:37:44 [INFO] Injected fault: Flipping bit 3 of second value(current value: 8, previous: 0).
+16:37:44 [INFO] variable at index 4 affected, bit 3 flipped.
+16:37:44 [INFO] Fault injection: 
+16:37:44 [INFO] Injected fault: Flipping bit 6 of second value(current value: 66, previous: 2).
+16:37:44 [INFO] variable at index 26 affected, bit 6 flipped.
+16:37:44 [INFO] Fault injection: 
+16:37:44 [INFO] Injected fault: Flipping bit 4 of second value(current value: 21, previous: 5).
+16:37:44 [INFO] variable at index 42 affected, bit 4 flipped.
+16:37:44 [INFO] Fault injection: 
+16:37:44 [INFO] Injected fault: Flipping bit 2 of second value(current value: 0, previous: 4).
+16:37:44 [INFO] variable at index 36 affected, bit 2 flipped.
+16:37:44 [INFO] Fault injection: 
+16:37:44 [INFO] Injected fault: Flipping bit 6 of second value(current value: 66, previous: 2).
+16:37:44 [INFO] variable at index 34 affected, bit 6 flipped.
+16:37:44 [INFO] Fault injection: 
+16:37:44 [INFO] Injected fault: Flipping bit 2 of second value(current value: 5, previous: 1).
+16:37:44 [INFO] variable at index 22 affected, bit 2 flipped.
+16:37:44 [INFO] Fault injection: 
+16:37:44 [INFO] Injected fault: Flipping bit 6 of second value(current value: 64, previous: 0).
+16:37:44 [INFO] variable at index 9 affected, bit 6 flipped.
+16:37:44 [INFO] Fault injection: 
+16:37:44 [INFO] Injected fault: Flipping bit 6 of second value(current value: 71, previous: 7).
+16:37:44 [INFO] variable at index 60 affected, bit 6 flipped.
+16:37:44 [INFO] Fault injection: 
+16:37:44 [INFO] Injected fault: Flipping bit 5 of second value(current value: 36, previous: 4).
+16:37:44 [INFO] variable at index 50 affected, bit 5 flipped.
+16:37:44 [INFO] Fault injection: 
+16:37:44 [INFO] Injected fault: Flipping bit 4 of second value(current value: 17, previous: 1).
+16:37:44 [INFO] variable at index 18 affected, bit 4 flipped.
+16:37:44 [INFO] Fault injection: 
+16:37:44 [INFO] Injected fault: Flipping bit 7 of second value(current value: 137, previous: 9).
+16:37:44 [INFO] variable at index 62 affected, bit 7 flipped.
+16:37:44 [INFO] Analyzer: Variable is invalid: first = 137, second = 9
+16:37:44 [INFO] Fault detected!
+16:37:44 [INFO] Fault injection: 
+16:37:44 [INFO] Injected fault: Flipping bit 4 of second value(current value: 16, previous: 0).
+16:37:44 [INFO] variable at index 3 affected, bit 4 flipped.
+16:37:44 [INFO] Fault injection: 
+16:37:44 [INFO] Injected fault: Flipping bit 6 of second value(current value: 70, previous: 6).
+16:37:44 [INFO] variable at index 70 affected, bit 6 flipped.
+16:37:44 [INFO] Fault injection: 
+16:37:44 [INFO] Injected fault: Flipping bit 7 of second value(current value: 136, previous: 8).
+16:37:44 [INFO] variable at index 84 affected, bit 7 flipped.
+16:37:44 [INFO] Fault injection: 
+16:37:44 [INFO] Injected fault: Flipping bit 5 of second value(current value: 36, previous: 4).
+16:37:44 [INFO] variable at index 48 affected, bit 5 flipped.
+16:37:44 [INFO] Fault injection: 
+16:37:44 [INFO] Injected fault: Flipping bit 0 of second value(current value: 2, previous: 3).
+16:37:44 [INFO] variable at index 54 affected, bit 0 flipped.
+16:37:44 [INFO] Analyzer: Variable is invalid: first = 2, second = 3
+16:37:44 [INFO] Fault detected!
+16:37:44 [INFO] Fault injection: 
+16:37:44 [INFO] Injected fault: Flipping bit 0 of second value(current value: 6, previous: 7).
+16:37:44 [INFO] variable at index 75 affected, bit 0 flipped.
+16:37:44 [INFO] Fault injection: 
+16:37:44 [INFO] Injected fault: Flipping bit 4 of second value(current value: 18, previous: 2).
+16:37:44 [INFO] variable at index 24 affected, bit 4 flipped.
+16:37:44 [INFO] Fault injection: 
+16:37:44 [INFO] Injected fault: Flipping bit 1 of second value(current value: 5, previous: 7).
+16:37:44 [INFO] variable at index 79 affected, bit 1 flipped.
+16:37:45 [INFO] Fault injection: 
+16:37:45 [INFO] Injected fault: Flipping bit 7 of second value(current value: 130, previous: 2).
+16:37:45 [INFO] variable at index 27 affected, bit 7 flipped.
+16:37:45 [INFO] Fault injection: 
+16:37:45 [INFO] Injected fault: Flipping bit 6 of second value(current value: 67, previous: 3).
+16:37:45 [INFO] variable at index 37 affected, bit 6 flipped.
+16:37:45 [INFO] Fault injection: 
+16:37:45 [INFO] Injected fault: Flipping bit 6 of second value(current value: 66, previous: 2).
+16:37:45 [INFO] variable at index 25 affected, bit 6 flipped.
+16:37:45 [INFO] Fault injection: 
+16:37:45 [INFO] Injected fault: Flipping bit 3 of second value(current value: 1, previous: 9).
+16:37:45 [INFO] variable at index 93 affected, bit 3 flipped.
+16:37:45 [INFO] Fault injection: 
+16:37:45 [INFO] Injected fault: Flipping bit 5 of second value(current value: 32, previous: 0).
+16:37:45 [INFO] variable at index 4 affected, bit 5 flipped.
+16:37:45 [INFO] Fault injection: 
+16:37:45 [INFO] Injected fault: Flipping bit 1 of second value(current value: 2, previous: 0).
+16:37:45 [INFO] variable at index 7 affected, bit 1 flipped.
+16:37:45 [INFO] Fault injection: 
+16:37:45 [INFO] Injected fault: Flipping bit 6 of second value(current value: 70, previous: 6).
+16:37:45 [INFO] variable at index 57 affected, bit 6 flipped.
+16:37:45 [INFO] Fault injection: 
+16:37:45 [INFO] Injected fault: Flipping bit 0 of second value(current value: 3, previous: 2).
+16:37:45 [INFO] variable at index 23 affected, bit 0 flipped.
+16:37:45 [INFO] Fault injection: 
+16:37:45 [INFO] Injected fault: Flipping bit 4 of second value(current value: 24, previous: 8).
+16:37:45 [INFO] variable at index 86 affected, bit 4 flipped.
+16:37:45 [INFO] Fault injection: 
+16:37:45 [INFO] Injected fault: Flipping bit 0 of second value(current value: 8, previous: 9).
+16:37:45 [INFO] variable at index 96 affected, bit 0 flipped.
+16:37:45 [INFO] Fault injection: 
+16:37:45 [INFO] Injected fault: Flipping bit 7 of second value(current value: 130, previous: 2).
+16:37:45 [INFO] variable at index 17 affected, bit 7 flipped.
+16:37:45 [INFO] Fault injection: 
+16:37:45 [INFO] Injected fault: Flipping bit 7 of second value(current value: 133, previous: 5).
+16:37:45 [INFO] variable at index 49 affected, bit 7 flipped.
+16:37:45 [INFO] Fault injection: 
+16:37:45 [INFO] Injected fault: Flipping bit 7 of second value(current value: 129, previous: 1).
+16:37:45 [INFO] variable at index 22 affected, bit 7 flipped.
+16:37:45 [INFO] Fault injection: 
+16:37:45 [INFO] Injected fault: Flipping bit 3 of second value(current value: 1, previous: 9).
+16:37:45 [INFO] variable at index 92 affected, bit 3 flipped.
+16:37:45 [INFO] Fault injection: 
+16:37:45 [INFO] Injected fault: Flipping bit 0 of second value(current value: 2, previous: 3).
+16:37:45 [INFO] variable at index 34 affected, bit 0 flipped.
+16:37:45 [INFO] Fault injection: 
+16:37:45 [INFO] Injected fault: Flipping bit 4 of second value(current value: 25, previous: 9).
+16:37:45 [INFO] variable at index 87 affected, bit 4 flipped.
+16:37:45 [INFO] Fault injection: 
+16:37:45 [INFO] Injected fault: Flipping bit 3 of second value(current value: 14, previous: 6).
+16:37:45 [INFO] variable at index 62 affected, bit 3 flipped.
+16:37:45 [INFO] Fault injection: 
+16:37:45 [INFO] Injected fault: Flipping bit 2 of second value(current value: 6, previous: 2).
+16:37:45 [INFO] variable at index 13 affected, bit 2 flipped.
+16:37:45 [INFO] Fault injection: 
+16:37:45 [INFO] Injected fault: Flipping bit 6 of second value(current value: 68, previous: 4).
+16:37:45 [INFO] variable at index 32 affected, bit 6 flipped.
+16:37:45 [INFO] Fault injection: 
+16:37:45 [INFO] Injected fault: Flipping bit 7 of second value(current value: 132, previous: 4).
+16:37:45 [INFO] variable at index 43 affected, bit 7 flipped.
+16:37:45 [INFO] Fault injection: 
+16:37:45 [INFO] Injected fault: Flipping bit 0 of second value(current value: 5, previous: 4).
+16:37:45 [INFO] variable at index 44 affected, bit 0 flipped.
+16:37:45 [INFO] Fault injection: 
+16:37:45 [INFO] Injected fault: Flipping bit 6 of second value(current value: 64, previous: 0).
+16:37:45 [INFO] variable at index 3 affected, bit 6 flipped.
+16:37:45 [INFO] Fault injection: 
+16:37:45 [INFO] Injected fault: Flipping bit 2 of second value(current value: 1, previous: 5).
+16:37:45 [INFO] variable at index 54 affected, bit 2 flipped.
+16:37:45 [INFO] Fault injection: 
+16:37:45 [INFO] Injected fault: Flipping bit 6 of second value(current value: 65, previous: 1).
+16:37:45 [INFO] variable at index 19 affected, bit 6 flipped.
+16:37:45 [INFO] Fault injection: 
+16:37:45 [INFO] Injected fault: Flipping bit 5 of second value(current value: 33, previous: 1).
+16:37:45 [INFO] variable at index 20 affected, bit 5 flipped.
+16:37:45 [INFO] Fault injection: 
+16:37:45 [INFO] Injected fault: Flipping bit 3 of second value(current value: 15, previous: 7).
+16:37:45 [INFO] variable at index 67 affected, bit 3 flipped.
+16:37:45 [INFO] Fault injection: 
+16:37:45 [INFO] Injected fault: Flipping bit 2 of second value(current value: 0, previous: 4).
+16:37:45 [INFO] variable at index 34 affected, bit 2 flipped.
+16:37:45 [INFO] Fault injection: 
+16:37:45 [INFO] Injected fault: Flipping bit 6 of second value(current value: 72, previous: 8).
+16:37:45 [INFO] variable at index 84 affected, bit 6 flipped.
+16:37:45 [INFO] Fault injection: 
+16:37:45 [INFO] Injected fault: Flipping bit 6 of second value(current value: 65, previous: 1).
+16:37:45 [INFO] variable at index 19 affected, bit 6 flipped.
+16:37:45 [INFO] Fault injection: 
+16:37:45 [INFO] Injected fault: Flipping bit 0 of second value(current value: 8, previous: 9).
+16:37:45 [INFO] variable at index 97 affected, bit 0 flipped.
+16:37:45 [INFO] Fault injection: 
+16:37:45 [INFO] Injected fault: Flipping bit 5 of second value(current value: 38, previous: 6).
+16:37:45 [INFO] variable at index 52 affected, bit 5 flipped.
+16:37:45 [INFO] Fault injection: 
+16:37:45 [INFO] Injected fault: Flipping bit 6 of second value(current value: 73, previous: 9).
+16:37:45 [INFO] variable at index 87 affected, bit 6 flipped.
+16:37:45 [INFO] Fault injection: 
+16:37:45 [INFO] Injected fault: Flipping bit 5 of second value(current value: 37, previous: 5).
+16:37:45 [INFO] variable at index 55 affected, bit 5 flipped.
+16:37:45 [INFO] Fault injection: 
+16:37:45 [INFO] Injected fault: Flipping bit 3 of second value(current value: 1, previous: 9).
+16:37:45 [INFO] variable at index 97 affected, bit 3 flipped.
+16:37:45 [INFO] Fault injection: 
+16:37:45 [INFO] Injected fault: Flipping bit 1 of second value(current value: 4, previous: 6).
+16:37:45 [INFO] variable at index 63 affected, bit 1 flipped.
+16:37:45 [INFO] Fault injection: 
+16:37:45 [INFO] Injected fault: Flipping bit 5 of second value(current value: 38, previous: 6).
+16:37:45 [INFO] variable at index 63 affected, bit 5 flipped.
+16:37:45 [INFO] Fault injection: 
+16:37:45 [INFO] Injected fault: Flipping bit 1 of second value(current value: 11, previous: 9).
+16:37:45 [INFO] variable at index 94 affected, bit 1 flipped.
+16:37:45 [INFO] Fault injection: 
+16:37:45 [INFO] Injected fault: Flipping bit 1 of second value(current value: 4, previous: 6).
+16:37:45 [INFO] variable at index 72 affected, bit 1 flipped.
+16:37:46 [INFO] Fault injection: 
+16:37:46 [INFO] Injected fault: Flipping bit 0 of second value(current value: 4, previous: 5).
+16:37:46 [INFO] variable at index 49 affected, bit 0 flipped.
+16:37:46 [INFO] Fault injection: 
+16:37:46 [INFO] Injected fault: Flipping bit 3 of second value(current value: 8, previous: 0).
+16:37:46 [INFO] variable at index 4 affected, bit 3 flipped.
+16:37:46 [INFO] Fault injection: 
+16:37:46 [INFO] Injected fault: Flipping bit 3 of second value(current value: 12, previous: 4).
+16:37:46 [INFO] variable at index 40 affected, bit 3 flipped.
+16:37:46 [INFO] Fault injection: 
+16:37:46 [INFO] Injected fault: Flipping bit 5 of second value(current value: 36, previous: 4).
+16:37:46 [INFO] variable at index 43 affected, bit 5 flipped.
+16:37:46 [INFO] Fault injection: 
+16:37:46 [INFO] Injected fault: Flipping bit 3 of second value(current value: 12, previous: 4).
+16:37:46 [INFO] variable at index 24 affected, bit 3 flipped.
+16:37:46 [INFO] Analyzer: Variable is invalid: first = 12, second = 4
+16:37:46 [INFO] Fault detected!
+16:37:46 [INFO] Fault injection: 
+16:37:46 [INFO] Injected fault: Flipping bit 7 of second value(current value: 128, previous: 0).
+16:37:46 [INFO] variable at index 0 affected, bit 7 flipped.
+16:37:46 [INFO] Fault injection: 
+16:37:46 [INFO] Injected fault: Flipping bit 6 of second value(current value: 68, previous: 4).
+16:37:46 [INFO] variable at index 40 affected, bit 6 flipped.
+16:37:46 [INFO] Fault injection: 
+16:37:46 [INFO] Injected fault: Flipping bit 6 of second value(current value: 64, previous: 0).
+16:37:46 [INFO] variable at index 4 affected, bit 6 flipped.
+16:37:46 [INFO] Fault injection: 
+16:37:46 [INFO] Injected fault: Flipping bit 5 of second value(current value: 34, previous: 2).
+16:37:46 [INFO] variable at index 25 affected, bit 5 flipped.
+16:37:46 [INFO] Fault injection: 
+16:37:46 [INFO] Injected fault: Flipping bit 0 of second value(current value: 4, previous: 5).
+16:37:46 [INFO] variable at index 60 affected, bit 0 flipped.
+16:37:46 [INFO] Fault injection: 
+16:37:46 [INFO] Injected fault: Flipping bit 6 of second value(current value: 70, previous: 6).
+16:37:46 [INFO] variable at index 59 affected, bit 6 flipped.
+16:37:46 [INFO] Fault injection: 
+16:37:46 [INFO] Injected fault: Flipping bit 7 of second value(current value: 129, previous: 1).
+16:37:46 [INFO] variable at index 21 affected, bit 7 flipped.
+16:37:46 [INFO] Fault injection: 
+16:37:46 [INFO] Injected fault: Flipping bit 2 of second value(current value: 13, previous: 9).
+16:37:46 [INFO] variable at index 95 affected, bit 2 flipped.
+16:37:46 [INFO] Fault injection: 
+16:37:46 [INFO] Injected fault: Flipping bit 3 of second value(current value: 0, previous: 8).
+16:37:46 [INFO] variable at index 90 affected, bit 3 flipped.
+16:37:46 [INFO] Fault injection: 
+16:37:46 [INFO] Injected fault: Flipping bit 1 of second value(current value: 6, previous: 4).
+16:37:46 [INFO] variable at index 40 affected, bit 1 flipped.
+16:37:46 [INFO] Fault injection: 
+16:37:46 [INFO] Injected fault: Flipping bit 0 of second value(current value: 0, previous: 1).
+16:37:46 [INFO] variable at index 9 affected, bit 0 flipped.
+16:37:46 [INFO] Fault injection: 
+16:37:46 [INFO] Injected fault: Flipping bit 7 of second value(current value: 136, previous: 8).
+16:37:46 [INFO] variable at index 89 affected, bit 7 flipped.
+16:37:46 [INFO] Fault injection: 
+16:37:46 [INFO] Injected fault: Flipping bit 4 of second value(current value: 18, previous: 2).
+16:37:46 [INFO] variable at index 25 affected, bit 4 flipped.
+16:37:46 [INFO] Fault injection: 
+16:37:46 [INFO] Injected fault: Flipping bit 0 of second value(current value: 7, previous: 6).
+16:37:46 [INFO] variable at index 67 affected, bit 0 flipped.
+16:37:46 [INFO] Fault injection: 
+16:37:46 [INFO] Injected fault: Flipping bit 1 of second value(current value: 2, previous: 0).
+16:37:46 [INFO] variable at index 2 affected, bit 1 flipped.
+16:37:46 [INFO] Fault injection: 
+16:37:46 [INFO] Injected fault: Flipping bit 5 of second value(current value: 33, previous: 1).
+16:37:46 [INFO] variable at index 19 affected, bit 5 flipped.
+16:37:46 [INFO] Fault injection: 
+16:37:46 [INFO] Injected fault: Flipping bit 3 of second value(current value: 0, previous: 8).
+16:37:46 [INFO] variable at index 78 affected, bit 3 flipped.
+16:37:46 [INFO] Fault injection: 
+16:37:46 [INFO] Injected fault: Flipping bit 0 of second value(current value: 6, previous: 7).
+16:37:46 [INFO] variable at index 74 affected, bit 0 flipped.
+16:37:46 [INFO] Fault injection: 
+16:37:46 [INFO] Injected fault: Flipping bit 3 of second value(current value: 12, previous: 4).
+16:37:46 [INFO] variable at index 55 affected, bit 3 flipped.
+16:37:46 [INFO] Fault injection: 
+16:37:46 [INFO] Injected fault: Flipping bit 4 of second value(current value: 21, previous: 5).
+16:37:46 [INFO] variable at index 49 affected, bit 4 flipped.
+16:37:46 [INFO] Fault injection: 
+16:37:46 [INFO] Injected fault: Flipping bit 2 of second value(current value: 3, previous: 7).
+16:37:46 [INFO] variable at index 72 affected, bit 2 flipped.
+16:37:46 [INFO] Fault injection: 
+16:37:46 [INFO] Injected fault: Flipping bit 5 of second value(current value: 35, previous: 3).
+16:37:46 [INFO] variable at index 29 affected, bit 5 flipped.
+16:37:46 [INFO] Fault injection: 
+16:37:46 [INFO] Injected fault: Flipping bit 4 of second value(current value: 16, previous: 0).
+16:37:46 [INFO] variable at index 4 affected, bit 4 flipped.
+16:37:46 [INFO] Fault injection: 
+16:37:46 [INFO] Injected fault: Flipping bit 3 of second value(current value: 10, previous: 2).
+16:37:46 [INFO] variable at index 21 affected, bit 3 flipped.
+16:37:46 [INFO] Fault injection: 
+16:37:46 [INFO] Injected fault: Flipping bit 6 of second value(current value: 71, previous: 7).
+16:37:46 [INFO] variable at index 76 affected, bit 6 flipped.
+16:37:46 [INFO] Fault injection: 
+16:37:46 [INFO] Injected fault: Flipping bit 0 of second value(current value: 5, previous: 4).
+16:37:46 [INFO] variable at index 47 affected, bit 0 flipped.
+16:37:46 [INFO] Fault injection: 
+16:37:46 [INFO] Injected fault: Flipping bit 6 of second value(current value: 67, previous: 3).
+16:37:46 [INFO] variable at index 26 affected, bit 6 flipped.
+16:37:46 [INFO] Fault injection: 
+16:37:46 [INFO] Injected fault: Flipping bit 2 of second value(current value: 7, previous: 3).
+16:37:46 [INFO] variable at index 34 affected, bit 2 flipped.
+16:37:46 [INFO] Fault injection: 
+16:37:46 [INFO] Injected fault: Flipping bit 0 of second value(current value: 0, previous: 1).
+16:37:46 [INFO] variable at index 19 affected, bit 0 flipped.
+16:37:46 [INFO] Fault injection: 
+16:37:46 [INFO] Injected fault: Flipping bit 3 of second value(current value: 0, previous: 8).
+16:37:46 [INFO] variable at index 88 affected, bit 3 flipped.
+16:37:46 [INFO] Fault injection: 
+16:37:46 [INFO] Injected fault: Flipping bit 2 of second value(current value: 13, previous: 9).
+16:37:46 [INFO] variable at index 90 affected, bit 2 flipped.
+16:37:46 [INFO] Fault injection: 
+16:37:46 [INFO] Injected fault: Flipping bit 6 of second value(current value: 72, previous: 8).
+16:37:46 [INFO] variable at index 86 affected, bit 6 flipped.
+16:37:46 [INFO] Fault injection: 
+16:37:46 [INFO] Injected fault: Flipping bit 1 of second value(current value: 10, previous: 8).
+16:37:46 [INFO] variable at index 82 affected, bit 1 flipped.
+16:37:46 [INFO] Fault injection: 
+16:37:46 [INFO] Injected fault: Flipping bit 3 of second value(current value: 11, previous: 3).
+16:37:46 [INFO] variable at index 36 affected, bit 3 flipped.
+16:37:46 [INFO] Fault injection: 
+16:37:46 [INFO] Injected fault: Flipping bit 1 of second value(current value: 2, previous: 0).
+16:37:46 [INFO] variable at index 3 affected, bit 1 flipped.
+16:37:46 [INFO] Fault injection: 
+16:37:46 [INFO] Injected fault: Flipping bit 4 of second value(current value: 25, previous: 9).
+16:37:46 [INFO] variable at index 99 affected, bit 4 flipped.
+16:37:46 [INFO] Fault injection: 
+16:37:46 [INFO] Injected fault: Flipping bit 4 of second value(current value: 17, previous: 1).
+16:37:46 [INFO] variable at index 20 affected, bit 4 flipped.
+16:37:46 [INFO] Analyzer: Variable is invalid: first = 17, second = 1
+16:37:46 [INFO] Fault detected!
+16:37:47 [INFO] Fault injection: 
+16:37:47 [INFO] Injected fault: Flipping bit 5 of second value(current value: 34, previous: 2).
+16:37:47 [INFO] variable at index 32 affected, bit 5 flipped.
+16:37:47 [INFO] Fault injection: 
+16:37:47 [INFO] Injected fault: Flipping bit 0 of second value(current value: 4, previous: 5).
+16:37:47 [INFO] variable at index 54 affected, bit 0 flipped.
+16:37:47 [INFO] Fault injection: 
+16:37:47 [INFO] Injected fault: Flipping bit 1 of second value(current value: 5, previous: 7).
+16:37:47 [INFO] variable at index 78 affected, bit 1 flipped.
+16:37:47 [INFO] Fault injection: 
+16:37:47 [INFO] Injected fault: Flipping bit 7 of second value(current value: 133, previous: 5).
+16:37:47 [INFO] variable at index 49 affected, bit 7 flipped.
+16:37:47 [INFO] Fault injection: 
+16:37:47 [INFO] Injected fault: Flipping bit 0 of second value(current value: 4, previous: 5).
+16:37:47 [INFO] variable at index 65 affected, bit 0 flipped.
+16:37:47 [INFO] Fault injection: 
+16:37:47 [INFO] Injected fault: Flipping bit 5 of second value(current value: 34, previous: 2).
+16:37:47 [INFO] variable at index 22 affected, bit 5 flipped.
+16:37:47 [INFO] Fault injection: 
+16:37:47 [INFO] Injected fault: Flipping bit 4 of second value(current value: 18, previous: 2).
+16:37:47 [INFO] variable at index 25 affected, bit 4 flipped.
+16:37:47 [INFO] Fault injection: 
+16:37:47 [INFO] Injected fault: Flipping bit 4 of second value(current value: 25, previous: 9).
+16:37:47 [INFO] variable at index 90 affected, bit 4 flipped.
+16:37:47 [INFO] Fault injection: 
+16:37:47 [INFO] Injected fault: Flipping bit 7 of second value(current value: 132, previous: 4).
+16:37:47 [INFO] variable at index 44 affected, bit 7 flipped.
+16:37:47 [INFO] Fault injection: 
+16:37:47 [INFO] Injected fault: Flipping bit 7 of second value(current value: 130, previous: 2).
+16:37:47 [INFO] variable at index 21 affected, bit 7 flipped.
+16:37:47 [INFO] Fault injection: 
+16:37:47 [INFO] Injected fault: Flipping bit 3 of second value(current value: 14, previous: 6).
+16:37:47 [INFO] variable at index 67 affected, bit 3 flipped.
+16:37:47 [INFO] Fault injection: 
+16:37:47 [INFO] Injected fault: Flipping bit 1 of second value(current value: 0, previous: 2).
+16:37:47 [INFO] variable at index 24 affected, bit 1 flipped.
+16:37:47 [INFO] Fault injection: 
+16:37:47 [INFO] Injected fault: Flipping bit 5 of second value(current value: 40, previous: 8).
+16:37:47 [INFO] variable at index 77 affected, bit 5 flipped.
+16:37:47 [INFO] Fault injection: 
+16:37:47 [INFO] Injected fault: Flipping bit 4 of second value(current value: 25, previous: 9).
+16:37:47 [INFO] variable at index 96 affected, bit 4 flipped.
+16:37:47 [INFO] Fault injection: 
+16:37:47 [INFO] Injected fault: Flipping bit 3 of second value(current value: 8, previous: 0).
+16:37:47 [INFO] variable at index 6 affected, bit 3 flipped.
+16:37:47 [INFO] Fault injection: 
+16:37:47 [INFO] Injected fault: Flipping bit 5 of second value(current value: 37, previous: 5).
+16:37:47 [INFO] variable at index 43 affected, bit 5 flipped.
+16:37:47 [INFO] Fault injection: 
+16:37:47 [INFO] Injected fault: Flipping bit 0 of second value(current value: 0, previous: 1).
+16:37:47 [INFO] variable at index 15 affected, bit 0 flipped.
+16:37:47 [INFO] Fault injection: 
+16:37:47 [INFO] Injected fault: Flipping bit 2 of second value(current value: 1, previous: 5).
+16:37:47 [INFO] variable at index 54 affected, bit 2 flipped.
+16:37:47 [INFO] Fault injection: 
+16:37:47 [INFO] Injected fault: Flipping bit 1 of second value(current value: 3, previous: 1).
+16:37:47 [INFO] variable at index 17 affected, bit 1 flipped.
+16:37:47 [INFO] Fault injection: 
+16:37:47 [INFO] Injected fault: Flipping bit 0 of second value(current value: 3, previous: 2).
+16:37:47 [INFO] variable at index 21 affected, bit 0 flipped.
+16:37:47 [INFO] Fault injection: 
+16:37:47 [INFO] Injected fault: Flipping bit 6 of second value(current value: 72, previous: 8).
+16:37:47 [INFO] variable at index 82 affected, bit 6 flipped.
+16:37:47 [INFO] Fault injection: 
+16:37:47 [INFO] Injected fault: Flipping bit 3 of second value(current value: 14, previous: 6).
+16:37:47 [INFO] variable at index 64 affected, bit 3 flipped.
+16:37:47 [INFO] Fault injection: 
+16:37:47 [INFO] Injected fault: Flipping bit 2 of second value(current value: 1, previous: 5).
+16:37:47 [INFO] variable at index 61 affected, bit 2 flipped.
+16:37:47 [INFO] Fault injection: 
+16:37:47 [INFO] Injected fault: Flipping bit 5 of second value(current value: 38, previous: 6).
+16:37:47 [INFO] variable at index 61 affected, bit 5 flipped.
+16:37:47 [INFO] Fault injection: 
+16:37:47 [INFO] Injected fault: Flipping bit 7 of second value(current value: 131, previous: 3).
+16:37:47 [INFO] variable at index 23 affected, bit 7 flipped.
+16:37:47 [INFO] Fault injection: 
+16:37:47 [INFO] Injected fault: Flipping bit 7 of second value(current value: 132, previous: 4).
+16:37:47 [INFO] variable at index 45 affected, bit 7 flipped.
+16:37:47 [INFO] Fault injection: 
+16:37:47 [INFO] Injected fault: Flipping bit 6 of second value(current value: 68, previous: 4).
+16:37:47 [INFO] variable at index 38 affected, bit 6 flipped.
+16:37:47 [INFO] Fault injection: 
+16:37:47 [INFO] Injected fault: Flipping bit 4 of second value(current value: 19, previous: 3).
+16:37:47 [INFO] variable at index 32 affected, bit 4 flipped.
+16:37:47 [INFO] Fault injection: 
+16:37:47 [INFO] Injected fault: Flipping bit 1 of second value(current value: 11, previous: 9).
+16:37:47 [INFO] variable at index 65 affected, bit 1 flipped.
+16:37:47 [INFO] Analyzer: Variable is invalid: first = 11, second = 9
+16:37:47 [INFO] Fault detected!
+16:37:47 [INFO] Fault injection: 
+16:37:47 [INFO] Injected fault: Flipping bit 0 of second value(current value: 6, previous: 7).
+16:37:47 [INFO] variable at index 27 affected, bit 0 flipped.
+16:37:47 [INFO] Analyzer: Variable is invalid: first = 6, second = 7
+16:37:47 [INFO] Fault detected!
+16:37:47 [INFO] Fault injection: 
+16:37:47 [INFO] Injected fault: Flipping bit 4 of second value(current value: 24, previous: 8).
+16:37:47 [INFO] variable at index 78 affected, bit 4 flipped.
+16:37:47 [INFO] Fault injection: 
+16:37:47 [INFO] Injected fault: Flipping bit 3 of second value(current value: 10, previous: 2).
+16:37:47 [INFO] variable at index 31 affected, bit 3 flipped.
+16:37:47 [INFO] Fault injection: 
+16:37:47 [INFO] Injected fault: Flipping bit 4 of second value(current value: 21, previous: 5).
+16:37:47 [INFO] variable at index 50 affected, bit 4 flipped.
+16:37:47 [INFO] Fault injection: 
+16:37:47 [INFO] Injected fault: Flipping bit 0 of second value(current value: 8, previous: 9).
+16:37:47 [INFO] variable at index 92 affected, bit 0 flipped.
+16:37:47 [INFO] Fault injection: 
+16:37:47 [INFO] Injected fault: Flipping bit 1 of second value(current value: 5, previous: 7).
+16:37:47 [INFO] variable at index 75 affected, bit 1 flipped.
+16:37:47 [INFO] Fault injection: 
+16:37:47 [INFO] Injected fault: Flipping bit 3 of second value(current value: 11, previous: 3).
+16:37:47 [INFO] variable at index 37 affected, bit 3 flipped.
+16:37:47 [INFO] Fault injection: 
+16:37:47 [INFO] Injected fault: Flipping bit 4 of second value(current value: 23, previous: 7).
+16:37:47 [INFO] variable at index 74 affected, bit 4 flipped.
+16:37:47 [INFO] Fault injection: 
+16:37:47 [INFO] Injected fault: Flipping bit 5 of second value(current value: 32, previous: 0).
+16:37:47 [INFO] variable at index 6 affected, bit 5 flipped.
+16:37:47 [INFO] Fault injection: 
+16:37:47 [INFO] Injected fault: Flipping bit 7 of second value(current value: 129, previous: 1).
+16:37:47 [INFO] variable at index 9 affected, bit 7 flipped.
+16:37:47 [INFO] Fault injection: 
+16:37:47 [INFO] Injected fault: Flipping bit 2 of second value(current value: 7, previous: 3).
+16:37:47 [INFO] variable at index 37 affected, bit 2 flipped.
+16:37:47 [INFO] Fault injection: 
+16:37:47 [INFO] Injected fault: Flipping bit 1 of second value(current value: 10, previous: 8).
+16:37:47 [INFO] variable at index 83 affected, bit 1 flipped.
+16:37:47 [INFO] Fault injection: 
+16:37:47 [INFO] Injected fault: Flipping bit 6 of second value(current value: 64, previous: 0).
+16:37:47 [INFO] variable at index 4 affected, bit 6 flipped.
+16:37:47 [INFO] Fault injection: 
+16:37:47 [INFO] Injected fault: Flipping bit 0 of second value(current value: 2, previous: 3).
+16:37:47 [INFO] variable at index 33 affected, bit 0 flipped.
+16:37:47 [INFO] Fault injection: 
+16:37:47 [INFO] Injected fault: Flipping bit 1 of second value(current value: 3, previous: 1).
+16:37:47 [INFO] variable at index 10 affected, bit 1 flipped.
+16:37:47 [INFO] Fault injection: 
+16:37:47 [INFO] Injected fault: Flipping bit 6 of second value(current value: 65, previous: 1).
+16:37:47 [INFO] variable at index 21 affected, bit 6 flipped.
+16:37:48 [INFO] Fault injection: 
+16:37:48 [INFO] Injected fault: Flipping bit 7 of second value(current value: 137, previous: 9).
+16:37:48 [INFO] variable at index 93 affected, bit 7 flipped.
+16:37:48 [INFO] Fault injection: 
+16:37:48 [INFO] Injected fault: Flipping bit 4 of second value(current value: 19, previous: 3).
+16:37:48 [INFO] variable at index 42 affected, bit 4 flipped.
+16:37:48 [INFO] Fault injection: 
+16:37:48 [INFO] Injected fault: Flipping bit 3 of second value(current value: 0, previous: 8).
+16:37:48 [INFO] variable at index 85 affected, bit 3 flipped.
+16:37:48 [INFO] Fault injection: 
+16:37:48 [INFO] Injected fault: Flipping bit 6 of second value(current value: 72, previous: 8).
+16:37:48 [INFO] variable at index 79 affected, bit 6 flipped.
+16:37:48 [INFO] Fault injection: 
+16:37:48 [INFO] Injected fault: Flipping bit 2 of second value(current value: 3, previous: 7).
+16:37:48 [INFO] variable at index 72 affected, bit 2 flipped.
+16:37:48 [INFO] Fault injection: 
+16:37:48 [INFO] Injected fault: Flipping bit 1 of second value(current value: 3, previous: 1).
+16:37:48 [INFO] variable at index 24 affected, bit 1 flipped.
+16:37:48 [INFO] Fault injection: 
+16:37:48 [INFO] Injected fault: Flipping bit 3 of second value(current value: 12, previous: 4).
+16:37:48 [INFO] variable at index 63 affected, bit 3 flipped.
+16:37:48 [INFO] Fault injection: 
+16:37:48 [INFO] Injected fault: Flipping bit 2 of second value(current value: 5, previous: 1).
+16:37:48 [INFO] variable at index 12 affected, bit 2 flipped.
+16:37:48 [INFO] Fault injection: 
+16:37:48 [INFO] Injected fault: Flipping bit 6 of second value(current value: 69, previous: 5).
+16:37:48 [INFO] variable at index 47 affected, bit 6 flipped.
+16:37:48 [INFO] Fault injection: 
+16:37:48 [INFO] Injected fault: Flipping bit 3 of second value(current value: 10, previous: 2).
+16:37:48 [INFO] variable at index 32 affected, bit 3 flipped.
+16:37:48 [INFO] Fault injection: 
+16:37:48 [INFO] Injected fault: Flipping bit 1 of second value(current value: 10, previous: 8).
+16:37:48 [INFO] variable at index 90 affected, bit 1 flipped.
+16:37:48 [INFO] Fault injection: 
+16:37:48 [INFO] Injected fault: Flipping bit 3 of second value(current value: 10, previous: 2).
+16:37:48 [INFO] variable at index 23 affected, bit 3 flipped.
+16:37:48 [INFO] Fault injection: 
+16:37:48 [INFO] Injected fault: Flipping bit 3 of second value(current value: 8, previous: 0).
+16:37:48 [INFO] variable at index 5 affected, bit 3 flipped.
+16:37:48 [INFO] Fault injection: 
+16:37:48 [INFO] Injected fault: Flipping bit 6 of second value(current value: 67, previous: 3).
+16:37:48 [INFO] variable at index 33 affected, bit 6 flipped.
+16:37:48 [INFO] Fault injection: 
+16:37:48 [INFO] Injected fault: Flipping bit 2 of second value(current value: 6, previous: 2).
+16:37:48 [INFO] variable at index 23 affected, bit 2 flipped.
+16:37:48 [INFO] Fault injection: 
+16:37:48 [INFO] Injected fault: Flipping bit 1 of second value(current value: 6, previous: 4).
+16:37:48 [INFO] variable at index 42 affected, bit 1 flipped.
+16:37:48 [INFO] Fault injection: 
+16:37:48 [INFO] Injected fault: Flipping bit 2 of second value(current value: 2, previous: 6).
+16:37:48 [INFO] variable at index 66 affected, bit 2 flipped.
+16:37:48 [INFO] Fault injection: 
+16:37:48 [INFO] Injected fault: Flipping bit 5 of second value(current value: 33, previous: 1).
+16:37:48 [INFO] variable at index 19 affected, bit 5 flipped.
+16:37:48 [INFO] Fault injection: 
+16:37:48 [INFO] Injected fault: Flipping bit 4 of second value(current value: 24, previous: 8).
+16:37:48 [INFO] variable at index 93 affected, bit 4 flipped.
+16:37:48 [INFO] Fault injection: 
+16:37:48 [INFO] Injected fault: Flipping bit 0 of second value(current value: 8, previous: 9).
+16:37:48 [INFO] variable at index 99 affected, bit 0 flipped.
+16:37:48 [INFO] Fault injection: 
+16:37:48 [INFO] Injected fault: Flipping bit 7 of second value(current value: 130, previous: 2).
+16:37:48 [INFO] variable at index 30 affected, bit 7 flipped.
+16:37:48 [INFO] Fault injection: 
+16:37:48 [INFO] Injected fault: Flipping bit 3 of second value(current value: 8, previous: 0).
+16:37:48 [INFO] variable at index 10 affected, bit 3 flipped.
+16:37:48 [INFO] Fault injection: 
+16:37:48 [INFO] Injected fault: Flipping bit 7 of second value(current value: 128, previous: 0).
+16:37:48 [INFO] variable at index 6 affected, bit 7 flipped.
+16:37:48 [INFO] Fault injection: 
+16:37:48 [INFO] Injected fault: Flipping bit 6 of second value(current value: 67, previous: 3).
+16:37:48 [INFO] variable at index 28 affected, bit 6 flipped.
+16:37:48 [INFO] Fault injection: 
+16:37:48 [INFO] Injected fault: Flipping bit 6 of second value(current value: 67, previous: 3).
+16:37:48 [INFO] variable at index 28 affected, bit 6 flipped.
+16:37:48 [INFO] Fault injection: 
+16:37:48 [INFO] Injected fault: Flipping bit 5 of second value(current value: 38, previous: 6).
+16:37:48 [INFO] variable at index 68 affected, bit 5 flipped.
+16:37:48 [INFO] Fault injection: 
+16:37:48 [INFO] Injected fault: Flipping bit 5 of second value(current value: 34, previous: 2).
+16:37:48 [INFO] variable at index 33 affected, bit 5 flipped.
+16:37:48 [INFO] Fault injection: 
+16:37:48 [INFO] Injected fault: Flipping bit 0 of second value(current value: 1, previous: 0).
+16:37:48 [INFO] variable at index 2 affected, bit 0 flipped.
+16:37:48 [INFO] Fault injection: 
+16:37:48 [INFO] Injected fault: Flipping bit 1 of second value(current value: 5, previous: 7).
+16:37:48 [INFO] variable at index 81 affected, bit 1 flipped.
+16:37:48 [INFO] Fault injection: 
+16:37:48 [INFO] Injected fault: Flipping bit 1 of second value(current value: 11, previous: 9).
+16:37:48 [INFO] variable at index 96 affected, bit 1 flipped.
+16:37:48 [INFO] Fault injection: 
+16:37:48 [INFO] Injected fault: Flipping bit 5 of second value(current value: 39, previous: 7).
+16:37:48 [INFO] variable at index 76 affected, bit 5 flipped.
+16:37:48 [INFO] Fault injection: 
+16:37:48 [INFO] Injected fault: Flipping bit 2 of second value(current value: 0, previous: 4).
+16:37:48 [INFO] variable at index 37 affected, bit 2 flipped.
+16:37:48 [INFO] Fault injection: 
+16:37:48 [INFO] Injected fault: Flipping bit 4 of second value(current value: 22, previous: 6).
+16:37:48 [INFO] variable at index 57 affected, bit 4 flipped.
+16:37:48 [INFO] Fault injection: 
+16:37:48 [INFO] Injected fault: Flipping bit 5 of second value(current value: 39, previous: 7).
+16:37:48 [INFO] variable at index 74 affected, bit 5 flipped.
+16:37:48 [INFO] Fault injection: 
+16:37:48 [INFO] Injected fault: Flipping bit 1 of second value(current value: 0, previous: 2).
+16:37:48 [INFO] variable at index 28 affected, bit 1 flipped.
+16:37:48 [INFO] Fault injection: 
+16:37:48 [INFO] Injected fault: Flipping bit 7 of second value(current value: 132, previous: 4).
+16:37:48 [INFO] variable at index 41 affected, bit 7 flipped.
+16:37:48 [INFO] Fault injection: 
+16:37:48 [INFO] Injected fault: Flipping bit 4 of second value(current value: 20, previous: 4).
+16:37:48 [INFO] variable at index 39 affected, bit 4 flipped.
+16:37:48 [INFO] Fault injection: 
+16:37:48 [INFO] Injected fault: Flipping bit 3 of second value(current value: 0, previous: 8).
+16:37:48 [INFO] variable at index 84 affected, bit 3 flipped.
+16:37:48 [INFO] Fault injection: 
+16:37:48 [INFO] Injected fault: Flipping bit 4 of second value(current value: 16, previous: 0).
+16:37:48 [INFO] variable at index 2 affected, bit 4 flipped.
+16:37:48 [INFO] Fault injection: 
+16:37:48 [INFO] Injected fault: Flipping bit 0 of second value(current value: 9, previous: 8).
+16:37:48 [INFO] variable at index 80 affected, bit 0 flipped.
+16:37:49 [INFO] Fault injection: 
+16:37:49 [INFO] Injected fault: Flipping bit 2 of second value(current value: 2, previous: 6).
+16:37:49 [INFO] variable at index 66 affected, bit 2 flipped.
+16:37:49 [INFO] Fault injection: 
+16:37:49 [INFO] Injected fault: Flipping bit 5 of second value(current value: 32, previous: 0).
+16:37:49 [INFO] variable at index 0 affected, bit 5 flipped.
+16:37:49 [INFO] Fault injection: 
+16:37:49 [INFO] Injected fault: Flipping bit 3 of second value(current value: 15, previous: 7).
+16:37:49 [INFO] variable at index 76 affected, bit 3 flipped.
+16:37:49 [INFO] Fault injection: 
+16:37:49 [INFO] Injected fault: Flipping bit 3 of second value(current value: 9, previous: 1).
+16:37:49 [INFO] variable at index 15 affected, bit 3 flipped.
+16:37:49 [INFO] Fault injection: 
+16:37:49 [INFO] Injected fault: Flipping bit 7 of second value(current value: 133, previous: 5).
+16:37:49 [INFO] variable at index 59 affected, bit 7 flipped.
+16:37:49 [INFO] Fault injection: 
+16:37:49 [INFO] Injected fault: Flipping bit 4 of second value(current value: 22, previous: 6).
+16:37:49 [INFO] variable at index 61 affected, bit 4 flipped.
+16:37:49 [INFO] Fault injection: 
+16:37:49 [INFO] Injected fault: Flipping bit 2 of second value(current value: 12, previous: 8).
+16:37:49 [INFO] variable at index 86 affected, bit 2 flipped.
+16:37:49 [INFO] Fault injection: 
+16:37:49 [INFO] Injected fault: Flipping bit 6 of second value(current value: 73, previous: 9).
+16:37:49 [INFO] variable at index 93 affected, bit 6 flipped.
+16:37:49 [INFO] Fault injection: 
+16:37:49 [INFO] Injected fault: Flipping bit 7 of second value(current value: 133, previous: 5).
+16:37:49 [INFO] variable at index 59 affected, bit 7 flipped.
+16:37:49 [INFO] Fault injection: 
+16:37:49 [INFO] Injected fault: Flipping bit 6 of second value(current value: 68, previous: 4).
+16:37:49 [INFO] variable at index 39 affected, bit 6 flipped.
+16:37:49 [INFO] Fault injection: 
+16:37:49 [INFO] Injected fault: Flipping bit 7 of second value(current value: 131, previous: 3).
+16:37:49 [INFO] variable at index 40 affected, bit 7 flipped.
+16:37:49 [INFO] Fault injection: 
+16:37:49 [INFO] Injected fault: Flipping bit 2 of second value(current value: 3, previous: 7).
+16:37:49 [INFO] variable at index 77 affected, bit 2 flipped.
+16:37:49 [INFO] Fault injection: 
+16:37:49 [INFO] Injected fault: Flipping bit 6 of second value(current value: 71, previous: 7).
+16:37:49 [INFO] variable at index 68 affected, bit 6 flipped.
+16:37:49 [INFO] Fault injection: 
+16:37:49 [INFO] Injected fault: Flipping bit 2 of second value(current value: 13, previous: 9).
+16:37:49 [INFO] variable at index 88 affected, bit 2 flipped.
+16:37:49 [INFO] Fault injection: 
+16:37:49 [INFO] Injected fault: Flipping bit 7 of second value(current value: 133, previous: 5).
+16:37:49 [INFO] variable at index 48 affected, bit 7 flipped.
+16:37:49 [INFO] Fault injection: 
+16:37:49 [INFO] Injected fault: Flipping bit 3 of second value(current value: 10, previous: 2).
+16:37:49 [INFO] variable at index 17 affected, bit 3 flipped.
+16:37:49 [INFO] Fault injection: 
+16:37:49 [INFO] Injected fault: Flipping bit 0 of second value(current value: 8, previous: 9).
+16:37:49 [INFO] variable at index 93 affected, bit 0 flipped.
+16:37:49 [INFO] Fault injection: 
+16:37:49 [INFO] Injected fault: Flipping bit 5 of second value(current value: 40, previous: 8).
+16:37:49 [INFO] variable at index 83 affected, bit 5 flipped.
+16:37:49 [INFO] Fault injection: 
+16:37:49 [INFO] Injected fault: Flipping bit 3 of second value(current value: 12, previous: 4).
+16:37:49 [INFO] variable at index 44 affected, bit 3 flipped.
+16:37:49 [INFO] Fault injection: 
+16:37:49 [INFO] Injected fault: Flipping bit 2 of second value(current value: 5, previous: 1).
+16:37:49 [INFO] variable at index 15 affected, bit 2 flipped.
+16:37:49 [INFO] Fault injection: 
+16:37:49 [INFO] Injected fault: Flipping bit 2 of second value(current value: 1, previous: 5).
+16:37:49 [INFO] variable at index 65 affected, bit 2 flipped.
+16:37:49 [INFO] Fault injection: 
+16:37:49 [INFO] Injected fault: Flipping bit 5 of second value(current value: 34, previous: 2).
+16:37:49 [INFO] variable at index 27 affected, bit 5 flipped.
+16:37:49 [INFO] Fault injection: 
+16:37:49 [INFO] Injected fault: Flipping bit 4 of second value(current value: 18, previous: 2).
+16:37:49 [INFO] variable at index 22 affected, bit 4 flipped.
+16:37:49 [INFO] Fault injection: 
+16:37:49 [INFO] Injected fault: Flipping bit 0 of second value(current value: 4, previous: 5).
+16:37:49 [INFO] variable at index 65 affected, bit 0 flipped.
+16:37:49 [INFO] Fault injection: 
+16:37:49 [INFO] Injected fault: Flipping bit 0 of second value(current value: 6, previous: 7).
+16:37:49 [INFO] variable at index 81 affected, bit 0 flipped.
+16:37:49 [INFO] Fault injection: 
+16:37:49 [INFO] Injected fault: Flipping bit 5 of second value(current value: 37, previous: 5).
+16:37:49 [INFO] variable at index 61 affected, bit 5 flipped.
+16:37:49 [INFO] Fault injection: 
+16:37:49 [INFO] Injected fault: Flipping bit 0 of second value(current value: 8, previous: 9).
+16:37:49 [INFO] variable at index 95 affected, bit 0 flipped.
+16:37:49 [INFO] Fault injection: 
+16:37:49 [INFO] Injected fault: Flipping bit 3 of second value(current value: 14, previous: 6).
+16:37:49 [INFO] variable at index 64 affected, bit 3 flipped.
+16:37:49 [INFO] Fault injection: 
+16:37:49 [INFO] Injected fault: Flipping bit 2 of second value(current value: 3, previous: 7).
+16:37:49 [INFO] variable at index 77 affected, bit 2 flipped.
+16:37:49 [INFO] Fault injection: 
+16:37:49 [INFO] Injected fault: Flipping bit 3 of second value(current value: 13, previous: 5).
+16:37:49 [INFO] variable at index 57 affected, bit 3 flipped.
+16:37:49 [INFO] Fault injection: 
+16:37:49 [INFO] Injected fault: Flipping bit 5 of second value(current value: 35, previous: 3).
+16:37:49 [INFO] variable at index 28 affected, bit 5 flipped.
+16:37:49 [INFO] Fault injection: 
+16:37:49 [INFO] Injected fault: Flipping bit 7 of second value(current value: 128, previous: 0).
+16:37:49 [INFO] variable at index 11 affected, bit 7 flipped.
+16:37:49 [INFO] Fault injection: 
+16:37:49 [INFO] Injected fault: Flipping bit 6 of second value(current value: 73, previous: 9).
+16:37:49 [INFO] variable at index 96 affected, bit 6 flipped.
+16:37:49 [INFO] Fault injection: 
+16:37:49 [INFO] Injected fault: Flipping bit 0 of second value(current value: 7, previous: 6).
+16:37:49 [INFO] variable at index 59 affected, bit 0 flipped.
+16:37:49 [INFO] Fault injection: 
+16:37:49 [INFO] Injected fault: Flipping bit 2 of second value(current value: 0, previous: 4).
+16:37:49 [INFO] variable at index 50 affected, bit 2 flipped.
+16:37:49 [INFO] Fault injection: 
+16:37:49 [INFO] Injected fault: Flipping bit 5 of second value(current value: 35, previous: 3).
+16:37:49 [INFO] variable at index 36 affected, bit 5 flipped.
+16:37:49 [INFO] Fault injection: 
+16:37:49 [INFO] Injected fault: Flipping bit 3 of second value(current value: 12, previous: 4).
+16:37:49 [INFO] variable at index 47 affected, bit 3 flipped.
+16:37:49 [INFO] Fault injection: 
+16:37:49 [INFO] Injected fault: Flipping bit 3 of second value(current value: 15, previous: 7).
+16:37:49 [INFO] variable at index 82 affected, bit 3 flipped.
+16:37:49 [INFO] Fault injection: 
+16:37:49 [INFO] Injected fault: Flipping bit 2 of second value(current value: 5, previous: 1).
+16:37:49 [INFO] variable at index 15 affected, bit 2 flipped.
+16:37:49 [INFO] Fault injection: 
+16:37:49 [INFO] Injected fault: Flipping bit 4 of second value(current value: 19, previous: 3).
+16:37:49 [INFO] variable at index 28 affected, bit 4 flipped.
+16:37:49 [INFO] Fault injection: 
+16:37:49 [INFO] Injected fault: Flipping bit 3 of second value(current value: 0, previous: 8).
+16:37:49 [INFO] variable at index 81 affected, bit 3 flipped.
+16:37:50 [INFO] Fault injection: 
+16:37:50 [INFO] Injected fault: Flipping bit 6 of second value(current value: 66, previous: 2).
+16:37:50 [INFO] variable at index 20 affected, bit 6 flipped.
+16:37:50 [INFO] Fault injection: 
+16:37:50 [INFO] Injected fault: Flipping bit 2 of second value(current value: 4, previous: 0).
+16:37:50 [INFO] variable at index 3 affected, bit 2 flipped.
+16:37:50 [INFO] Fault injection: 
+16:37:50 [INFO] Injected fault: Flipping bit 6 of second value(current value: 68, previous: 4).
+16:37:50 [INFO] variable at index 43 affected, bit 6 flipped.
+16:37:50 [INFO] Fault injection: 
+16:37:50 [INFO] Injected fault: Flipping bit 3 of second value(current value: 11, previous: 3).
+16:37:50 [INFO] variable at index 33 affected, bit 3 flipped.
+16:37:50 [INFO] Fault injection: 
+16:37:50 [INFO] Injected fault: Flipping bit 4 of second value(current value: 24, previous: 8).
+16:37:50 [INFO] variable at index 83 affected, bit 4 flipped.
+16:37:50 [INFO] Fault injection: 
+16:37:50 [INFO] Injected fault: Flipping bit 2 of second value(current value: 12, previous: 8).
+16:37:50 [INFO] variable at index 83 affected, bit 2 flipped.
+16:37:50 [INFO] Fault injection: 
+16:37:50 [INFO] Injected fault: Flipping bit 5 of second value(current value: 34, previous: 2).
+16:37:50 [INFO] variable at index 25 affected, bit 5 flipped.
+16:37:50 [INFO] Fault injection: 
+16:37:50 [INFO] Injected fault: Flipping bit 1 of second value(current value: 0, previous: 2).
+16:37:50 [INFO] variable at index 24 affected, bit 1 flipped.
+16:37:50 [INFO] Fault injection: 
+16:37:50 [INFO] Injected fault: Flipping bit 7 of second value(current value: 128, previous: 0).
+16:37:50 [INFO] variable at index 4 affected, bit 7 flipped.
+16:37:50 [INFO] Fault injection: 
+16:37:50 [INFO] Injected fault: Flipping bit 6 of second value(current value: 70, previous: 6).
+16:37:50 [INFO] variable at index 66 affected, bit 6 flipped.
+16:37:50 [INFO] Fault injection: 
+16:37:50 [INFO] Injected fault: Flipping bit 7 of second value(current value: 133, previous: 5).
+16:37:50 [INFO] variable at index 56 affected, bit 7 flipped.
+16:37:50 [INFO] Fault injection: 
+16:37:50 [INFO] Injected fault: Flipping bit 2 of second value(current value: 6, previous: 2).
+16:37:50 [INFO] variable at index 25 affected, bit 2 flipped.
+16:37:50 [INFO] Fault injection: 
+16:37:50 [INFO] Injected fault: Flipping bit 4 of second value(current value: 18, previous: 2).
+16:37:50 [INFO] variable at index 22 affected, bit 4 flipped.
+16:37:50 [INFO] Fault injection: 
+16:37:50 [INFO] Injected fault: Flipping bit 6 of second value(current value: 67, previous: 3).
+16:37:50 [INFO] variable at index 23 affected, bit 6 flipped.
+16:37:50 [INFO] Fault injection: 
+16:37:50 [INFO] Injected fault: Flipping bit 5 of second value(current value: 33, previous: 1).
+16:37:50 [INFO] variable at index 23 affected, bit 5 flipped.
+16:37:50 [INFO] Fault injection: 
+16:37:50 [INFO] Injected fault: Flipping bit 6 of second value(current value: 72, previous: 8).
+16:37:50 [INFO] variable at index 80 affected, bit 6 flipped.
+16:37:50 [INFO] Fault injection: 
+16:37:50 [INFO] Injected fault: Flipping bit 3 of second value(current value: 15, previous: 7).
+16:37:50 [INFO] variable at index 71 affected, bit 3 flipped.
+16:37:50 [INFO] Fault injection: 
+16:37:50 [INFO] Injected fault: Flipping bit 7 of second value(current value: 128, previous: 0).
+16:37:50 [INFO] variable at index 3 affected, bit 7 flipped.
+16:37:50 [INFO] Fault injection: 
+16:37:50 [INFO] Injected fault: Flipping bit 7 of second value(current value: 135, previous: 7).
+16:37:50 [INFO] variable at index 74 affected, bit 7 flipped.
+16:37:50 [INFO] Fault injection: 
+16:37:50 [INFO] Injected fault: Flipping bit 1 of second value(current value: 2, previous: 0).
+16:37:50 [INFO] variable at index 0 affected, bit 1 flipped.
+16:37:50 [INFO] Fault injection: 
+16:37:50 [INFO] Injected fault: Flipping bit 5 of second value(current value: 38, previous: 6).
+16:37:50 [INFO] variable at index 60 affected, bit 5 flipped.
+16:37:50 [INFO] Fault injection: 
+16:37:50 [INFO] Injected fault: Flipping bit 0 of second value(current value: 8, previous: 9).
+16:37:50 [INFO] variable at index 91 affected, bit 0 flipped.
+16:37:50 [INFO] Fault injection: 
+16:37:50 [INFO] Injected fault: Flipping bit 5 of second value(current value: 35, previous: 3).
+16:37:50 [INFO] variable at index 40 affected, bit 5 flipped.
+16:37:50 [INFO] Fault injection: 
+16:37:50 [INFO] Injected fault: Flipping bit 1 of second value(current value: 0, previous: 2).
+16:37:50 [INFO] variable at index 21 affected, bit 1 flipped.
+16:37:50 [INFO] Fault injection: 
+16:37:50 [INFO] Injected fault: Flipping bit 0 of second value(current value: 9, previous: 8).
+16:37:50 [INFO] variable at index 95 affected, bit 0 flipped.
+16:37:50 [INFO] Fault injection: 
+16:37:50 [INFO] Injected fault: Flipping bit 5 of second value(current value: 38, previous: 6).
+16:37:50 [INFO] variable at index 59 affected, bit 5 flipped.
+16:37:50 [INFO] Fault injection: 
+16:37:50 [INFO] Injected fault: Flipping bit 5 of second value(current value: 32, previous: 0).
+16:37:50 [INFO] variable at index 7 affected, bit 5 flipped.
+16:37:50 [INFO] Fault injection: 
+16:37:50 [INFO] Injected fault: Flipping bit 6 of second value(current value: 64, previous: 0).
+16:37:50 [INFO] variable at index 3 affected, bit 6 flipped.
+16:37:50 [INFO] Fault injection: 
+16:37:50 [INFO] Injected fault: Flipping bit 1 of second value(current value: 5, previous: 7).
+16:37:50 [INFO] variable at index 81 affected, bit 1 flipped.
+16:37:50 [INFO] Fault injection: 
+16:37:50 [INFO] Injected fault: Flipping bit 5 of second value(current value: 37, previous: 5).
+16:37:50 [INFO] variable at index 64 affected, bit 5 flipped.
+16:37:50 [INFO] Fault injection: 
+16:37:50 [INFO] Injected fault: Flipping bit 7 of second value(current value: 136, previous: 8).
+16:37:50 [INFO] variable at index 78 affected, bit 7 flipped.
+16:37:50 [INFO] Fault injection: 
+16:37:50 [INFO] Injected fault: Flipping bit 2 of second value(current value: 7, previous: 3).
+16:37:50 [INFO] variable at index 32 affected, bit 2 flipped.
+16:37:50 [INFO] Fault injection: 
+16:37:50 [INFO] Injected fault: Flipping bit 5 of second value(current value: 35, previous: 3).
+16:37:50 [INFO] variable at index 34 affected, bit 5 flipped.
+16:37:50 [INFO] Fault injection: 
+16:37:50 [INFO] Injected fault: Flipping bit 7 of second value(current value: 135, previous: 7).
+16:37:50 [INFO] variable at index 82 affected, bit 7 flipped.
+16:37:50 [INFO] Fault injection: 
+16:37:50 [INFO] Injected fault: Flipping bit 5 of second value(current value: 37, previous: 5).
+16:37:50 [INFO] variable at index 56 affected, bit 5 flipped.
+16:37:50 [INFO] Fault injection: 
+16:37:50 [INFO] Injected fault: Flipping bit 6 of second value(current value: 72, previous: 8).
+16:37:50 [INFO] variable at index 83 affected, bit 6 flipped.
+16:37:50 [INFO] Fault injection: 
+16:37:50 [INFO] Injected fault: Flipping bit 6 of second value(current value: 68, previous: 4).
+16:37:50 [INFO] variable at index 48 affected, bit 6 flipped.
+16:37:50 [INFO] Fault injection: 
+16:37:50 [INFO] Injected fault: Flipping bit 0 of second value(current value: 0, previous: 1).
+16:37:50 [INFO] variable at index 20 affected, bit 0 flipped.
+16:37:50 [INFO] Fault injection: 
+16:37:50 [INFO] Injected fault: Flipping bit 0 of second value(current value: 1, previous: 0).
+16:37:50 [INFO] variable at index 3 affected, bit 0 flipped.
+16:37:50 [INFO] Fault injection: 
+16:37:50 [INFO] Injected fault: Flipping bit 7 of second value(current value: 137, previous: 9).
+16:37:50 [INFO] variable at index 99 affected, bit 7 flipped.
+16:37:50 [INFO] Fault injection: 
+16:37:50 [INFO] Injected fault: Flipping bit 5 of second value(current value: 37, previous: 5).
+16:37:50 [INFO] variable at index 56 affected, bit 5 flipped.
+16:37:50 [INFO] Fault injection: 
+16:37:50 [INFO] Injected fault: Flipping bit 5 of second value(current value: 40, previous: 8).
+16:37:50 [INFO] variable at index 90 affected, bit 5 flipped.
+16:37:51 [INFO] Fault injection: 
+16:37:51 [INFO] Injected fault: Flipping bit 2 of second value(current value: 12, previous: 8).
+16:37:51 [INFO] variable at index 83 affected, bit 2 flipped.
+16:37:51 [INFO] Fault injection: 
+16:37:51 [INFO] Injected fault: Flipping bit 3 of second value(current value: 9, previous: 1).
+16:37:51 [INFO] variable at index 9 affected, bit 3 flipped.
+16:37:51 [INFO] Fault injection: 
+16:37:51 [INFO] Injected fault: Flipping bit 6 of second value(current value: 67, previous: 3).
+16:37:51 [INFO] variable at index 38 affected, bit 6 flipped.
+16:37:51 [INFO] Fault injection: 
+16:37:51 [INFO] Injected fault: Flipping bit 0 of second value(current value: 9, previous: 8).
+16:37:51 [INFO] variable at index 79 affected, bit 0 flipped.
+16:37:51 [INFO] Fault injection: 
+16:37:51 [INFO] Injected fault: Flipping bit 3 of second value(current value: 10, previous: 2).
+16:37:51 [INFO] variable at index 29 affected, bit 3 flipped.
+16:37:51 [INFO] Fault injection: 
+16:37:51 [INFO] Injected fault: Flipping bit 4 of second value(current value: 16, previous: 0).
+16:37:51 [INFO] variable at index 7 affected, bit 4 flipped.
+16:37:51 [INFO] Fault injection: 
+16:37:51 [INFO] Injected fault: Flipping bit 7 of second value(current value: 130, previous: 2).
+16:37:51 [INFO] variable at index 18 affected, bit 7 flipped.
+16:37:51 [INFO] Fault injection: 
+16:37:51 [INFO] Injected fault: Flipping bit 6 of second value(current value: 67, previous: 3).
+16:37:51 [INFO] variable at index 31 affected, bit 6 flipped.
+16:37:51 [INFO] Fault injection: 
+16:37:51 [INFO] Injected fault: Flipping bit 3 of second value(current value: 1, previous: 9).
+16:37:51 [INFO] variable at index 90 affected, bit 3 flipped.
+16:37:51 [INFO] Fault injection: 
+16:37:51 [INFO] Injected fault: Flipping bit 2 of second value(current value: 4, previous: 0).
+16:37:51 [INFO] variable at index 1 affected, bit 2 flipped.
+16:37:51 [INFO] Fault injection: 
+16:37:51 [INFO] Injected fault: Flipping bit 4 of second value(current value: 16, previous: 0).
+16:37:51 [INFO] variable at index 0 affected, bit 4 flipped.
+16:37:51 [INFO] Fault injection: 
+16:37:51 [INFO] Injected fault: Flipping bit 5 of second value(current value: 41, previous: 9).
+16:37:51 [INFO] variable at index 97 affected, bit 5 flipped.
+16:37:51 [INFO] Fault injection: 
+16:37:51 [INFO] Injected fault: Flipping bit 5 of second value(current value: 37, previous: 5).
+16:37:51 [INFO] variable at index 62 affected, bit 5 flipped.
+16:37:51 [INFO] Fault injection: 
+16:37:51 [INFO] Injected fault: Flipping bit 6 of second value(current value: 66, previous: 2).
+16:37:51 [INFO] variable at index 18 affected, bit 6 flipped.
+16:37:51 [INFO] Fault injection: 
+16:37:51 [INFO] Injected fault: Flipping bit 6 of second value(current value: 64, previous: 0).
+16:37:51 [INFO] variable at index 3 affected, bit 6 flipped.
+16:37:51 [INFO] Fault injection: 
+16:37:51 [INFO] Injected fault: Flipping bit 4 of second value(current value: 23, previous: 7).
+16:37:51 [INFO] variable at index 82 affected, bit 4 flipped.
+16:37:51 [INFO] Fault injection: 
+16:37:51 [INFO] Injected fault: Flipping bit 3 of second value(current value: 14, previous: 6).
+16:37:51 [INFO] variable at index 64 affected, bit 3 flipped.
+16:37:51 [INFO] Fault injection: 
+16:37:51 [INFO] Injected fault: Flipping bit 6 of second value(current value: 69, previous: 5).
+16:37:51 [INFO] variable at index 55 affected, bit 6 flipped.
+16:37:51 [INFO] Fault injection: 
+16:37:51 [INFO] Injected fault: Flipping bit 2 of second value(current value: 0, previous: 4).
+16:37:51 [INFO] variable at index 44 affected, bit 2 flipped.
+16:37:51 [INFO] Fault injection: 
+16:37:51 [INFO] Injected fault: Flipping bit 0 of second value(current value: 3, previous: 2).
+16:37:51 [INFO] variable at index 26 affected, bit 0 flipped.
+16:37:51 [INFO] Fault injection: 
+16:37:51 [INFO] Injected fault: Flipping bit 3 of second value(current value: 15, previous: 7).
+16:37:51 [INFO] variable at index 78 affected, bit 3 flipped.
+16:37:51 [INFO] Fault injection: 
+16:37:51 [INFO] Injected fault: Flipping bit 7 of second value(current value: 129, previous: 1).
+16:37:51 [INFO] variable at index 18 affected, bit 7 flipped.
+16:37:51 [INFO] Fault injection: 
+16:37:51 [INFO] Injected fault: Flipping bit 6 of second value(current value: 68, previous: 4).
+16:37:51 [INFO] variable at index 53 affected, bit 6 flipped.
+16:37:51 [INFO] Fault injection: 
+16:37:51 [INFO] Injected fault: Flipping bit 2 of second value(current value: 3, previous: 7).
+16:37:51 [INFO] variable at index 77 affected, bit 2 flipped.
+16:37:51 [INFO] Fault injection: 
+16:37:51 [INFO] Injected fault: Flipping bit 4 of second value(current value: 24, previous: 8).
+16:37:51 [INFO] variable at index 79 affected, bit 4 flipped.
+16:37:51 [INFO] Fault injection: 
+16:37:51 [INFO] Injected fault: Flipping bit 2 of second value(current value: 12, previous: 8).
+16:37:51 [INFO] variable at index 83 affected, bit 2 flipped.
+16:37:51 [INFO] Fault injection: 
+16:37:51 [INFO] Injected fault: Flipping bit 4 of second value(current value: 23, previous: 7).
+16:37:51 [INFO] variable at index 68 affected, bit 4 flipped.
+16:37:51 [INFO] Fault injection: 
+16:37:51 [INFO] Injected fault: Flipping bit 0 of second value(current value: 6, previous: 7).
+16:37:51 [INFO] variable at index 85 affected, bit 0 flipped.
+16:37:51 [INFO] Fault injection: 
+16:37:51 [INFO] Injected fault: Flipping bit 2 of second value(current value: 13, previous: 9).
+16:37:51 [INFO] variable at index 92 affected, bit 2 flipped.
+16:37:51 [INFO] Fault injection: 
+16:37:51 [INFO] Injected fault: Flipping bit 6 of second value(current value: 65, previous: 1).
+16:37:51 [INFO] variable at index 18 affected, bit 6 flipped.
+16:37:51 [INFO] Fault injection: 
+16:37:51 [INFO] Injected fault: Flipping bit 6 of second value(current value: 70, previous: 6).
+16:37:51 [INFO] variable at index 68 affected, bit 6 flipped.
+16:37:51 [INFO] Fault injection: 
+16:37:51 [INFO] Injected fault: Flipping bit 0 of second value(current value: 5, previous: 4).
+16:37:51 [INFO] variable at index 35 affected, bit 0 flipped.
+16:37:51 [INFO] Fault injection: 
+16:37:51 [INFO] Injected fault: Flipping bit 3 of second value(current value: 8, previous: 0).
+16:37:51 [INFO] variable at index 6 affected, bit 3 flipped.
+16:37:51 [INFO] Fault injection: 
+16:37:51 [INFO] Injected fault: Flipping bit 3 of second value(current value: 15, previous: 7).
+16:37:51 [INFO] variable at index 77 affected, bit 3 flipped.
+16:37:51 [INFO] Fault injection: 
+16:37:51 [INFO] Injected fault: Flipping bit 1 of second value(current value: 3, previous: 1).
+16:37:51 [INFO] variable at index 13 affected, bit 1 flipped.
+16:37:51 [INFO] Fault injection: 
+16:37:51 [INFO] Injected fault: Flipping bit 0 of second value(current value: 5, previous: 4).
+16:37:51 [INFO] variable at index 50 affected, bit 0 flipped.
+16:37:51 [INFO] Fault injection: 
+16:37:51 [INFO] Injected fault: Flipping bit 2 of second value(current value: 2, previous: 6).
+16:37:51 [INFO] variable at index 58 affected, bit 2 flipped.
+16:37:52 [INFO] Fault injection: 
+16:37:52 [INFO] Injected fault: Flipping bit 6 of second value(current value: 69, previous: 5).
+16:37:52 [INFO] variable at index 49 affected, bit 6 flipped.
+16:37:52 [INFO] Fault injection: 
+16:37:52 [INFO] Injected fault: Flipping bit 2 of second value(current value: 4, previous: 0).
+16:37:52 [INFO] variable at index 7 affected, bit 2 flipped.
+16:37:52 [INFO] Fault injection: 
+16:37:52 [INFO] Injected fault: Flipping bit 6 of second value(current value: 72, previous: 8).
+16:37:52 [INFO] variable at index 83 affected, bit 6 flipped.
+16:37:52 [INFO] Fault injection: 
+16:37:52 [INFO] Injected fault: Flipping bit 3 of second value(current value: 9, previous: 1).
+16:37:52 [INFO] variable at index 21 affected, bit 3 flipped.
+16:37:52 [INFO] Fault injection: 
+16:37:52 [INFO] Injected fault: Flipping bit 2 of second value(current value: 2, previous: 6).
+16:37:52 [INFO] variable at index 65 affected, bit 2 flipped.
+16:37:52 [INFO] Fault injection: 
+16:37:52 [INFO] Injected fault: Flipping bit 2 of second value(current value: 13, previous: 9).
+16:37:52 [INFO] variable at index 94 affected, bit 2 flipped.
+16:37:52 [INFO] Fault injection: 
+16:37:52 [INFO] Injected fault: Flipping bit 6 of second value(current value: 65, previous: 1).
+16:37:52 [INFO] variable at index 14 affected, bit 6 flipped.
+16:37:52 [INFO] Fault injection: 
+16:37:52 [INFO] Injected fault: Flipping bit 6 of second value(current value: 73, previous: 9).
+16:37:52 [INFO] variable at index 93 affected, bit 6 flipped.
+16:37:52 [INFO] Fault injection: 
+16:37:52 [INFO] Injected fault: Flipping bit 7 of second value(current value: 134, previous: 6).
+16:37:52 [INFO] variable at index 67 affected, bit 7 flipped.
+16:37:52 [INFO] Fault injection: 
+16:37:52 [INFO] Injected fault: Flipping bit 0 of second value(current value: 7, previous: 6).
+16:37:52 [INFO] variable at index 59 affected, bit 0 flipped.
+16:37:52 [INFO] Fault injection: 
+16:37:52 [INFO] Injected fault: Flipping bit 0 of second value(current value: 4, previous: 5).
+16:37:52 [INFO] variable at index 56 affected, bit 0 flipped.
+16:37:52 [INFO] Fault injection: 
+16:37:52 [INFO] Injected fault: Flipping bit 5 of second value(current value: 40, previous: 8).
+16:37:52 [INFO] variable at index 83 affected, bit 5 flipped.
+16:37:52 [INFO] Fault injection: 
+16:37:52 [INFO] Injected fault: Flipping bit 0 of second value(current value: 9, previous: 8).
+16:37:52 [INFO] variable at index 87 affected, bit 0 flipped.
+16:37:52 [INFO] Fault injection: 
+16:37:52 [INFO] Injected fault: Flipping bit 7 of second value(current value: 131, previous: 3).
+16:37:52 [INFO] variable at index 40 affected, bit 7 flipped.
+16:37:52 [INFO] Fault injection: 
+16:37:52 [INFO] Injected fault: Flipping bit 3 of second value(current value: 8, previous: 0).
+16:37:52 [INFO] variable at index 5 affected, bit 3 flipped.
+16:37:52 [INFO] Fault injection: 
+16:37:52 [INFO] Injected fault: Flipping bit 6 of second value(current value: 72, previous: 8).
+16:37:52 [INFO] variable at index 87 affected, bit 6 flipped.
+16:37:52 [INFO] Fault injection: 
+16:37:52 [INFO] Injected fault: Flipping bit 7 of second value(current value: 133, previous: 5).
+16:37:52 [INFO] variable at index 50 affected, bit 7 flipped.
+16:37:52 [INFO] Fault injection: 
+16:37:52 [INFO] Injected fault: Flipping bit 6 of second value(current value: 67, previous: 3).
+16:37:52 [INFO] variable at index 40 affected, bit 6 flipped.
+16:37:52 [INFO] Fault injection: 
+16:37:52 [INFO] Injected fault: Flipping bit 2 of second value(current value: 2, previous: 6).
+16:37:52 [INFO] variable at index 63 affected, bit 2 flipped.
+16:37:52 [INFO] Fault injection: 
+16:37:52 [INFO] Injected fault: Flipping bit 6 of second value(current value: 69, previous: 5).
+16:37:52 [INFO] variable at index 59 affected, bit 6 flipped.
+16:37:52 [INFO] Fault injection: 
+16:37:52 [INFO] Injected fault: Flipping bit 3 of second value(current value: 11, previous: 3).
+16:37:52 [INFO] variable at index 26 affected, bit 3 flipped.
+16:37:52 [INFO] Fault injection: 
+16:37:52 [INFO] Injected fault: Flipping bit 6 of second value(current value: 67, previous: 3).
+16:37:52 [INFO] variable at index 28 affected, bit 6 flipped.
+16:37:52 [INFO] Fault injection: 
+16:37:52 [INFO] Injected fault: Flipping bit 3 of second value(current value: 15, previous: 7).
+16:37:52 [INFO] variable at index 71 affected, bit 3 flipped.
+16:37:52 [INFO] Fault injection: 
+16:37:52 [INFO] Injected fault: Flipping bit 1 of second value(current value: 3, previous: 1).
+16:37:52 [INFO] variable at index 17 affected, bit 1 flipped.
+16:37:52 [INFO] Fault injection: 
+16:37:52 [INFO] Injected fault: Flipping bit 4 of second value(current value: 22, previous: 6).
+16:37:52 [INFO] variable at index 67 affected, bit 4 flipped.
+16:37:52 [INFO] Fault injection: 
+16:37:52 [INFO] Injected fault: Flipping bit 6 of second value(current value: 68, previous: 4).
+16:37:52 [INFO] variable at index 42 affected, bit 6 flipped.
+16:37:52 [INFO] Fault injection: 
+16:37:52 [INFO] Injected fault: Flipping bit 3 of second value(current value: 11, previous: 3).
+16:37:52 [INFO] variable at index 47 affected, bit 3 flipped.
+16:37:52 [INFO] Fault injection: 
+16:37:52 [INFO] Injected fault: Flipping bit 5 of second value(current value: 34, previous: 2).
+16:37:52 [INFO] variable at index 35 affected, bit 5 flipped.
+16:37:52 [INFO] Fault injection: 
+16:37:52 [INFO] Injected fault: Flipping bit 6 of second value(current value: 71, previous: 7).
+16:37:52 [INFO] variable at index 80 affected, bit 6 flipped.
+16:37:52 [INFO] Fault injection: 
+16:37:52 [INFO] Injected fault: Flipping bit 6 of second value(current value: 67, previous: 3).
+16:37:52 [INFO] variable at index 37 affected, bit 6 flipped.
+16:37:52 [INFO] Fault injection: 
+16:37:52 [INFO] Injected fault: Flipping bit 4 of second value(current value: 23, previous: 7).
+16:37:52 [INFO] variable at index 77 affected, bit 4 flipped.
+16:37:52 [INFO] Fault injection: 
+16:37:52 [INFO] Injected fault: Flipping bit 5 of second value(current value: 36, previous: 4).
+16:37:52 [INFO] variable at index 42 affected, bit 5 flipped.
+16:37:52 [INFO] Fault injection: 
+16:37:52 [INFO] Injected fault: Flipping bit 1 of second value(current value: 0, previous: 2).
+16:37:52 [INFO] variable at index 18 affected, bit 1 flipped.
+16:37:52 [INFO] Fault injection: 
+16:37:52 [INFO] Injected fault: Flipping bit 0 of second value(current value: 9, previous: 8).
+16:37:52 [INFO] variable at index 85 affected, bit 0 flipped.
+16:37:52 [INFO] Fault injection: 
+16:37:52 [INFO] Injected fault: Flipping bit 7 of second value(current value: 130, previous: 2).
+16:37:52 [INFO] variable at index 19 affected, bit 7 flipped.
+16:37:52 [INFO] Fault injection: 
+16:37:52 [INFO] Injected fault: Flipping bit 3 of second value(current value: 0, previous: 8).
+16:37:52 [INFO] variable at index 76 affected, bit 3 flipped.
+16:37:52 [INFO] Fault injection: 
+16:37:52 [INFO] Injected fault: Flipping bit 1 of second value(current value: 11, previous: 9).
+16:37:52 [INFO] variable at index 93 affected, bit 1 flipped.
+16:37:52 [INFO] Fault injection: 
+16:37:52 [INFO] Injected fault: Flipping bit 1 of second value(current value: 1, previous: 3).
+16:37:52 [INFO] variable at index 33 affected, bit 1 flipped.
+16:37:53 [INFO] Fault injection: 
+16:37:53 [INFO] Injected fault: Flipping bit 5 of second value(current value: 32, previous: 0).
+16:37:53 [INFO] variable at index 1 affected, bit 5 flipped.
+16:37:53 [INFO] Fault injection: 
+16:37:53 [INFO] Injected fault: Flipping bit 2 of second value(current value: 2, previous: 6).
+16:37:53 [INFO] variable at index 73 affected, bit 2 flipped.
+16:37:53 [INFO] Fault injection: 
+16:37:53 [INFO] Injected fault: Flipping bit 7 of second value(current value: 137, previous: 9).
+16:37:53 [INFO] variable at index 97 affected, bit 7 flipped.
+16:37:53 [INFO] Fault injection: 
+16:37:53 [INFO] Injected fault: Flipping bit 5 of second value(current value: 41, previous: 9).
+16:37:53 [INFO] variable at index 97 affected, bit 5 flipped.
+16:37:53 [INFO] Fault injection: 
+16:37:53 [INFO] Injected fault: Flipping bit 2 of second value(current value: 1, previous: 5).
+16:37:53 [INFO] variable at index 52 affected, bit 2 flipped.
+16:37:53 [INFO] Fault injection: 
+16:37:53 [INFO] Injected fault: Flipping bit 6 of second value(current value: 71, previous: 7).
+16:37:53 [INFO] variable at index 79 affected, bit 6 flipped.
+16:37:53 [INFO] Fault injection: 
+16:37:53 [INFO] Injected fault: Flipping bit 7 of second value(current value: 133, previous: 5).
+16:37:53 [INFO] variable at index 47 affected, bit 7 flipped.
+16:37:53 [INFO] Fault injection: 
+16:37:53 [INFO] Injected fault: Flipping bit 1 of second value(current value: 1, previous: 3).
+16:37:53 [INFO] variable at index 36 affected, bit 1 flipped.
+16:37:53 [INFO] Fault injection: 
+16:37:53 [INFO] Injected fault: Flipping bit 6 of second value(current value: 67, previous: 3).
+16:37:53 [INFO] variable at index 43 affected, bit 6 flipped.
+16:37:53 [INFO] Fault injection: 
+16:37:53 [INFO] Injected fault: Flipping bit 2 of second value(current value: 6, previous: 2).
+16:37:53 [INFO] variable at index 23 affected, bit 2 flipped.
+16:37:53 [INFO] Fault injection: 
+16:37:53 [INFO] Injected fault: Flipping bit 1 of second value(current value: 10, previous: 8).
+16:37:53 [INFO] variable at index 79 affected, bit 1 flipped.
+16:37:53 [INFO] Fault injection: 
+16:37:53 [INFO] Injected fault: Flipping bit 2 of second value(current value: 2, previous: 6).
+16:37:53 [INFO] variable at index 78 affected, bit 2 flipped.
+16:37:53 [INFO] Fault injection: 
+16:37:53 [INFO] Injected fault: Flipping bit 3 of second value(current value: 15, previous: 7).
+16:37:53 [INFO] variable at index 76 affected, bit 3 flipped.
+16:37:53 [INFO] Fault injection: 
+16:37:53 [INFO] Injected fault: Flipping bit 5 of second value(current value: 32, previous: 0).
+16:37:53 [INFO] variable at index 5 affected, bit 5 flipped.
+16:37:53 [INFO] Fault injection: 
+16:37:53 [INFO] Injected fault: Flipping bit 7 of second value(current value: 129, previous: 1).
+16:37:53 [INFO] variable at index 18 affected, bit 7 flipped.
+16:37:53 [INFO] Fault injection: 
+16:37:53 [INFO] Injected fault: Flipping bit 7 of second value(current value: 129, previous: 1).
+16:37:53 [INFO] variable at index 16 affected, bit 7 flipped.
+16:37:53 [INFO] Fault injection: 
+16:37:53 [INFO] Injected fault: Flipping bit 5 of second value(current value: 35, previous: 3).
+16:37:53 [INFO] variable at index 34 affected, bit 5 flipped.
+16:37:53 [INFO] Fault injection: 
+16:37:53 [INFO] Injected fault: Flipping bit 0 of second value(current value: 6, previous: 7).
+16:37:53 [INFO] variable at index 72 affected, bit 0 flipped.
+16:37:53 [INFO] Fault injection: 
+16:37:53 [INFO] Injected fault: Flipping bit 2 of second value(current value: 13, previous: 9).
+16:37:53 [INFO] variable at index 61 affected, bit 2 flipped.
+16:37:53 [INFO] Analyzer: Variable is invalid: first = 13, second = 9
+16:37:53 [INFO] Fault detected!
+16:37:53 [INFO] Fault injection: 
+16:37:53 [INFO] Injected fault: Flipping bit 5 of second value(current value: 35, previous: 3).
+16:37:53 [INFO] variable at index 29 affected, bit 5 flipped.
+16:37:53 [INFO] Fault injection: 
+16:37:53 [INFO] Injected fault: Flipping bit 1 of second value(current value: 11, previous: 9).
+16:37:53 [INFO] variable at index 99 affected, bit 1 flipped.
+16:37:53 [INFO] Fault injection: 
+16:37:53 [INFO] Injected fault: Flipping bit 0 of second value(current value: 4, previous: 5).
+16:37:53 [INFO] variable at index 51 affected, bit 0 flipped.
+16:37:53 [INFO] Fault injection: 
+16:37:53 [INFO] Injected fault: Flipping bit 3 of second value(current value: 0, previous: 8).
+16:37:53 [INFO] variable at index 82 affected, bit 3 flipped.
+16:37:53 [INFO] Fault injection: 
+16:37:53 [INFO] Injected fault: Flipping bit 3 of second value(current value: 13, previous: 5).
+16:37:53 [INFO] variable at index 60 affected, bit 3 flipped.
+16:37:53 [INFO] Fault injection: 
+16:37:53 [INFO] Injected fault: Flipping bit 4 of second value(current value: 16, previous: 0).
+16:37:53 [INFO] variable at index 4 affected, bit 4 flipped.
+16:37:53 [INFO] Fault injection: 
+16:37:53 [INFO] Injected fault: Flipping bit 3 of second value(current value: 8, previous: 0).
+16:37:53 [INFO] variable at index 8 affected, bit 3 flipped.
+16:37:53 [INFO] Fault injection: 
+16:37:53 [INFO] Injected fault: Flipping bit 4 of second value(current value: 16, previous: 0).
+16:37:53 [INFO] variable at index 2 affected, bit 4 flipped.
+16:37:53 [INFO] Fault injection: 
+16:37:53 [INFO] Injected fault: Flipping bit 6 of second value(current value: 68, previous: 4).
+16:37:53 [INFO] variable at index 45 affected, bit 6 flipped.
+16:37:53 [INFO] Fault injection: 
+16:37:53 [INFO] Injected fault: Flipping bit 1 of second value(current value: 1, previous: 3).
+16:37:53 [INFO] variable at index 36 affected, bit 1 flipped.
+16:37:53 [INFO] Fault injection: 
+16:37:53 [INFO] Injected fault: Flipping bit 6 of second value(current value: 66, previous: 2).
+16:37:53 [INFO] variable at index 22 affected, bit 6 flipped.
+16:37:53 [INFO] Fault injection: 
+16:37:53 [INFO] Injected fault: Flipping bit 7 of second value(current value: 134, previous: 6).
+16:37:53 [INFO] variable at index 64 affected, bit 7 flipped.
+16:37:53 [INFO] Fault injection: 
+16:37:53 [INFO] Injected fault: Flipping bit 7 of second value(current value: 132, previous: 4).
+16:37:53 [INFO] variable at index 47 affected, bit 7 flipped.
+16:37:53 [INFO] Fault injection: 
+16:37:53 [INFO] Injected fault: Flipping bit 6 of second value(current value: 65, previous: 1).
+16:37:53 [INFO] variable at index 24 affected, bit 6 flipped.
+16:37:53 [INFO] Fault injection: 
+16:37:53 [INFO] Injected fault: Flipping bit 6 of second value(current value: 65, previous: 1).
+16:37:53 [INFO] variable at index 17 affected, bit 6 flipped.
+16:37:53 [INFO] Fault injection: 
+16:37:53 [INFO] Injected fault: Flipping bit 0 of second value(current value: 6, previous: 7).
+16:37:53 [INFO] variable at index 77 affected, bit 0 flipped.
+16:37:53 [INFO] Fault injection: 
+16:37:53 [INFO] Injected fault: Flipping bit 5 of second value(current value: 37, previous: 5).
+16:37:53 [INFO] variable at index 57 affected, bit 5 flipped.
+16:37:53 [INFO] Fault injection: 
+16:37:53 [INFO] Injected fault: Flipping bit 0 of second value(current value: 6, previous: 7).
+16:37:53 [INFO] variable at index 71 affected, bit 0 flipped.
+16:37:53 [INFO] Fault injection: 
+16:37:53 [INFO] Injected fault: Flipping bit 5 of second value(current value: 33, previous: 1).
+16:37:53 [INFO] variable at index 17 affected, bit 5 flipped.
+16:37:53 [INFO] Fault injection: 
+16:37:53 [INFO] Injected fault: Flipping bit 7 of second value(current value: 131, previous: 3).
+16:37:53 [INFO] variable at index 35 affected, bit 7 flipped.
+16:37:54 [INFO] Fault injection: 
+16:37:54 [INFO] Injected fault: Flipping bit 7 of second value(current value: 130, previous: 2).
+16:37:54 [INFO] variable at index 23 affected, bit 7 flipped.
+16:37:54 [INFO] Fault injection: 
+16:37:54 [INFO] Injected fault: Flipping bit 2 of second value(current value: 1, previous: 5).
+16:37:54 [INFO] variable at index 53 affected, bit 2 flipped.
+16:37:54 [INFO] Fault injection: 
+16:37:54 [INFO] Injected fault: Flipping bit 6 of second value(current value: 64, previous: 0).
+16:37:54 [INFO] variable at index 10 affected, bit 6 flipped.
+16:37:54 [INFO] Fault injection: 
+16:37:54 [INFO] Injected fault: Flipping bit 0 of second value(current value: 5, previous: 4).
+16:37:54 [INFO] variable at index 40 affected, bit 0 flipped.
+16:37:54 [INFO] Fault injection: 
+16:37:54 [INFO] Injected fault: Flipping bit 4 of second value(current value: 25, previous: 9).
+16:37:54 [INFO] variable at index 90 affected, bit 4 flipped.
+16:37:54 [INFO] Fault injection: 
+16:37:54 [INFO] Injected fault: Flipping bit 5 of second value(current value: 41, previous: 9).
+16:37:54 [INFO] variable at index 92 affected, bit 5 flipped.
+16:37:54 [INFO] Fault injection: 
+16:37:54 [INFO] Injected fault: Flipping bit 0 of second value(current value: 1, previous: 0).
+16:37:54 [INFO] variable at index 12 affected, bit 0 flipped.
+16:37:54 [INFO] Fault injection: 
+16:37:54 [INFO] Injected fault: Flipping bit 0 of second value(current value: 2, previous: 3).
+16:37:54 [INFO] variable at index 39 affected, bit 0 flipped.
+16:37:54 [INFO] Fault injection: 
+16:37:54 [INFO] Injected fault: Flipping bit 5 of second value(current value: 38, previous: 6).
+16:37:54 [INFO] variable at index 70 affected, bit 5 flipped.
+16:37:54 [INFO] Fault injection: 
+16:37:54 [INFO] Injected fault: Flipping bit 3 of second value(current value: 10, previous: 2).
+16:37:54 [INFO] variable at index 20 affected, bit 3 flipped.
+16:37:54 [INFO] Fault injection: 
+16:37:54 [INFO] Injected fault: Flipping bit 6 of second value(current value: 66, previous: 2).
+16:37:54 [INFO] variable at index 21 affected, bit 6 flipped.
+16:37:54 [INFO] Fault injection: 
+16:37:54 [INFO] Injected fault: Flipping bit 4 of second value(current value: 19, previous: 3).
+16:37:54 [INFO] variable at index 42 affected, bit 4 flipped.
+16:37:54 [INFO] Fault injection: 
+16:37:54 [INFO] Injected fault: Flipping bit 0 of second value(current value: 0, previous: 1).
+16:37:54 [INFO] variable at index 17 affected, bit 0 flipped.
+16:37:54 [INFO] Fault injection: 
+16:37:54 [INFO] Injected fault: Flipping bit 6 of second value(current value: 68, previous: 4).
+16:37:54 [INFO] variable at index 37 affected, bit 6 flipped.
+16:37:54 [INFO] Fault injection: 
+16:37:54 [INFO] Injected fault: Flipping bit 3 of second value(current value: 8, previous: 0).
+16:37:54 [INFO] variable at index 1 affected, bit 3 flipped.
+16:37:54 [INFO] Fault injection: 
+16:37:54 [INFO] Injected fault: Flipping bit 0 of second value(current value: 2, previous: 3).
+16:37:54 [INFO] variable at index 35 affected, bit 0 flipped.
+16:37:54 [INFO] Fault injection: 
+16:37:54 [INFO] Injected fault: Flipping bit 4 of second value(current value: 22, previous: 6).
+16:37:54 [INFO] variable at index 75 affected, bit 4 flipped.
+16:37:54 [INFO] Fault injection: 
+16:37:54 [INFO] Injected fault: Flipping bit 7 of second value(current value: 133, previous: 5).
+16:37:54 [INFO] variable at index 46 affected, bit 7 flipped.
+16:37:54 [INFO] Fault injection: 
+16:37:54 [INFO] Injected fault: Flipping bit 4 of second value(current value: 21, previous: 5).
+16:37:54 [INFO] variable at index 50 affected, bit 4 flipped.
+16:37:54 [INFO] Fault injection: 
+16:37:54 [INFO] Injected fault: Flipping bit 0 of second value(current value: 4, previous: 5).
+16:37:54 [INFO] variable at index 49 affected, bit 0 flipped.
+16:37:54 [INFO] Fault injection: 
+16:37:54 [INFO] Injected fault: Flipping bit 0 of second value(current value: 1, previous: 0).
+16:37:54 [INFO] variable at index 4 affected, bit 0 flipped.
+16:37:54 [INFO] Fault injection: 
+16:37:54 [INFO] Injected fault: Flipping bit 6 of second value(current value: 65, previous: 1).
+16:37:54 [INFO] variable at index 21 affected, bit 6 flipped.
+16:37:54 [INFO] Fault injection: 
+16:37:54 [INFO] Injected fault: Flipping bit 3 of second value(current value: 10, previous: 2).
+16:37:54 [INFO] variable at index 37 affected, bit 3 flipped.
+16:37:54 [INFO] Fault injection: 
+16:37:54 [INFO] Injected fault: Flipping bit 3 of second value(current value: 14, previous: 6).
+16:37:54 [INFO] variable at index 65 affected, bit 3 flipped.
+16:37:54 [INFO] Fault injection: 
+16:37:54 [INFO] Injected fault: Flipping bit 0 of second value(current value: 3, previous: 2).
+16:37:54 [INFO] variable at index 23 affected, bit 0 flipped.
+16:37:54 [INFO] Fault injection: 
+16:37:54 [INFO] Injected fault: Flipping bit 1 of second value(current value: 11, previous: 9).
+16:37:54 [INFO] variable at index 99 affected, bit 1 flipped.
+16:37:54 [INFO] Fault injection: 
+16:37:54 [INFO] Injected fault: Flipping bit 7 of second value(current value: 134, previous: 6).
+16:37:54 [INFO] variable at index 59 affected, bit 7 flipped.
+16:37:54 [INFO] Fault injection: 
+16:37:54 [INFO] Injected fault: Flipping bit 6 of second value(current value: 65, previous: 1).
+16:37:54 [INFO] variable at index 12 affected, bit 6 flipped.
+16:37:54 [INFO] Fault injection: 
+16:37:54 [INFO] Injected fault: Flipping bit 6 of second value(current value: 69, previous: 5).
+16:37:54 [INFO] variable at index 58 affected, bit 6 flipped.
+16:37:54 [INFO] Fault injection: 
+16:37:54 [INFO] Injected fault: Flipping bit 1 of second value(current value: 5, previous: 7).
+16:37:54 [INFO] variable at index 77 affected, bit 1 flipped.
+16:37:54 [INFO] Fault injection: 
+16:37:54 [INFO] Injected fault: Flipping bit 4 of second value(current value: 22, previous: 6).
+16:37:54 [INFO] variable at index 66 affected, bit 4 flipped.
+16:37:54 [INFO] Fault injection: 
+16:37:54 [INFO] Injected fault: Flipping bit 4 of second value(current value: 25, previous: 9).
+16:37:54 [INFO] variable at index 90 affected, bit 4 flipped.
+16:37:54 [INFO] Fault injection: 
+16:37:54 [INFO] Injected fault: Flipping bit 2 of second value(current value: 5, previous: 1).
+16:37:54 [INFO] variable at index 13 affected, bit 2 flipped.
+16:37:54 [INFO] Fault injection: 
+16:37:54 [INFO] Injected fault: Flipping bit 4 of second value(current value: 16, previous: 0).
+16:37:54 [INFO] variable at index 1 affected, bit 4 flipped.
+16:37:54 [INFO] Fault injection: 
+16:37:54 [INFO] Injected fault: Flipping bit 5 of second value(current value: 35, previous: 3).
+16:37:54 [INFO] variable at index 35 affected, bit 5 flipped.
+16:37:54 [INFO] Fault injection: 
+16:37:54 [INFO] Injected fault: Flipping bit 4 of second value(current value: 17, previous: 1).
+16:37:54 [INFO] variable at index 9 affected, bit 4 flipped.
+16:37:54 [INFO] Fault injection: 
+16:37:54 [INFO] Injected fault: Flipping bit 2 of second value(current value: 3, previous: 7).
+16:37:54 [INFO] variable at index 74 affected, bit 2 flipped.
+16:37:54 [INFO] Fault injection: 
+16:37:54 [INFO] Injected fault: Flipping bit 7 of second value(current value: 134, previous: 6).
+16:37:54 [INFO] variable at index 65 affected, bit 7 flipped.
+16:37:54 [INFO] Fault injection: 
+16:37:54 [INFO] Injected fault: Flipping bit 4 of second value(current value: 23, previous: 7).
+16:37:54 [INFO] variable at index 71 affected, bit 4 flipped.
+16:37:54 [INFO] Fault injection: 
+16:37:54 [INFO] Injected fault: Flipping bit 4 of second value(current value: 22, previous: 6).
+16:37:54 [INFO] variable at index 66 affected, bit 4 flipped.
+16:37:54 [INFO] Fault injection: 
+16:37:54 [INFO] Injected fault: Flipping bit 3 of second value(current value: 11, previous: 3).
+16:37:54 [INFO] variable at index 39 affected, bit 3 flipped.
+16:37:54 [INFO] Fault injection: 
+16:37:54 [INFO] Injected fault: Flipping bit 7 of second value(current value: 136, previous: 8).
+16:37:54 [INFO] variable at index 87 affected, bit 7 flipped.
+16:37:55 [INFO] Fault injection: 
+16:37:55 [INFO] Injected fault: Flipping bit 3 of second value(current value: 12, previous: 4).
+16:37:55 [INFO] variable at index 52 affected, bit 3 flipped.
+16:37:55 [INFO] Fault injection: 
+16:37:55 [INFO] Injected fault: Flipping bit 7 of second value(current value: 129, previous: 1).
+16:37:55 [INFO] variable at index 11 affected, bit 7 flipped.
+16:37:55 [INFO] Fault injection: 
+16:37:55 [INFO] Injected fault: Flipping bit 2 of second value(current value: 4, previous: 0).
+16:37:55 [INFO] variable at index 6 affected, bit 2 flipped.
+16:37:55 [INFO] Fault injection: 
+16:37:55 [INFO] Injected fault: Flipping bit 7 of second value(current value: 128, previous: 0).
+16:37:55 [INFO] variable at index 2 affected, bit 7 flipped.
+16:37:55 [INFO] Fault injection: 
+16:37:55 [INFO] Injected fault: Flipping bit 5 of second value(current value: 39, previous: 7).
+16:37:55 [INFO] variable at index 74 affected, bit 5 flipped.
+16:37:55 [INFO] Fault injection: 
+16:37:55 [INFO] Injected fault: Flipping bit 6 of second value(current value: 69, previous: 5).
+16:37:55 [INFO] variable at index 51 affected, bit 6 flipped.
+16:37:55 [INFO] Fault injection: 
+16:37:55 [INFO] Injected fault: Flipping bit 6 of second value(current value: 70, previous: 6).
+16:37:55 [INFO] variable at index 68 affected, bit 6 flipped.
+16:37:55 [INFO] Fault injection: 
+16:37:55 [INFO] Injected fault: Flipping bit 1 of second value(current value: 7, previous: 5).
+16:37:55 [INFO] variable at index 55 affected, bit 1 flipped.
+16:37:55 [INFO] Fault injection: 
+16:37:55 [INFO] Injected fault: Flipping bit 1 of second value(current value: 1, previous: 3).
+16:37:55 [INFO] variable at index 41 affected, bit 1 flipped.
+16:37:55 [INFO] Fault injection: 
+16:37:55 [INFO] Injected fault: Flipping bit 7 of second value(current value: 128, previous: 0).
+16:37:55 [INFO] variable at index 2 affected, bit 7 flipped.
+16:37:55 [INFO] Fault injection: 
+16:37:55 [INFO] Injected fault: Flipping bit 6 of second value(current value: 70, previous: 6).
+16:37:55 [INFO] variable at index 63 affected, bit 6 flipped.
+16:37:55 [INFO] Fault injection: 
+16:37:55 [INFO] Injected fault: Flipping bit 5 of second value(current value: 34, previous: 2).
+16:37:55 [INFO] variable at index 38 affected, bit 5 flipped.
+16:37:55 [INFO] Fault injection: 
+16:37:55 [INFO] Injected fault: Flipping bit 6 of second value(current value: 71, previous: 7).
+16:37:55 [INFO] variable at index 73 affected, bit 6 flipped.
+16:37:55 [INFO] Fault injection: 
+16:37:55 [INFO] Injected fault: Flipping bit 7 of second value(current value: 137, previous: 9).
+16:37:55 [INFO] variable at index 98 affected, bit 7 flipped.
+16:37:55 [INFO] Fault injection: 
+16:37:55 [INFO] Injected fault: Flipping bit 4 of second value(current value: 25, previous: 9).
+16:37:55 [INFO] variable at index 89 affected, bit 4 flipped.
+16:37:55 [INFO] Fault injection: 
+16:37:55 [INFO] Injected fault: Flipping bit 4 of second value(current value: 19, previous: 3).
+16:37:55 [INFO] variable at index 41 affected, bit 4 flipped.
+16:37:55 [INFO] Fault injection: 
+16:37:55 [INFO] Injected fault: Flipping bit 2 of second value(current value: 7, previous: 3).
+16:37:55 [INFO] variable at index 40 affected, bit 2 flipped.
+16:37:55 [INFO] Fault injection: 
+16:37:55 [INFO] Injected fault: Flipping bit 4 of second value(current value: 16, previous: 0).
+16:37:55 [INFO] variable at index 0 affected, bit 4 flipped.
+16:37:55 [INFO] Fault injection: 
+16:37:55 [INFO] Injected fault: Flipping bit 6 of second value(current value: 68, previous: 4).
+16:37:55 [INFO] variable at index 38 affected, bit 6 flipped.
+16:37:55 [INFO] Fault injection: 
+16:37:55 [INFO] Injected fault: Flipping bit 5 of second value(current value: 35, previous: 3).
+16:37:55 [INFO] variable at index 13 affected, bit 5 flipped.
+16:37:55 [INFO] Analyzer: Variable is invalid: first = 35, second = 3
+16:37:55 [INFO] Fault detected!
+16:37:55 [INFO] Fault injection: 
+16:37:55 [INFO] Injected fault: Flipping bit 0 of second value(current value: 0, previous: 1).
+16:37:55 [INFO] variable at index 56 affected, bit 0 flipped.
+16:37:55 [INFO] Analyzer: Variable is invalid: first = 0, second = 1
+16:37:55 [INFO] Fault detected!
+16:37:55 [INFO] Fault injection: 
+16:37:55 [INFO] Injected fault: Flipping bit 4 of second value(current value: 23, previous: 7).
+16:37:55 [INFO] variable at index 77 affected, bit 4 flipped.
+16:37:55 [INFO] Fault injection: 
+16:37:55 [INFO] Injected fault: Flipping bit 0 of second value(current value: 1, previous: 0).
+16:37:55 [INFO] variable at index 1 affected, bit 0 flipped.
+16:37:55 [INFO] Fault injection: 
+16:37:55 [INFO] Injected fault: Flipping bit 4 of second value(current value: 21, previous: 5).
+16:37:55 [INFO] variable at index 58 affected, bit 4 flipped.
+16:37:55 [INFO] Fault injection: 
+16:37:55 [INFO] Injected fault: Flipping bit 2 of second value(current value: 1, previous: 5).
+16:37:55 [INFO] variable at index 94 affected, bit 2 flipped.
+16:37:55 [INFO] Analyzer: Variable is invalid: first = 1, second = 5
+16:37:55 [INFO] Fault detected!
+16:37:55 [INFO] Fault injection: 
+16:37:55 [INFO] Injected fault: Flipping bit 1 of second value(current value: 2, previous: 0).
+16:37:55 [INFO] variable at index 10 affected, bit 1 flipped.
+16:37:55 [INFO] Fault injection: 
+16:37:55 [INFO] Injected fault: Flipping bit 5 of second value(current value: 37, previous: 5).
+16:37:55 [INFO] variable at index 48 affected, bit 5 flipped.
+16:37:55 [INFO] Fault injection: 
+16:37:55 [INFO] Injected fault: Flipping bit 7 of second value(current value: 133, previous: 5).
+16:37:55 [INFO] variable at index 54 affected, bit 7 flipped.
+16:37:55 [INFO] Fault injection: 
+16:37:55 [INFO] Injected fault: Flipping bit 7 of second value(current value: 137, previous: 9).
+16:37:55 [INFO] variable at index 98 affected, bit 7 flipped.
+16:37:55 [INFO] Fault injection: 
+16:37:55 [INFO] Injected fault: Flipping bit 2 of second value(current value: 12, previous: 8).
+16:37:55 [INFO] variable at index 92 affected, bit 2 flipped.
+16:37:55 [INFO] Fault injection: 
+16:37:55 [INFO] Injected fault: Flipping bit 5 of second value(current value: 38, previous: 6).
+16:37:55 [INFO] variable at index 63 affected, bit 5 flipped.
+16:37:55 [INFO] Fault injection: 
+16:37:55 [INFO] Injected fault: Flipping bit 6 of second value(current value: 64, previous: 0).
+16:37:55 [INFO] variable at index 3 affected, bit 6 flipped.
+16:37:55 [INFO] Fault injection: 
+16:37:55 [INFO] Injected fault: Flipping bit 6 of second value(current value: 72, previous: 8).
+16:37:55 [INFO] variable at index 84 affected, bit 6 flipped.
+16:37:55 [INFO] Fault injection: 
+16:37:55 [INFO] Injected fault: Flipping bit 3 of second value(current value: 10, previous: 2).
+16:37:55 [INFO] variable at index 22 affected, bit 3 flipped.
+16:37:55 [INFO] Fault injection: 
+16:37:55 [INFO] Injected fault: Flipping bit 1 of second value(current value: 6, previous: 4).
+16:37:55 [INFO] variable at index 35 affected, bit 1 flipped.
+16:37:55 [INFO] Fault injection: 
+16:37:55 [INFO] Injected fault: Flipping bit 4 of second value(current value: 25, previous: 9).
+16:37:55 [INFO] variable at index 93 affected, bit 4 flipped.
+16:37:55 [INFO] Fault injection: 
+16:37:55 [INFO] Injected fault: Flipping bit 2 of second value(current value: 1, previous: 5).
+16:37:55 [INFO] variable at index 58 affected, bit 2 flipped.
+16:37:55 [INFO] Fault injection: 
+16:37:55 [INFO] Injected fault: Flipping bit 4 of second value(current value: 22, previous: 6).
+16:37:55 [INFO] variable at index 62 affected, bit 4 flipped.
+16:37:55 [INFO] Fault injection: 
+16:37:55 [INFO] Injected fault: Flipping bit 0 of second value(current value: 2, previous: 3).
+16:37:55 [INFO] variable at index 28 affected, bit 0 flipped.
+16:37:55 [INFO] Fault injection: 
+16:37:55 [INFO] Injected fault: Flipping bit 3 of second value(current value: 12, previous: 4).
+16:37:55 [INFO] variable at index 45 affected, bit 3 flipped.
+16:37:55 [INFO] Fault injection: 
+16:37:55 [INFO] Injected fault: Flipping bit 4 of second value(current value: 16, previous: 0).
+16:37:55 [INFO] variable at index 12 affected, bit 4 flipped.
+16:37:55 [INFO] Fault injection: 
+16:37:55 [INFO] Injected fault: Flipping bit 4 of second value(current value: 23, previous: 7).
+16:37:55 [INFO] variable at index 83 affected, bit 4 flipped.
+16:37:56 [INFO] Fault injection: 
+16:37:56 [INFO] Injected fault: Flipping bit 3 of second value(current value: 12, previous: 4).
+16:37:56 [INFO] variable at index 47 affected, bit 3 flipped.
+16:37:56 [INFO] Fault injection: 
+16:37:56 [INFO] Injected fault: Flipping bit 6 of second value(current value: 67, previous: 3).
+16:37:56 [INFO] variable at index 31 affected, bit 6 flipped.
+16:37:56 [INFO] Fault injection: 
+16:37:56 [INFO] Injected fault: Flipping bit 5 of second value(current value: 34, previous: 2).
+16:37:56 [INFO] variable at index 32 affected, bit 5 flipped.
+16:37:56 [INFO] Fault injection: 
+16:37:56 [INFO] Injected fault: Flipping bit 0 of second value(current value: 1, previous: 0).
+16:37:56 [INFO] variable at index 2 affected, bit 0 flipped.
+16:37:56 [INFO] Fault injection: 
+16:37:56 [INFO] Injected fault: Flipping bit 3 of second value(current value: 8, previous: 0).
+16:37:56 [INFO] variable at index 0 affected, bit 3 flipped.
+16:37:56 [INFO] Fault injection: 
+16:37:56 [INFO] Injected fault: Flipping bit 4 of second value(current value: 18, previous: 2).
+16:37:56 [INFO] variable at index 32 affected, bit 4 flipped.
+16:37:56 [INFO] Fault injection: 
+16:37:56 [INFO] Injected fault: Flipping bit 7 of second value(current value: 131, previous: 3).
+16:37:56 [INFO] variable at index 38 affected, bit 7 flipped.
+16:37:56 [INFO] Fault injection: 
+16:37:56 [INFO] Injected fault: Flipping bit 4 of second value(current value: 18, previous: 2).
+16:37:56 [INFO] variable at index 28 affected, bit 4 flipped.
+16:37:56 [INFO] Fault injection: 
+16:37:56 [INFO] Injected fault: Flipping bit 4 of second value(current value: 16, previous: 0).
+16:37:56 [INFO] variable at index 5 affected, bit 4 flipped.
+16:37:56 [INFO] Fault injection: 
+16:37:56 [INFO] Injected fault: Flipping bit 6 of second value(current value: 69, previous: 5).
+16:37:56 [INFO] variable at index 64 affected, bit 6 flipped.
+16:37:56 [INFO] Fault injection: 
+16:37:56 [INFO] Injected fault: Flipping bit 2 of second value(current value: 12, previous: 8).
+16:37:56 [INFO] variable at index 87 affected, bit 2 flipped.
+16:37:56 [INFO] Fault injection: 
+16:37:56 [INFO] Injected fault: Flipping bit 2 of second value(current value: 6, previous: 2).
+16:37:56 [INFO] variable at index 31 affected, bit 2 flipped.
+16:37:56 [INFO] Fault injection: 
+16:37:56 [INFO] Injected fault: Flipping bit 5 of second value(current value: 40, previous: 8).
+16:37:56 [INFO] variable at index 62 affected, bit 5 flipped.
+16:37:56 [INFO] Analyzer: Variable is invalid: first = 40, second = 8
+16:37:56 [INFO] Fault detected!
+16:37:56 [INFO] Fault injection: 
+16:37:56 [INFO] Injected fault: Flipping bit 4 of second value(current value: 17, previous: 1).
+16:37:56 [INFO] variable at index 12 affected, bit 4 flipped.
+16:37:56 [INFO] Fault injection: 
+16:37:56 [INFO] Injected fault: Flipping bit 0 of second value(current value: 2, previous: 3).
+16:37:56 [INFO] variable at index 26 affected, bit 0 flipped.
+16:37:56 [INFO] Fault injection: 
+16:37:56 [INFO] Injected fault: Flipping bit 3 of second value(current value: 10, previous: 2).
+16:37:56 [INFO] variable at index 20 affected, bit 3 flipped.
+16:37:56 [INFO] Fault injection: 
+16:37:56 [INFO] Injected fault: Flipping bit 6 of second value(current value: 66, previous: 2).
+16:37:56 [INFO] variable at index 49 affected, bit 6 flipped.
+16:37:56 [INFO] Analyzer: Variable is invalid: first = 66, second = 2
+16:37:56 [INFO] Fault detected!
+16:37:56 [INFO] Fault injection: 
+16:37:56 [INFO] Injected fault: Flipping bit 5 of second value(current value: 33, previous: 1).
+16:37:56 [INFO] variable at index 14 affected, bit 5 flipped.
+16:37:56 [INFO] Fault injection: 
+16:37:56 [INFO] Injected fault: Flipping bit 1 of second value(current value: 11, previous: 9).
+16:37:56 [INFO] variable at index 92 affected, bit 1 flipped.
+16:37:56 [INFO] Fault injection: 
+16:37:56 [INFO] Injected fault: Flipping bit 0 of second value(current value: 0, previous: 1).
+16:37:56 [INFO] variable at index 18 affected, bit 0 flipped.
+16:37:56 [INFO] Fault injection: 
+16:37:56 [INFO] Injected fault: Flipping bit 7 of second value(current value: 128, previous: 0).
+16:37:56 [INFO] variable at index 0 affected, bit 7 flipped.
+16:37:56 [INFO] Fault injection: 
+16:37:56 [INFO] Injected fault: Flipping bit 3 of second value(current value: 8, previous: 0).
+16:37:56 [INFO] variable at index 1 affected, bit 3 flipped.
+16:37:56 [INFO] Fault injection: 
+16:37:56 [INFO] Injected fault: Flipping bit 2 of second value(current value: 3, previous: 7).
+16:37:56 [INFO] variable at index 74 affected, bit 2 flipped.
+16:37:56 [INFO] Fault injection: 
+16:37:56 [INFO] Injected fault: Flipping bit 3 of second value(current value: 15, previous: 7).
+16:37:56 [INFO] variable at index 77 affected, bit 3 flipped.
+16:37:56 [INFO] Fault injection: 
+16:37:56 [INFO] Injected fault: Flipping bit 6 of second value(current value: 72, previous: 8).
+16:37:56 [INFO] variable at index 90 affected, bit 6 flipped.
+16:37:56 [INFO] Fault injection: 
+16:37:56 [INFO] Injected fault: Flipping bit 5 of second value(current value: 36, previous: 4).
+16:37:56 [INFO] variable at index 45 affected, bit 5 flipped.
+16:37:56 [INFO] Fault injection: 
+16:37:56 [INFO] Injected fault: Flipping bit 6 of second value(current value: 66, previous: 2).
+16:37:56 [INFO] variable at index 25 affected, bit 6 flipped.
+16:37:56 [INFO] Fault injection: 
+16:37:56 [INFO] Injected fault: Flipping bit 5 of second value(current value: 39, previous: 7).
+16:37:56 [INFO] variable at index 74 affected, bit 5 flipped.
+16:37:56 [INFO] Fault injection: 
+16:37:56 [INFO] Injected fault: Flipping bit 6 of second value(current value: 69, previous: 5).
+16:37:56 [INFO] variable at index 64 affected, bit 6 flipped.
+16:37:56 [INFO] Fault injection: 
+16:37:56 [INFO] Injected fault: Flipping bit 3 of second value(current value: 1, previous: 9).
+16:37:56 [INFO] variable at index 92 affected, bit 3 flipped.
+16:37:56 [INFO] Fault injection: 
+16:37:56 [INFO] Injected fault: Flipping bit 3 of second value(current value: 11, previous: 3).
+16:37:56 [INFO] variable at index 43 affected, bit 3 flipped.
+16:37:56 [INFO] Fault injection: 
+16:37:56 [INFO] Injected fault: Flipping bit 7 of second value(current value: 136, previous: 8).
+16:37:56 [INFO] variable at index 82 affected, bit 7 flipped.
+16:37:56 [INFO] Fault injection: 
+16:37:56 [INFO] Injected fault: Flipping bit 7 of second value(current value: 131, previous: 3).
+16:37:56 [INFO] variable at index 23 affected, bit 7 flipped.
+16:37:56 [INFO] Fault injection: 
+16:37:56 [INFO] Injected fault: Flipping bit 7 of second value(current value: 132, previous: 4).
+16:37:56 [INFO] variable at index 41 affected, bit 7 flipped.
+16:37:56 [INFO] Fault injection: 
+16:37:56 [INFO] Injected fault: Flipping bit 7 of second value(current value: 129, previous: 1).
+16:37:56 [INFO] variable at index 22 affected, bit 7 flipped.
+16:37:56 [INFO] Fault injection: 
+16:37:56 [INFO] Injected fault: Flipping bit 1 of second value(current value: 10, previous: 8).
+16:37:56 [INFO] variable at index 85 affected, bit 1 flipped.
+16:37:56 [INFO] Fault injection: 
+16:37:56 [INFO] Injected fault: Flipping bit 1 of second value(current value: 4, previous: 6).
+16:37:56 [INFO] variable at index 74 affected, bit 1 flipped.
+16:37:56 [INFO] Fault injection: 
+16:37:56 [INFO] Injected fault: Flipping bit 6 of second value(current value: 65, previous: 1).
+16:37:56 [INFO] variable at index 10 affected, bit 6 flipped.
+16:37:56 [INFO] Fault injection: 
+16:37:56 [INFO] Injected fault: Flipping bit 6 of second value(current value: 64, previous: 0).
+16:37:56 [INFO] variable at index 10 affected, bit 6 flipped.
+16:37:56 [INFO] Fault injection: 
+16:37:56 [INFO] Injected fault: Flipping bit 1 of second value(current value: 5, previous: 7).
+16:37:56 [INFO] variable at index 74 affected, bit 1 flipped.
+16:37:56 [INFO] Fault injection: 
+16:37:56 [INFO] Injected fault: Flipping bit 5 of second value(current value: 35, previous: 3).
+16:37:56 [INFO] variable at index 31 affected, bit 5 flipped.
+16:37:56 [INFO] Fault injection: 
+16:37:56 [INFO] Injected fault: Flipping bit 5 of second value(current value: 35, previous: 3).
+16:37:56 [INFO] variable at index 29 affected, bit 5 flipped.
+16:37:56 [INFO] Fault injection: 
+16:37:56 [INFO] Injected fault: Flipping bit 4 of second value(current value: 25, previous: 9).
+16:37:56 [INFO] variable at index 95 affected, bit 4 flipped.
+16:37:57 [INFO] Fault injection: 
+16:37:57 [INFO] Injected fault: Flipping bit 7 of second value(current value: 135, previous: 7).
+16:37:57 [INFO] variable at index 85 affected, bit 7 flipped.
+16:37:57 [INFO] Fault injection: 
+16:37:57 [INFO] Injected fault: Flipping bit 4 of second value(current value: 23, previous: 7).
+16:37:57 [INFO] variable at index 70 affected, bit 4 flipped.
+16:37:57 [INFO] Fault injection: 
+16:37:57 [INFO] Injected fault: Flipping bit 2 of second value(current value: 7, previous: 3).
+16:37:57 [INFO] variable at index 28 affected, bit 2 flipped.
+16:37:57 [INFO] Fault injection: 
+16:37:57 [INFO] Injected fault: Flipping bit 6 of second value(current value: 66, previous: 2).
+16:37:57 [INFO] variable at index 22 affected, bit 6 flipped.
+16:37:57 [INFO] Fault injection: 
+16:37:57 [INFO] Injected fault: Flipping bit 4 of second value(current value: 25, previous: 9).
+16:37:57 [INFO] variable at index 95 affected, bit 4 flipped.
+16:37:57 [INFO] Fault injection: 
+16:37:57 [INFO] Injected fault: Flipping bit 4 of second value(current value: 21, previous: 5).
+16:37:57 [INFO] variable at index 55 affected, bit 4 flipped.
+16:37:57 [INFO] Fault injection: 
+16:37:57 [INFO] Injected fault: Flipping bit 6 of second value(current value: 72, previous: 8).
+16:37:57 [INFO] variable at index 84 affected, bit 6 flipped.
+16:37:57 [INFO] Fault injection: 
+16:37:57 [INFO] Injected fault: Flipping bit 2 of second value(current value: 3, previous: 7).
+16:37:57 [INFO] variable at index 77 affected, bit 2 flipped.
+16:37:57 [INFO] Fault injection: 
+16:37:57 [INFO] Injected fault: Flipping bit 4 of second value(current value: 22, previous: 6).
+16:37:57 [INFO] variable at index 65 affected, bit 4 flipped.
+16:37:57 [INFO] Fault injection: 
+16:37:57 [INFO] Injected fault: Flipping bit 2 of second value(current value: 1, previous: 5).
+16:37:57 [INFO] variable at index 56 affected, bit 2 flipped.
+16:37:57 [INFO] Fault injection: 
+16:37:57 [INFO] Injected fault: Flipping bit 3 of second value(current value: 11, previous: 3).
+16:37:57 [INFO] variable at index 32 affected, bit 3 flipped.
+16:37:57 [INFO] Fault injection: 
+16:37:57 [INFO] Injected fault: Flipping bit 2 of second value(current value: 3, previous: 7).
+16:37:57 [INFO] variable at index 77 affected, bit 2 flipped.
+16:37:57 [INFO] Fault injection: 
+16:37:57 [INFO] Injected fault: Flipping bit 7 of second value(current value: 130, previous: 2).
+16:37:57 [INFO] variable at index 18 affected, bit 7 flipped.
+16:37:57 [INFO] Fault injection: 
+16:37:57 [INFO] Injected fault: Flipping bit 5 of second value(current value: 32, previous: 0).
+16:37:57 [INFO] variable at index 9 affected, bit 5 flipped.
+16:37:57 [INFO] Fault injection: 
+16:37:57 [INFO] Injected fault: Flipping bit 3 of second value(current value: 11, previous: 3).
+16:37:57 [INFO] variable at index 42 affected, bit 3 flipped.
+16:37:57 [INFO] Fault injection: 
+16:37:57 [INFO] Injected fault: Flipping bit 5 of second value(current value: 40, previous: 8).
+16:37:57 [INFO] variable at index 87 affected, bit 5 flipped.
+16:37:57 [INFO] Fault injection: 
+16:37:57 [INFO] Injected fault: Flipping bit 5 of second value(current value: 39, previous: 7).
+16:37:57 [INFO] variable at index 81 affected, bit 5 flipped.
+16:37:57 [INFO] Fault injection: 
+16:37:57 [INFO] Injected fault: Flipping bit 5 of second value(current value: 38, previous: 6).
+16:37:57 [INFO] variable at index 64 affected, bit 5 flipped.
+16:37:57 [INFO] Fault injection: 
+16:37:57 [INFO] Injected fault: Flipping bit 0 of second value(current value: 2, previous: 3).
+16:37:57 [INFO] variable at index 29 affected, bit 0 flipped.
+16:37:57 [INFO] Fault injection: 
+16:37:57 [INFO] Injected fault: Flipping bit 5 of second value(current value: 35, previous: 3).
+16:37:57 [INFO] variable at index 40 affected, bit 5 flipped.
+16:37:57 [INFO] Fault injection: 
+16:37:57 [INFO] Injected fault: Flipping bit 6 of second value(current value: 70, previous: 6).
+16:37:57 [INFO] variable at index 72 affected, bit 6 flipped.
+16:37:57 [INFO] Fault injection: 
+16:37:57 [INFO] Injected fault: Flipping bit 1 of second value(current value: 7, previous: 5).
+16:37:57 [INFO] variable at index 59 affected, bit 1 flipped.
+16:37:57 [INFO] Fault injection: 
+16:37:57 [INFO] Injected fault: Flipping bit 7 of second value(current value: 130, previous: 2).
+16:37:57 [INFO] variable at index 23 affected, bit 7 flipped.
+16:37:57 [INFO] Fault injection: 
+16:37:57 [INFO] Injected fault: Flipping bit 6 of second value(current value: 67, previous: 3).
+16:37:57 [INFO] variable at index 42 affected, bit 6 flipped.
+16:37:57 [INFO] Fault injection: 
+16:37:57 [INFO] Injected fault: Flipping bit 6 of second value(current value: 65, previous: 1).
+16:37:57 [INFO] variable at index 16 affected, bit 6 flipped.
+16:37:57 [INFO] Fault injection: 
+16:37:57 [INFO] Injected fault: Flipping bit 6 of second value(current value: 66, previous: 2).
+16:37:57 [INFO] variable at index 30 affected, bit 6 flipped.
+16:37:57 [INFO] Fault injection: 
+16:37:57 [INFO] Injected fault: Flipping bit 0 of second value(current value: 6, previous: 7).
+16:37:57 [INFO] variable at index 78 affected, bit 0 flipped.
+16:37:57 [INFO] Fault injection: 
+16:37:57 [INFO] Injected fault: Flipping bit 0 of second value(current value: 7, previous: 6).
+16:37:57 [INFO] variable at index 63 affected, bit 0 flipped.
+16:37:57 [INFO] Fault injection: 
+16:37:57 [INFO] Injected fault: Flipping bit 3 of second value(current value: 8, previous: 0).
+16:37:57 [INFO] variable at index 10 affected, bit 3 flipped.
+16:37:57 [INFO] Fault injection: 
+16:37:57 [INFO] Injected fault: Flipping bit 4 of second value(current value: 25, previous: 9).
+16:37:57 [INFO] variable at index 91 affected, bit 4 flipped.
+16:37:57 [INFO] Fault injection: 
+16:37:57 [INFO] Injected fault: Flipping bit 6 of second value(current value: 72, previous: 8).
+16:37:57 [INFO] variable at index 83 affected, bit 6 flipped.
+16:37:57 [INFO] Fault injection: 
+16:37:57 [INFO] Injected fault: Flipping bit 4 of second value(current value: 18, previous: 2).
+16:37:57 [INFO] variable at index 24 affected, bit 4 flipped.
+16:37:57 [INFO] Fault injection: 
+16:37:57 [INFO] Injected fault: Flipping bit 6 of second value(current value: 71, previous: 7).
+16:37:57 [INFO] variable at index 71 affected, bit 6 flipped.
+16:37:57 [INFO] Fault injection: 
+16:37:57 [INFO] Injected fault: Flipping bit 0 of second value(current value: 8, previous: 9).
+16:37:57 [INFO] variable at index 91 affected, bit 0 flipped.
+16:37:57 [INFO] Fault injection: 
+16:37:57 [INFO] Injected fault: Flipping bit 6 of second value(current value: 65, previous: 1).
+16:37:57 [INFO] variable at index 11 affected, bit 6 flipped.
+16:37:57 [INFO] Fault injection: 
+16:37:57 [INFO] Injected fault: Flipping bit 5 of second value(current value: 41, previous: 9).
+16:37:57 [INFO] variable at index 87 affected, bit 5 flipped.
+16:37:57 [INFO] Fault injection: 
+16:37:57 [INFO] Injected fault: Flipping bit 1 of second value(current value: 4, previous: 6).
+16:37:57 [INFO] variable at index 72 affected, bit 1 flipped.
+16:37:57 [INFO] Fault injection: 
+16:37:57 [INFO] Injected fault: Flipping bit 2 of second value(current value: 0, previous: 4).
+16:37:57 [INFO] variable at index 49 affected, bit 2 flipped.
+16:37:57 [INFO] Fault injection: 
+16:37:57 [INFO] Injected fault: Flipping bit 2 of second value(current value: 6, previous: 2).
+16:37:57 [INFO] variable at index 25 affected, bit 2 flipped.
+16:37:58 [INFO] Fault injection: 
+16:37:58 [INFO] Injected fault: Flipping bit 2 of second value(current value: 7, previous: 3).
+16:37:58 [INFO] variable at index 33 affected, bit 2 flipped.
+16:37:58 [INFO] Fault injection: 
+16:37:58 [INFO] Injected fault: Flipping bit 6 of second value(current value: 66, previous: 2).
+16:37:58 [INFO] variable at index 27 affected, bit 6 flipped.
+16:37:58 [INFO] Fault injection: 
+16:37:58 [INFO] Injected fault: Flipping bit 4 of second value(current value: 16, previous: 0).
+16:37:58 [INFO] variable at index 11 affected, bit 4 flipped.
+16:37:58 [INFO] Fault injection: 
+16:37:58 [INFO] Injected fault: Flipping bit 2 of second value(current value: 1, previous: 5).
+16:37:58 [INFO] variable at index 54 affected, bit 2 flipped.
+16:37:58 [INFO] Fault injection: 
+16:37:58 [INFO] Injected fault: Flipping bit 7 of second value(current value: 137, previous: 9).
+16:37:58 [INFO] variable at index 97 affected, bit 7 flipped.
+16:37:58 [INFO] Fault injection: 
+16:37:58 [INFO] Injected fault: Flipping bit 1 of second value(current value: 4, previous: 6).
+16:37:58 [INFO] variable at index 64 affected, bit 1 flipped.
+16:37:58 [INFO] Fault injection: 
+16:37:58 [INFO] Injected fault: Flipping bit 6 of second value(current value: 70, previous: 6).
+16:37:58 [INFO] variable at index 68 affected, bit 6 flipped.
+16:37:58 [INFO] Fault injection: 
+16:37:58 [INFO] Injected fault: Flipping bit 7 of second value(current value: 129, previous: 1).
+16:37:58 [INFO] variable at index 23 affected, bit 7 flipped.
+16:37:58 [INFO] Fault injection: 
+16:37:58 [INFO] Injected fault: Flipping bit 0 of second value(current value: 0, previous: 1).
+16:37:58 [INFO] variable at index 19 affected, bit 0 flipped.
+16:37:58 [INFO] Fault injection: 
+16:37:58 [INFO] Injected fault: Flipping bit 4 of second value(current value: 18, previous: 2).
+16:37:58 [INFO] variable at index 24 affected, bit 4 flipped.
+16:37:58 [INFO] Fault injection: 
+16:37:58 [INFO] Injected fault: Flipping bit 6 of second value(current value: 73, previous: 9).
+16:37:58 [INFO] variable at index 96 affected, bit 6 flipped.
+16:37:58 [INFO] Fault injection: 
+16:37:58 [INFO] Injected fault: Flipping bit 0 of second value(current value: 7, previous: 6).
+16:37:58 [INFO] variable at index 62 affected, bit 0 flipped.
+16:37:58 [INFO] Fault injection: 
+16:37:58 [INFO] Injected fault: Flipping bit 2 of second value(current value: 2, previous: 6).
+16:37:58 [INFO] variable at index 70 affected, bit 2 flipped.
+16:37:58 [INFO] Fault injection: 
+16:37:58 [INFO] Injected fault: Flipping bit 2 of second value(current value: 7, previous: 3).
+16:37:58 [INFO] variable at index 38 affected, bit 2 flipped.
+16:37:58 [INFO] Fault injection: 
+16:37:58 [INFO] Injected fault: Flipping bit 3 of second value(current value: 0, previous: 8).
+16:37:58 [INFO] variable at index 79 affected, bit 3 flipped.
+16:37:58 [INFO] Fault injection: 
+16:37:58 [INFO] Injected fault: Flipping bit 5 of second value(current value: 39, previous: 7).
+16:37:58 [INFO] variable at index 76 affected, bit 5 flipped.
+16:37:58 [INFO] Fault injection: 
+16:37:58 [INFO] Injected fault: Flipping bit 6 of second value(current value: 66, previous: 2).
+16:37:58 [INFO] variable at index 18 affected, bit 6 flipped.
+16:37:58 [INFO] Fault injection: 
+16:37:58 [INFO] Injected fault: Flipping bit 2 of second value(current value: 13, previous: 9).
+16:37:58 [INFO] variable at index 96 affected, bit 2 flipped.
+16:37:58 [INFO] Fault injection: 
+16:37:58 [INFO] Injected fault: Flipping bit 4 of second value(current value: 16, previous: 0).
+16:37:58 [INFO] variable at index 7 affected, bit 4 flipped.
+16:37:58 [INFO] Fault injection: 
+16:37:58 [INFO] Injected fault: Flipping bit 5 of second value(current value: 34, previous: 2).
+16:37:58 [INFO] variable at index 27 affected, bit 5 flipped.
+16:37:58 [INFO] Fault injection: 
+16:37:58 [INFO] Injected fault: Flipping bit 2 of second value(current value: 3, previous: 7).
+16:37:58 [INFO] variable at index 76 affected, bit 2 flipped.
+16:37:58 [INFO] Fault injection: 
+16:37:58 [INFO] Injected fault: Flipping bit 0 of second value(current value: 2, previous: 3).
+16:37:58 [INFO] variable at index 36 affected, bit 0 flipped.
+16:37:58 [INFO] Fault injection: 
+16:37:58 [INFO] Injected fault: Flipping bit 3 of second value(current value: 1, previous: 9).
+16:37:58 [INFO] variable at index 99 affected, bit 3 flipped.
+16:37:58 [INFO] Fault injection: 
+16:37:58 [INFO] Injected fault: Flipping bit 2 of second value(current value: 5, previous: 1).
+16:37:58 [INFO] variable at index 18 affected, bit 2 flipped.
+16:37:58 [INFO] Fault injection: 
+16:37:58 [INFO] Injected fault: Flipping bit 3 of second value(current value: 14, previous: 6).
+16:37:58 [INFO] variable at index 67 affected, bit 3 flipped.
+16:37:58 [INFO] Fault injection: 
+16:37:58 [INFO] Injected fault: Flipping bit 5 of second value(current value: 39, previous: 7).
+16:37:58 [INFO] variable at index 81 affected, bit 5 flipped.
+16:37:58 [INFO] Fault injection: 
+16:37:58 [INFO] Injected fault: Flipping bit 3 of second value(current value: 1, previous: 9).
+16:37:58 [INFO] variable at index 97 affected, bit 3 flipped.
+16:37:58 [INFO] Fault injection: 
+16:37:58 [INFO] Injected fault: Flipping bit 3 of second value(current value: 11, previous: 3).
+16:37:58 [INFO] variable at index 37 affected, bit 3 flipped.
+16:37:58 [INFO] Fault injection: 
+16:37:58 [INFO] Injected fault: Flipping bit 7 of second value(current value: 130, previous: 2).
+16:37:58 [INFO] variable at index 24 affected, bit 7 flipped.
+16:37:58 [INFO] Fault injection: 
+16:37:58 [INFO] Injected fault: Flipping bit 7 of second value(current value: 134, previous: 6).
+16:37:58 [INFO] variable at index 62 affected, bit 7 flipped.
+16:37:58 [INFO] Fault injection: 
+16:37:58 [INFO] Injected fault: Flipping bit 4 of second value(current value: 18, previous: 2).
+16:37:58 [INFO] variable at index 21 affected, bit 4 flipped.
+16:37:58 [INFO] Fault injection: 
+16:37:58 [INFO] Injected fault: Flipping bit 3 of second value(current value: 8, previous: 0).
+16:37:58 [INFO] variable at index 6 affected, bit 3 flipped.
+16:37:58 [INFO] Fault injection: 
+16:37:58 [INFO] Injected fault: Flipping bit 6 of second value(current value: 71, previous: 7).
+16:37:58 [INFO] variable at index 74 affected, bit 6 flipped.
+16:37:58 [INFO] Fault injection: 
+16:37:58 [INFO] Injected fault: Flipping bit 6 of second value(current value: 68, previous: 4).
+16:37:58 [INFO] variable at index 50 affected, bit 6 flipped.
+16:37:58 [INFO] Fault injection: 
+16:37:58 [INFO] Injected fault: Flipping bit 0 of second value(current value: 3, previous: 2).
+16:37:58 [INFO] variable at index 31 affected, bit 0 flipped.
+16:37:58 [INFO] Fault injection: 
+16:37:58 [INFO] Injected fault: Flipping bit 4 of second value(current value: 16, previous: 0).
+16:37:58 [INFO] variable at index 5 affected, bit 4 flipped.
+16:37:59 [INFO] Fault injection: 
+16:37:59 [INFO] Injected fault: Flipping bit 0 of second value(current value: 1, previous: 0).
+16:37:59 [INFO] variable at index 1 affected, bit 0 flipped.
+16:37:59 [INFO] Fault injection: 
+16:37:59 [INFO] Injected fault: Flipping bit 6 of second value(current value: 68, previous: 4).
+16:37:59 [INFO] variable at index 44 affected, bit 6 flipped.
+16:37:59 [INFO] Fault injection: 
+16:37:59 [INFO] Injected fault: Flipping bit 1 of second value(current value: 5, previous: 7).
+16:37:59 [INFO] variable at index 79 affected, bit 1 flipped.
+16:37:59 [INFO] Fault injection: 
+16:37:59 [INFO] Injected fault: Flipping bit 5 of second value(current value: 35, previous: 3).
+16:37:59 [INFO] variable at index 34 affected, bit 5 flipped.
+16:37:59 [INFO] Fault injection: 
+16:37:59 [INFO] Injected fault: Flipping bit 6 of second value(current value: 65, previous: 1).
+16:37:59 [INFO] variable at index 15 affected, bit 6 flipped.
+16:37:59 [INFO] Fault injection: 
+16:37:59 [INFO] Injected fault: Flipping bit 6 of second value(current value: 71, previous: 7).
+16:37:59 [INFO] variable at index 75 affected, bit 6 flipped.
+16:37:59 [INFO] Fault injection: 
+16:37:59 [INFO] Injected fault: Flipping bit 4 of second value(current value: 22, previous: 6).
+16:37:59 [INFO] variable at index 59 affected, bit 4 flipped.
+16:37:59 [INFO] Fault injection: 
+16:37:59 [INFO] Injected fault: Flipping bit 1 of second value(current value: 10, previous: 8).
+16:37:59 [INFO] variable at index 74 affected, bit 1 flipped.
+16:37:59 [INFO] Fault injection: 
+16:37:59 [INFO] Injected fault: Flipping bit 7 of second value(current value: 136, previous: 8).
+16:37:59 [INFO] variable at index 78 affected, bit 7 flipped.
+16:37:59 [INFO] Fault injection: 
+16:37:59 [INFO] Injected fault: Flipping bit 7 of second value(current value: 130, previous: 2).
+16:37:59 [INFO] variable at index 25 affected, bit 7 flipped.
+16:37:59 [INFO] Fault injection: 
+16:37:59 [INFO] Injected fault: Flipping bit 5 of second value(current value: 41, previous: 9).
+16:37:59 [INFO] variable at index 91 affected, bit 5 flipped.
+16:37:59 [INFO] Fault injection: 
+16:37:59 [INFO] Injected fault: Flipping bit 5 of second value(current value: 34, previous: 2).
+16:37:59 [INFO] variable at index 28 affected, bit 5 flipped.
+16:37:59 [INFO] Fault injection: 
+16:37:59 [INFO] Injected fault: Flipping bit 1 of second value(current value: 10, previous: 8).
+16:37:59 [INFO] variable at index 80 affected, bit 1 flipped.
+16:37:59 [INFO] Fault injection: 
+16:37:59 [INFO] Injected fault: Flipping bit 0 of second value(current value: 8, previous: 9).
+16:37:59 [INFO] variable at index 95 affected, bit 0 flipped.
+16:37:59 [INFO] Fault injection: 
+16:37:59 [INFO] Injected fault: Flipping bit 3 of second value(current value: 12, previous: 4).
+16:37:59 [INFO] variable at index 47 affected, bit 3 flipped.
+16:37:59 [INFO] Fault injection: 
+16:37:59 [INFO] Injected fault: Flipping bit 7 of second value(current value: 132, previous: 4).
+16:37:59 [INFO] variable at index 47 affected, bit 7 flipped.
+16:37:59 [INFO] Fault injection: 
+16:37:59 [INFO] Injected fault: Flipping bit 0 of second value(current value: 3, previous: 2).
+16:37:59 [INFO] variable at index 30 affected, bit 0 flipped.
+16:37:59 [INFO] Fault injection: 
+16:37:59 [INFO] Injected fault: Flipping bit 3 of second value(current value: 10, previous: 2).
+16:37:59 [INFO] variable at index 22 affected, bit 3 flipped.
+16:37:59 [INFO] Fault injection: 
+16:37:59 [INFO] Injected fault: Flipping bit 2 of second value(current value: 3, previous: 7).
+16:37:59 [INFO] variable at index 72 affected, bit 2 flipped.
+16:37:59 [INFO] Fault injection: 
+16:37:59 [INFO] Injected fault: Flipping bit 4 of second value(current value: 17, previous: 1).
+16:37:59 [INFO] variable at index 10 affected, bit 4 flipped.
+16:37:59 [INFO] Fault injection: 
+16:37:59 [INFO] Injected fault: Flipping bit 1 of second value(current value: 0, previous: 2).
+16:37:59 [INFO] variable at index 25 affected, bit 1 flipped.
+16:37:59 [INFO] Fault injection: 
+16:37:59 [INFO] Injected fault: Flipping bit 0 of second value(current value: 2, previous: 3).
+16:37:59 [INFO] variable at index 29 affected, bit 0 flipped.
+16:37:59 [INFO] Fault injection: 
+16:37:59 [INFO] Injected fault: Flipping bit 1 of second value(current value: 10, previous: 8).
+16:37:59 [INFO] variable at index 86 affected, bit 1 flipped.
+16:37:59 [INFO] Fault injection: 
+16:37:59 [INFO] Injected fault: Flipping bit 5 of second value(current value: 33, previous: 1).
+16:37:59 [INFO] variable at index 16 affected, bit 5 flipped.
+16:37:59 [INFO] Fault injection: 
+16:37:59 [INFO] Injected fault: Flipping bit 0 of second value(current value: 5, previous: 4).
+16:37:59 [INFO] variable at index 43 affected, bit 0 flipped.
+16:37:59 [INFO] Fault injection: 
+16:37:59 [INFO] Injected fault: Flipping bit 4 of second value(current value: 24, previous: 8).
+16:37:59 [INFO] variable at index 81 affected, bit 4 flipped.
+16:37:59 [INFO] Fault injection: 
+16:37:59 [INFO] Injected fault: Flipping bit 5 of second value(current value: 34, previous: 2).
+16:37:59 [INFO] variable at index 25 affected, bit 5 flipped.
+16:37:59 [INFO] Fault injection: 
+16:37:59 [INFO] Injected fault: Flipping bit 5 of second value(current value: 34, previous: 2).
+16:37:59 [INFO] variable at index 19 affected, bit 5 flipped.
+16:37:59 [INFO] Fault injection: 
+16:37:59 [INFO] Injected fault: Flipping bit 2 of second value(current value: 5, previous: 1).
+16:37:59 [INFO] variable at index 19 affected, bit 2 flipped.
+16:37:59 [INFO] Fault injection: 
+16:37:59 [INFO] Injected fault: Flipping bit 4 of second value(current value: 21, previous: 5).
+16:37:59 [INFO] variable at index 58 affected, bit 4 flipped.
+16:37:59 [INFO] Fault injection: 
+16:37:59 [INFO] Injected fault: Flipping bit 1 of second value(current value: 4, previous: 6).
+16:37:59 [INFO] variable at index 68 affected, bit 1 flipped.
+16:37:59 [INFO] Fault injection: 
+16:37:59 [INFO] Injected fault: Flipping bit 3 of second value(current value: 11, previous: 3).
+16:37:59 [INFO] variable at index 35 affected, bit 3 flipped.
+16:37:59 [INFO] Fault injection: 
+16:37:59 [INFO] Injected fault: Flipping bit 6 of second value(current value: 73, previous: 9).
+16:37:59 [INFO] variable at index 87 affected, bit 6 flipped.
+16:37:59 [INFO] Fault injection: 
+16:37:59 [INFO] Injected fault: Flipping bit 1 of second value(current value: 10, previous: 8).
+16:37:59 [INFO] variable at index 83 affected, bit 1 flipped.
+16:37:59 [INFO] Fault injection: 
+16:37:59 [INFO] Injected fault: Flipping bit 1 of second value(current value: 2, previous: 0).
+16:37:59 [INFO] variable at index 12 affected, bit 1 flipped.
+16:37:59 [INFO] Fault injection: 
+16:37:59 [INFO] Injected fault: Flipping bit 3 of second value(current value: 0, previous: 8).
+16:37:59 [INFO] variable at index 92 affected, bit 3 flipped.
+16:37:59 [INFO] Fault injection: 
+16:37:59 [INFO] Injected fault: Flipping bit 1 of second value(current value: 5, previous: 7).
+16:37:59 [INFO] variable at index 75 affected, bit 1 flipped.
+16:37:59 [INFO] Fault injection: 
+16:37:59 [INFO] Injected fault: Flipping bit 0 of second value(current value: 9, previous: 8).
+16:37:59 [INFO] variable at index 82 affected, bit 0 flipped.
+16:38:00 [INFO] Fault injection: 
+16:38:00 [INFO] Injected fault: Flipping bit 1 of second value(current value: 11, previous: 9).
+16:38:00 [INFO] variable at index 97 affected, bit 1 flipped.
+16:38:00 [INFO] Fault injection: 
+16:38:00 [INFO] Injected fault: Flipping bit 5 of second value(current value: 34, previous: 2).
+16:38:00 [INFO] variable at index 80 affected, bit 5 flipped.
+16:38:00 [INFO] Analyzer: Variable is invalid: first = 34, second = 2
+16:38:00 [INFO] Fault detected!
+16:38:00 [INFO] Fault injection: 
+16:38:00 [INFO] Injected fault: Flipping bit 4 of second value(current value: 24, previous: 8).
+16:38:00 [INFO] variable at index 89 affected, bit 4 flipped.
+16:38:00 [INFO] Fault injection: 
+16:38:00 [INFO] Injected fault: Flipping bit 3 of second value(current value: 14, previous: 6).
+16:38:00 [INFO] variable at index 66 affected, bit 3 flipped.
+16:38:00 [INFO] Fault injection: 
+16:38:00 [INFO] Injected fault: Flipping bit 2 of second value(current value: 5, previous: 1).
+16:38:00 [INFO] variable at index 15 affected, bit 2 flipped.
+16:38:00 [INFO] Fault injection: 
+16:38:00 [INFO] Injected fault: Flipping bit 4 of second value(current value: 23, previous: 7).
+16:38:00 [INFO] variable at index 75 affected, bit 4 flipped.
+16:38:00 [INFO] Fault injection: 
+16:38:00 [INFO] Injected fault: Flipping bit 1 of second value(current value: 0, previous: 2).
+16:38:00 [INFO] variable at index 21 affected, bit 1 flipped.
+16:38:00 [INFO] Fault injection: 
+16:38:00 [INFO] Injected fault: Flipping bit 6 of second value(current value: 65, previous: 1).
+16:38:00 [INFO] variable at index 13 affected, bit 6 flipped.
+16:38:00 [INFO] Fault injection: 
+16:38:00 [INFO] Injected fault: Flipping bit 0 of second value(current value: 3, previous: 2).
+16:38:00 [INFO] variable at index 29 affected, bit 0 flipped.
+16:38:00 [INFO] Fault injection: 
+16:38:00 [INFO] Injected fault: Flipping bit 5 of second value(current value: 38, previous: 6).
+16:38:00 [INFO] variable at index 57 affected, bit 5 flipped.
+16:38:00 [INFO] Fault injection: 
+16:38:00 [INFO] Injected fault: Flipping bit 3 of second value(current value: 15, previous: 7).
+16:38:00 [INFO] variable at index 73 affected, bit 3 flipped.
+16:38:00 [INFO] Fault injection: 
+16:38:00 [INFO] Injected fault: Flipping bit 3 of second value(current value: 14, previous: 6).
+16:38:00 [INFO] variable at index 64 affected, bit 3 flipped.
+16:38:00 [INFO] Fault injection: 
+16:38:00 [INFO] Injected fault: Flipping bit 1 of second value(current value: 10, previous: 8).
+16:38:00 [INFO] variable at index 85 affected, bit 1 flipped.
+16:38:00 [INFO] Fault injection: 
+16:38:00 [INFO] Injected fault: Flipping bit 4 of second value(current value: 16, previous: 0).
+16:38:00 [INFO] variable at index 3 affected, bit 4 flipped.
+16:38:00 [INFO] Fault injection: 
+16:38:00 [INFO] Injected fault: Flipping bit 2 of second value(current value: 3, previous: 7).
+16:38:00 [INFO] variable at index 68 affected, bit 2 flipped.
+16:38:00 [INFO] Fault injection: 
+16:38:00 [INFO] Injected fault: Flipping bit 6 of second value(current value: 69, previous: 5).
+16:38:00 [INFO] variable at index 61 affected, bit 6 flipped.
+16:38:00 [INFO] Fault injection: 
+16:38:00 [INFO] Injected fault: Flipping bit 1 of second value(current value: 0, previous: 2).
+16:38:00 [INFO] variable at index 73 affected, bit 1 flipped.
+16:38:00 [INFO] Analyzer: Variable is invalid: first = 0, second = 2
+16:38:00 [INFO] Fault detected!
+16:38:00 [INFO] Fault injection: 
+16:38:00 [INFO] Injected fault: Flipping bit 2 of second value(current value: 2, previous: 6).
+16:38:00 [INFO] variable at index 67 affected, bit 2 flipped.
+16:38:00 [INFO] Fault injection: 
+16:38:00 [INFO] Injected fault: Flipping bit 4 of second value(current value: 19, previous: 3).
+16:38:00 [INFO] variable at index 33 affected, bit 4 flipped.
+16:38:00 [INFO] Fault injection: 
+16:38:00 [INFO] Injected fault: Flipping bit 2 of second value(current value: 4, previous: 0).
+16:38:00 [INFO] variable at index 2 affected, bit 2 flipped.
+16:38:00 [INFO] Fault injection: 
+16:38:00 [INFO] Injected fault: Flipping bit 1 of second value(current value: 3, previous: 1).
+16:38:00 [INFO] variable at index 17 affected, bit 1 flipped.
+16:38:00 [INFO] Fault injection: 
+16:38:00 [INFO] Injected fault: Flipping bit 7 of second value(current value: 132, previous: 4).
+16:38:00 [INFO] variable at index 48 affected, bit 7 flipped.
+16:38:00 [INFO] Fault injection: 
+16:38:00 [INFO] Injected fault: Flipping bit 2 of second value(current value: 4, previous: 0).
+16:38:00 [INFO] variable at index 6 affected, bit 2 flipped.
+16:38:00 [INFO] Fault injection: 
+16:38:00 [INFO] Injected fault: Flipping bit 3 of second value(current value: 14, previous: 6).
+16:38:00 [INFO] variable at index 64 affected, bit 3 flipped.
+16:38:00 [INFO] Fault injection: 
+16:38:00 [INFO] Injected fault: Flipping bit 5 of second value(current value: 41, previous: 9).
+16:38:00 [INFO] variable at index 97 affected, bit 5 flipped.
+16:38:00 [INFO] Fault injection: 
+16:38:00 [INFO] Injected fault: Flipping bit 2 of second value(current value: 5, previous: 1).
+16:38:00 [INFO] variable at index 7 affected, bit 2 flipped.
+16:38:00 [INFO] Fault injection: 
+16:38:00 [INFO] Injected fault: Flipping bit 4 of second value(current value: 20, previous: 4).
+16:38:00 [INFO] variable at index 33 affected, bit 4 flipped.
+16:38:00 [INFO] Fault injection: 
+16:38:00 [INFO] Injected fault: Flipping bit 4 of second value(current value: 19, previous: 3).
+16:38:00 [INFO] variable at index 20 affected, bit 4 flipped.
+16:38:00 [INFO] Fault injection: 
+16:38:00 [INFO] Injected fault: Flipping bit 5 of second value(current value: 40, previous: 8).
+16:38:00 [INFO] variable at index 83 affected, bit 5 flipped.
+16:38:00 [INFO] Fault injection: 
+16:38:00 [INFO] Injected fault: Flipping bit 0 of second value(current value: 5, previous: 4).
+16:38:00 [INFO] variable at index 47 affected, bit 0 flipped.
+16:38:00 [INFO] Fault injection: 
+16:38:00 [INFO] Injected fault: Flipping bit 3 of second value(current value: 15, previous: 7).
+16:38:00 [INFO] variable at index 69 affected, bit 3 flipped.
+16:38:00 [INFO] Fault injection: 
+16:38:00 [INFO] Injected fault: Flipping bit 0 of second value(current value: 9, previous: 8).
+16:38:00 [INFO] variable at index 88 affected, bit 0 flipped.
+16:38:00 [INFO] Fault injection: 
+16:38:00 [INFO] Injected fault: Flipping bit 2 of second value(current value: 7, previous: 3).
+16:38:00 [INFO] variable at index 38 affected, bit 2 flipped.
+16:38:00 [INFO] Fault injection: 
+16:38:00 [INFO] Injected fault: Flipping bit 0 of second value(current value: 2, previous: 3).
+16:38:00 [INFO] variable at index 35 affected, bit 0 flipped.
+16:38:00 [INFO] Fault injection: 
+16:38:00 [INFO] Injected fault: Flipping bit 6 of second value(current value: 71, previous: 7).
+16:38:00 [INFO] variable at index 72 affected, bit 6 flipped.
+16:38:00 [INFO] Fault injection: 
+16:38:00 [INFO] Injected fault: Flipping bit 2 of second value(current value: 4, previous: 0).
+16:38:00 [INFO] variable at index 4 affected, bit 2 flipped.
+16:38:00 [INFO] Fault injection: 
+16:38:00 [INFO] Injected fault: Flipping bit 0 of second value(current value: 2, previous: 3).
+16:38:00 [INFO] variable at index 42 affected, bit 0 flipped.
+16:38:00 [INFO] Fault injection: 
+16:38:00 [INFO] Injected fault: Flipping bit 4 of second value(current value: 22, previous: 6).
+16:38:00 [INFO] variable at index 66 affected, bit 4 flipped.
+16:38:00 [INFO] Fault injection: 
+16:38:00 [INFO] Injected fault: Flipping bit 5 of second value(current value: 38, previous: 6).
+16:38:00 [INFO] variable at index 57 affected, bit 5 flipped.
+16:38:00 [INFO] Fault injection: 
+16:38:00 [INFO] Injected fault: Flipping bit 2 of second value(current value: 2, previous: 6).
+16:38:00 [INFO] variable at index 68 affected, bit 2 flipped.
+16:38:00 [INFO] Fault injection: 
+16:38:00 [INFO] Injected fault: Flipping bit 5 of second value(current value: 41, previous: 9).
+16:38:00 [INFO] variable at index 88 affected, bit 5 flipped.
+16:38:00 [INFO] Fault injection: 
+16:38:00 [INFO] Injected fault: Flipping bit 6 of second value(current value: 66, previous: 2).
+16:38:00 [INFO] variable at index 21 affected, bit 6 flipped.
+16:38:01 [INFO] Fault injection: 
+16:38:01 [INFO] Injected fault: Flipping bit 1 of second value(current value: 10, previous: 8).
+16:38:01 [INFO] variable at index 82 affected, bit 1 flipped.
+16:38:01 [INFO] Fault injection: 
+16:38:01 [INFO] Injected fault: Flipping bit 6 of second value(current value: 67, previous: 3).
+16:38:01 [INFO] variable at index 47 affected, bit 6 flipped.
+16:38:01 [INFO] Fault injection: 
+16:38:01 [INFO] Injected fault: Flipping bit 3 of second value(current value: 0, previous: 8).
+16:38:01 [INFO] variable at index 65 affected, bit 3 flipped.
+16:38:01 [INFO] Analyzer: Variable is invalid: first = 0, second = 8
+16:38:01 [INFO] Fault detected!
+16:38:01 [INFO] Fault injection: 
+16:38:01 [INFO] Injected fault: Flipping bit 5 of second value(current value: 34, previous: 2).
+16:38:01 [INFO] variable at index 24 affected, bit 5 flipped.
+16:38:01 [INFO] Fault injection: 
+16:38:01 [INFO] Injected fault: Flipping bit 6 of second value(current value: 73, previous: 9).
+16:38:01 [INFO] variable at index 92 affected, bit 6 flipped.
+16:38:01 [INFO] Fault injection: 
+16:38:01 [INFO] Injected fault: Flipping bit 1 of second value(current value: 5, previous: 7).
+16:38:01 [INFO] variable at index 75 affected, bit 1 flipped.
+16:38:01 [INFO] Fault injection: 
+16:38:01 [INFO] Injected fault: Flipping bit 5 of second value(current value: 37, previous: 5).
+16:38:01 [INFO] variable at index 57 affected, bit 5 flipped.
+16:38:01 [INFO] Fault injection: 
+16:38:01 [INFO] Injected fault: Flipping bit 1 of second value(current value: 6, previous: 4).
+16:38:01 [INFO] variable at index 52 affected, bit 1 flipped.
+16:38:01 [INFO] Fault injection: 
+16:38:01 [INFO] Injected fault: Flipping bit 2 of second value(current value: 3, previous: 7).
+16:38:01 [INFO] variable at index 63 affected, bit 2 flipped.
+16:38:01 [INFO] Fault injection: 
+16:38:01 [INFO] Injected fault: Flipping bit 1 of second value(current value: 11, previous: 9).
+16:38:01 [INFO] variable at index 97 affected, bit 1 flipped.
+16:38:01 [INFO] Fault injection: 
+16:38:01 [INFO] Injected fault: Flipping bit 0 of second value(current value: 5, previous: 4).
+16:38:01 [INFO] variable at index 51 affected, bit 0 flipped.
+16:38:01 [INFO] Fault injection: 
+16:38:01 [INFO] Injected fault: Flipping bit 5 of second value(current value: 41, previous: 9).
+16:38:01 [INFO] variable at index 96 affected, bit 5 flipped.
+16:38:01 [INFO] Fault injection: 
+16:38:01 [INFO] Injected fault: Flipping bit 4 of second value(current value: 18, previous: 2).
+16:38:01 [INFO] variable at index 33 affected, bit 4 flipped.
+16:38:01 [INFO] Fault injection: 
+16:38:01 [INFO] Injected fault: Flipping bit 2 of second value(current value: 7, previous: 3).
+16:38:01 [INFO] variable at index 43 affected, bit 2 flipped.
+16:38:01 [INFO] Fault injection: 
+16:38:01 [INFO] Injected fault: Flipping bit 6 of second value(current value: 73, previous: 9).
+16:38:01 [INFO] variable at index 99 affected, bit 6 flipped.
+16:38:01 [INFO] Fault injection: 
+16:38:01 [INFO] Injected fault: Flipping bit 0 of second value(current value: 7, previous: 6).
+16:38:01 [INFO] variable at index 57 affected, bit 0 flipped.
+16:38:01 [INFO] Fault injection: 
+16:38:01 [INFO] Injected fault: Flipping bit 2 of second value(current value: 0, previous: 4).
+16:38:01 [INFO] variable at index 50 affected, bit 2 flipped.
+16:38:01 [INFO] Fault injection: 
+16:38:01 [INFO] Injected fault: Flipping bit 5 of second value(current value: 32, previous: 0).
+16:38:01 [INFO] variable at index 2 affected, bit 5 flipped.
+16:38:01 [INFO] Fault injection: 
+16:38:01 [INFO] Injected fault: Flipping bit 4 of second value(current value: 19, previous: 3).
+16:38:01 [INFO] variable at index 36 affected, bit 4 flipped.
+16:38:01 [INFO] Fault injection: 
+16:38:01 [INFO] Injected fault: Flipping bit 3 of second value(current value: 12, previous: 4).
+16:38:01 [INFO] variable at index 39 affected, bit 3 flipped.
+16:38:01 [INFO] Fault injection: 
+16:38:01 [INFO] Injected fault: Flipping bit 4 of second value(current value: 20, previous: 4).
+16:38:01 [INFO] variable at index 46 affected, bit 4 flipped.
+16:38:01 [INFO] Fault injection: 
+16:38:01 [INFO] Injected fault: Flipping bit 0 of second value(current value: 1, previous: 0).
+16:38:01 [INFO] variable at index 4 affected, bit 0 flipped.
+16:38:01 [INFO] Fault injection: 
+16:38:01 [INFO] Injected fault: Flipping bit 2 of second value(current value: 4, previous: 0).
+16:38:01 [INFO] variable at index 3 affected, bit 2 flipped.
+16:38:01 [INFO] Fault injection: 
+16:38:01 [INFO] Injected fault: Flipping bit 2 of second value(current value: 5, previous: 1).
+16:38:01 [INFO] variable at index 14 affected, bit 2 flipped.
+16:38:01 [INFO] Fault injection: 
+16:38:01 [INFO] Injected fault: Flipping bit 0 of second value(current value: 8, previous: 9).
+16:38:01 [INFO] variable at index 94 affected, bit 0 flipped.
+16:38:01 [INFO] Fault injection: 
+16:38:01 [INFO] Injected fault: Flipping bit 1 of second value(current value: 2, previous: 0).
+16:38:01 [INFO] variable at index 1 affected, bit 1 flipped.
+16:38:01 [INFO] Fault injection: 
+16:38:01 [INFO] Injected fault: Flipping bit 2 of second value(current value: 2, previous: 6).
+16:38:01 [INFO] variable at index 63 affected, bit 2 flipped.
+16:38:01 [INFO] Fault injection: 
+16:38:01 [INFO] Injected fault: Flipping bit 1 of second value(current value: 4, previous: 6).
+16:38:01 [INFO] variable at index 66 affected, bit 1 flipped.
+16:38:01 [INFO] Fault injection: 
+16:38:01 [INFO] Injected fault: Flipping bit 0 of second value(current value: 5, previous: 4).
+16:38:01 [INFO] variable at index 46 affected, bit 0 flipped.
+16:38:01 [INFO] Fault injection: 
+16:38:01 [INFO] Injected fault: Flipping bit 5 of second value(current value: 35, previous: 3).
+16:38:01 [INFO] variable at index 30 affected, bit 5 flipped.
+16:38:01 [INFO] Fault injection: 
+16:38:01 [INFO] Injected fault: Flipping bit 7 of second value(current value: 136, previous: 8).
+16:38:01 [INFO] variable at index 95 affected, bit 7 flipped.
+16:38:01 [INFO] Fault injection: 
+16:38:01 [INFO] Injected fault: Flipping bit 6 of second value(current value: 69, previous: 5).
+16:38:01 [INFO] variable at index 46 affected, bit 6 flipped.
+16:38:01 [INFO] Fault injection: 
+16:38:01 [INFO] Injected fault: Flipping bit 4 of second value(current value: 19, previous: 3).
+16:38:01 [INFO] variable at index 31 affected, bit 4 flipped.
+16:38:01 [INFO] Fault injection: 
+16:38:01 [INFO] Injected fault: Flipping bit 7 of second value(current value: 129, previous: 1).
+16:38:01 [INFO] variable at index 20 affected, bit 7 flipped.
+16:38:01 [INFO] Fault injection: 
+16:38:01 [INFO] Injected fault: Flipping bit 3 of second value(current value: 15, previous: 7).
+16:38:01 [INFO] variable at index 81 affected, bit 3 flipped.
+16:38:01 [INFO] Fault injection: 
+16:38:01 [INFO] Injected fault: Flipping bit 4 of second value(current value: 24, previous: 8).
+16:38:01 [INFO] variable at index 87 affected, bit 4 flipped.
+16:38:01 [INFO] Fault injection: 
+16:38:01 [INFO] Injected fault: Flipping bit 3 of second value(current value: 15, previous: 7).
+16:38:01 [INFO] variable at index 74 affected, bit 3 flipped.
