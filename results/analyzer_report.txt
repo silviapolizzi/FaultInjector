@@ -1,0 +1,6 @@
+Analyzer Report
+
+Fault Count: 1542
+Total Checks: 10000
+Valid Checks: 8079
+Invalid Checks: 379

@@ -1,4 +1,4 @@
-use std::fs::File;
+use std::fs::{File, create_dir_all};
 use std::io::Write;
 use cpu_time::ThreadTime;
 use std::mem::size_of;
@@ -45,8 +45,9 @@ impl Analyzer {
     }
 
     pub fn report_to_file(&self, file_path: &str) {
+        create_dir_all("results").expect("Unable to create results directory");
         let report = self.generate_report();
-        let mut file = File::create(file_path).expect("Unable to create file");
+        let mut file = File::create(format!("results/{}", file_path)).expect("Unable to create file");
         file.write_all(report.as_bytes()).expect("Unable to write data");
     }
 
@@ -62,6 +63,7 @@ impl Analyzer {
 
 
 pub fn measure_memory_overhead(num_elements: usize) -> String {
+    create_dir_all("results").expect("Unable to create results directory");
     let redundant_var_size = size_of::<Redundant<i32>>();
     let non_redundant_var_size = size_of::<i32>();
 
@@ -74,13 +76,15 @@ pub fn measure_memory_overhead(num_elements: usize) -> String {
         total_memory_redundant, total_memory_non_redundant, total_memory_redundant - total_memory_non_redundant
     );
 
-    let mut file = File::create("memory_overhead_report.txt").expect("Unable to create file");
+    let mut file = File::create("results/memory_overhead_report.txt").expect("Unable to create file");
     file.write_all(report.as_bytes()).expect("Unable to write data");
 
     report
 }
 
 pub fn measure_cpu_time_overhead(num_elements: usize) -> String {
+    create_dir_all("results").expect("Unable to create results directory");
+
     let mut redundant_array = generate_random_array(num_elements);
     let mut non_redundant_array: Vec<i32> = redundant_array.iter().map(|x| x.get().unwrap()).collect();
 
@@ -102,7 +106,7 @@ pub fn measure_cpu_time_overhead(num_elements: usize) -> String {
         duration_redundant, duration_non_redundant, overhead
     );
 
-    let mut file = File::create("cpu_time_overhead_report.txt").expect("Unable to create file");
+    let mut file = File::create("results/cpu_time_overhead_report.txt").expect("Unable to create file");
     file.write_all(report.as_bytes()).expect("Unable to write data");
 
     report

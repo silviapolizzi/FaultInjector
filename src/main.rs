@@ -6,17 +6,17 @@ use my_library::sorting::bubble_sort;
 
 use my_library::utility::{load_config, generate_random_array};
 use simplelog::*;
-use std::fs::File;
+use std::fs::{File, create_dir_all};
 
 
 fn main() {
     let config = load_config("config.toml");
-
+    create_dir_all("results").expect("Unable to create results directory");
     CombinedLogger::init(vec![
         WriteLogger::new(
             LevelFilter::Info,
             Config::default(),
-            File::create("fault_injection.log").unwrap(),
+            File::create("results/fault_injection.log").unwrap(),
         ),
     ])
     .unwrap();
