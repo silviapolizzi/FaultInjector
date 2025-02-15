@@ -3,7 +3,7 @@ use std::io::Write;
 use cpu_time::ThreadTime;
 use std::mem::size_of;
 use crate::redundant::Redundant;
-use crate::sorting::{bubble_sort, non_redundant_bubble_sort};
+use crate::sorting::{redundant_bubble_sort, non_redundant_bubble_sort};
 use crate::utility::generate_random_array;
 
 
@@ -86,7 +86,7 @@ pub fn measure_cpu_time_overhead(num_elements: usize) -> String {
 
     // Misura CPU time per il sorting con ridondanza
     let thread_time_start_redundant = ThreadTime::now();
-    let _ = bubble_sort(&mut redundant_array);
+    let _ = redundant_bubble_sort(&mut redundant_array);
     let duration_redundant = thread_time_start_redundant.elapsed();
 
     // Misura CPU time per il sorting senza ridondanza

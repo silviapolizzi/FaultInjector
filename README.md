@@ -1,32 +1,5 @@
 # Group-27
 
-
-## TO DO
-
-- [x] Tratto per variabile ridondante
-- [x] Programma bubble sort
-- [x] Fault injector
-- [x] Analizzatore
-- [x] Funzione che inventa n guasti (almeno >100, tipo 1000). In input prende il n. di guasti e le variabili da iniettare.
-- [ ]
-
-
-## REQUISITI
-- [x] Sistema ciclico di iniezione (lancio programma -  lancio iniezione - esito - aggiornamento dei dati)
-- [x] Stima in termini di overhead (memoria e CPU time)
-
-## DA SISTEMARE
-- [x] integrare is_valid in get (TRATTO)
-- [x] sarebbe meglio se all'interno del bubble sort non venisse richiamato l'analyzer, ma magari piuttosto, che quando resituisce false, richiama l'analizer e la funzione log_fault()
-- [x] sempre per rendere il bubble sort independente dal resto del codice, sarebbe meglio che quando fa il get delle variabili, in qualche modo che non ho idea, si interrompese il bubble sort come fa adesso e ritornasse false 
-- [x] check che gli improvements sopra non abbiano variato la logica del programma
-- [ ] sistemare il modulo bubble sort per renderlo unico
-- [x] cambiare nome variabili nel Tratto
-
-*IN AGGIORNAMENTO*
-
------
-
 ## Strutture Dati
 
 - **Analyzer**: Gestisce il conteggio dei guasti e i risultati delle operazioni di ordinamento.

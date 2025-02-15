@@ -53,14 +53,12 @@ fn main() {
         });
 
         // Bubble sort
-        // let sort_analyzer = Arc::clone(&analyzer);
         let bubble_sort_array = Arc::clone(&shared_array);
-        
         // Aspetta che il fault injector inizi
         start_barrier.wait();
-        
         // Esegui il bubble sort sull'array condiviso
-        let result = bubble_sort(&mut bubble_sort_array.lock().unwrap());
+        let result = bubble_sort(&bubble_sort_array);
+
 
 
 
