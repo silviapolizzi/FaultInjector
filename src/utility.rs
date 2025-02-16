@@ -4,12 +4,12 @@ use rand::{thread_rng, Rng};
 use crate::redundant::Redundant;
 
 
-#[derive(Deserialize)]
+#[derive(Deserialize)] 
 pub struct Config {
     pub num_elements: usize,
     pub num_faults: usize,
-    pub max_bit_to_flip: u8,
-    pub fault_injection_time: usize, // Tempo di iniezione in millisecondi o nanosecondi
+    pub max_bit_to_flip: u8,  //u8 è sufficiente per il caso di studio (i32)
+    pub fault_injection_time: u64, // Tempo di iniezione in millisecondi
 }
 pub fn load_config(filename: &str) -> Config {
     let config_data = fs::read_to_string(filename).expect("Unable to read config file");

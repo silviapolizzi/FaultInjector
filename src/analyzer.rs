@@ -35,7 +35,7 @@ impl Analyzer {
         }
     }
     
-    // Metodo per stampare il report finale
+    // Stampare il report finale
     pub fn report(&self) {
         println!("--- Analyzer Report ---");
         println!("Faults detected: {}", self.fault_count);
@@ -52,8 +52,7 @@ impl Analyzer {
     }
 
     fn generate_report(&self) -> String {
-
-        // Format the report
+        // Formatta il report
         format!(
             "Analyzer Report\n\nFault Count: {}\nTotal Checks: {}\nValid Checks: {}\nInvalid Checks: {}\n",
             self.fault_count, self.correct_runs + self.incorrect_runs + self.fault_count, self.correct_runs, self.incorrect_runs

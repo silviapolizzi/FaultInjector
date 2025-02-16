@@ -25,42 +25,44 @@ fn main() {
     let fault_injection_time = config.fault_injection_time;
     let max_bit_to_flip = config.max_bit_to_flip;
     let faults = generate_faults(num_elements, config.num_faults, max_bit_to_flip,fault_injection_time);
-    let analyzer = Arc::new(Mutex::new(Analyzer::new())); // Crea un analizzatore condiviso
+    let mut analyzer= Analyzer::new(); // Crea un nuovo Analyzer
 
-    // Measure memory overhead
+    // Misura l'overhead di memoria
     let memory_overhead_report = measure_memory_overhead(num_elements);
 
-    // Measure CPU time overhead
-    let cpu_time_overhead_report = measure_cpu_time_overhead(num_elements*100);
+    // Misura l'overhead di CPU time
+    let cpu_time_overhead_report = measure_cpu_time_overhead(num_elements);
 
-    // Save analyzer report to file
-    analyzer.lock().unwrap().report_to_file("analyzer_report.txt");
+    // Salva il report dell'analizzatore su file
+    analyzer.report_to_file("analyzer_report.txt");
 
-    // Print reports to console (optional)
+    // Stampa i report sulla console 
     println!("{}", memory_overhead_report);
     println!("{}", cpu_time_overhead_report);
 
     for fault in faults {
         // Crea un nuovo array per ogni fault
         let shared_array = Arc::new(Mutex::new(generate_random_array(num_elements))); // Array condiviso
-        let start_barrier = Arc::new(Barrier::new(2)); // Barriera per sincronizzazione tra thread
+        let start_barrier = Arc::new(Barrier::new(2)); // Barriera per sincronizzazione tra (2) thread
 
         // Thread per iniettare fault
         let injector_array = Arc::clone(&shared_array);
         let injector_barrier = Arc::clone(&start_barrier);
         let injector_thread = thread::spawn(move || {
-            fault_injector(injector_array, fault, injector_barrier); // Esegui l'iniezione del fault
+            fault_injector(injector_array, fault, injector_barrier); // Esegue l'iniezione del fault
         });
 
-        // Bubble sort
+        // Bubble sort 
+
         let bubble_sort_array = Arc::clone(&shared_array);
-        // Aspetta che il fault injector inizi
-        start_barrier.wait();
-        // Esegui il bubble sort sull'array condiviso
-        let result = bubble_sort(&bubble_sort_array);
+        start_barrier.wait();  // Aspetta che il fault injector inizi
+        let result = bubble_sort(&bubble_sort_array); // Esegue il bubble sort sull'array condiviso
+        // result è un Result<bool, String>, contiene l'informazione che l'ordinamento sia andato a buon fine senza errori o ci sono stati fault
+        // bubble_sort_array a questo punto è stato ordinato
 
 
-
+        // Aspetta il completamento dell'iniettore
+        injector_thread.join().unwrap();
 
         // Verifica risultato finale
         let correct_sort = bubble_sort_array
@@ -72,25 +74,20 @@ fn main() {
             .windows(2)
             .all(|w| w[0] <= w[1]); // Controlla se l'array è ordinato
 
-        // Logica per gestire i risultati
-        let mut analyzer_lock = analyzer.lock().unwrap();
-        
-        // Aspetta il completamento dell'iniettore
-        injector_thread.join().unwrap();
 
         if result.is_ok() {
             if correct_sort {
-                analyzer_lock.log_result(true); // Esecuzione corretta
+                analyzer.log_result(true); // Esecuzione corretta
             } else {
-                analyzer_lock.log_result(false); // Esecuzione errata
+                analyzer.log_result(false); // Esecuzione errata
             }
         } else {
             log::info!("Analyzer: {}", result.unwrap_err());
-            analyzer_lock.log_fault(); // Fault durante il sorting
+            analyzer.log_fault(); // Fault durante il sorting
         }
     }
 
     // Risultati finali
-    analyzer.lock().unwrap().report(); // Stampa il report finale
-    analyzer.lock().unwrap().report_to_file("analyzer_report.txt");
+    analyzer.report(); // Stampa il report finale
+    analyzer.report_to_file("analyzer_report.txt");
 }

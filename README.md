@@ -1,34 +1,55 @@
-# Group-27
+# GROUP 27
+# **Fault Injection System for Redundant Application**
 
-## Strutture Dati
+## **Descrizione**
+Questo progetto implementa un sistema di fault injection per valutare la resilienza di un'applicazione che utilizza variabili ridondate. Il sistema introduce guasti di tipo bit-flip in un array di numeri interi e analizza il loro effetto sull'algoritmo di Bubble Sort, misurando la capacità del meccanismo di ridondanza nel rilevare e gestire gli errori.
+L'applicazione consente di:
+- Iniettare **fault casuali** in un array ridondato.
+- Eseguire il **Bubble Sort** su dati potenzialmente corrotti.
+- Misurare l'**overhead di memoria** e **CPU time** introdotti dalla ridondanza.
+- Analizzare il numero di correct runs, fault detected e incorrect runs per valutare l'impatto dei guasti e il comportamento del sistema in presenza di errori
 
-- **Analyzer**: Gestisce il conteggio dei guasti e i risultati delle operazioni di ordinamento.
-- **Redundant<T>**: Una struttura che contiene un valore e la sua copia, consentendo verifiche di validità per garantire l'integrità dei dati.
-- **Fault**: Rappresenta un guasto con un indice, il bit da invertire e un ritardo prima dell'iniezione.
+## **Struttura del progetto**
+- **`src/Redundant.rs`** → Definizione della struttura dati `Redundant<T>` per la gestione delle variabili ridondate.
+- **`src/Sorting.rs`** → Implementazione del **Bubble Sort** con e senza ridondanza.
+- **`src/Fault.rs`** → Generazione e iniezione dei guasti.
+- **`src/Analyzer.rs`** → Registrazione e analisi dei risultati.
+- **`src/Utility.rs`** → Caricamento della configurazione e generazione degli array.
+- **`src/main.rs`** → Coordinamento delle fasi del test (configurazione, iniezione guasti, sorting, analisi risultati).
 
-## Funzioni
+## **Requisiti**
+- **Libreria `simplelog`** per la registrazione dei log
 
-- **bubble_sort**: Ordina un array di valori `Redundant<i32>`, verificando la presenza di guasti durante il processo.
-- **fault_injector**: Inietta guasti nell'array a indici specificati dopo un ritardo.
-- **generate_faults**: Crea un elenco di guasti casuali da iniettare nell'array.
-- **inject_fault**: Inverte un bit specifico nel valore duplicato di una variabile `Redundant`.
-- **generate_random_array**: Genera un array di `Redundant<i32>` con valori casuali.
+## **Installazione e Utilizzo**
+### **1. Clonare la repository**
+```bash
+git clone https://github.com/ProgrammazioneDiSistema2024-IA-ZZ/Group-27.git
+cd Group-27
+```
+
+### **2. Configurare i parametri**
+Modificare il file `config.toml` per impostare i parametri di test:
+```toml
+num_elements = 500
+num_faults = 5000
+max_bit_to_flip = 8
+fault_injection_time = 10
+```
+Dove fault_injection_time è in ms.
+
+### **3. Compilare ed eseguire il progetto**
+```bash
+cargo build
+cargo run
+```
+
+## **Output e Report**
+Dopo l'esecuzione, i risultati saranno disponibili nei file di output generati nella directory **`results/`**:
+- **`fault_injection.log`** → Log dettagliati dei test.
+- **`analyzer_report.txt`** → Statistiche sui fault rilevati e sull'efficacia della ridondanza.
+- **`memory_overhead_report.txt`** → Overhead di memoria.
+- **`cpu_time_overhead_report.txt`** → Overhead computazionale.
 
 
-## Barriere: Coordinamento dei Thread
+---
 
-Le barriere sono utilizzate per sincronizzare l'esecuzione dei thread, assicurandosi che ogni thread raggiunga un determinato punto nel programma prima di procedere ulteriormente. In questo caso, le barriere sono utilizzate per sincronizzare l'inizio dell'iniezione di guasti e l'esecuzione del sorting.
-
-Nel codice:
-
-`let start_barrier = Arc::new(Barrier::new(2)); // Barriera per sincronizzazione tra thread`
-
-    `Barrier::new(2)` crea una barriera che richiede che due thread (nel tuo caso, l'iniettore di guasti e il thread di ordinamento) raggiungano la barriera prima di proseguire. Ogni thread che utilizza la barriera deve invocare start_barrier.wait(), che sospende l'esecuzione del thread fino a quando tutti i thread in attesa hanno raggiunto il punto di sincronizzazione.
-
-### Funzionamento della barriera:
-
-    Iniettore di Guasti: Quando il thread dell'iniettore di guasti raggiunge il punto in cui deve avvenire l'iniezione, invoca `start_barrier.wait()`. Questo fa sì che l'iniettore aspetti finché il thread che esegue l'ordinamento non è pronto.
-
-    Thread di Ordinamento (Bubble Sort): Anche il thread che esegue l'ordinamento deve raggiungere `start_barrier.wait()`, quindi sospenderà la sua esecuzione finché l'iniettore non sarà pronto. Dopo che entrambi i thread hanno raggiunto la barriera, possono proseguire insieme, avviando simultaneamente l'iniezione di guasti e l'ordinamento.
-
-Questa sincronizzazione assicura che il guasto venga iniettato esattamente mentre il sorting è in corso.

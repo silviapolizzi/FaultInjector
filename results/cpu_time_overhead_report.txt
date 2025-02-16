@@ -1,4 +1,4 @@
-Number of elements: 10000
-CPU time with redundancy: 2.515625s
-CPU time without redundancy: 1s
-CPU time overhead: 1.515625s
+Number of elements: 5000
+CPU time with redundancy: 609.375ms
+CPU time without redundancy: 234.375ms
+CPU time overhead: 375ms

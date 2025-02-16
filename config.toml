@@ -1,4 +1,4 @@
-num_elements= 100
-num_faults= 10000
+num_elements= 500
+num_faults= 5000
 max_bit_to_flip= 8
 fault_injection_time= 10
