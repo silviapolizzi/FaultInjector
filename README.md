@@ -1,5 +1,5 @@
 # GROUP 27
-# **Fault Injection System for Redundant Application**
+# **Sistema di Fault-Injection per Applicazione Ridondata **
 
 ## **Descrizione**
 Questo progetto implementa un sistema di fault injection per valutare la resilienza di un'applicazione che utilizza variabili ridondate. Il sistema introduce guasti di tipo bit-flip in un array di numeri interi e analizza il loro effetto sull'algoritmo di Bubble Sort, misurando la capacità del meccanismo di ridondanza nel rilevare e gestire gli errori.
