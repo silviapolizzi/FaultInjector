@@ -1,4 +1,3 @@
-# GROUP 27
 # **Sistema di Fault-Injection per Applicazione Ridondata**
 
 ## **Descrizione**
